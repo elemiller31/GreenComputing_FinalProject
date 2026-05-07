@@ -1,0 +1,1025 @@
+,Entity ID,Entity Name,Plant ID,Plant Name,Plant State,County,Balancing Authority Code,Sector,Generator ID,Nameplate Capacity (MW),Net Summer Capacity (MW),Net Winter Capacity (MW),Technology,Status,Latitude,Longitude
+8715,60246,"Sunray Energy 2, LLC",10437,Sunray 2,CA,San Bernardino,CISO,IPP Non-CHP,SUN2,20,20,18.5,Solar Photovoltaic,(OP) Operating,34.863356,-116.8276
+8716,60247,Sunray Energy 3 LLC,10438,Sunray 3,CA,San Bernardino,CISO,IPP Non-CHP,SUN3,13.8,13.8,13.8,Solar Photovoltaic,(OP) Operating,34.863356,-116.8276
+8717,61950,Terra-Gen Operating Co-Solar,10444,"Lockhart Solar PV, LLC",CA,San Bernardino,CISO,IPP Non-CHP,LOC1,100.4,85,85,Solar Photovoltaic,(OP) Operating,35.0308,-117.3563
+9194,16625,San Diego State University,50061,San Diego State University,CA,San Diego,CISO,Commercial CHP,GEN5,0.1,0.1,0.1,Solar Photovoltaic,(OP) Operating,32.778225,-117.0701
+9195,16625,San Diego State University,50061,San Diego State University,CA,San Diego,CISO,Commercial CHP,GEN6,0.3,0.3,0.2,Solar Photovoltaic,(OP) Operating,32.778225,-117.0701
+9196,16625,San Diego State University,50061,San Diego State University,CA,San Diego,CISO,Commercial CHP,GEN7,0.3,0.3,0.2,Solar Photovoltaic,(OP) Operating,32.778225,-117.0701
+9197,16625,San Diego State University,50061,San Diego State University,CA,San Diego,CISO,Commercial CHP,GEN8,0.1,0.1,0.1,Solar Photovoltaic,(OP) Operating,32.778225,-117.0701
+9199,22142,University of California Santa Cruz,50064,University of California Santa Cruz,CA,Santa Cruz,CISO,Commercial CHP,004,0.2,0.2,0.1,Solar Photovoltaic,(OP) Operating,36.9997,-122.0622
+9201,22142,University of California Santa Cruz,50064,University of California Santa Cruz,CA,Santa Cruz,CISO,Commercial CHP,246,1.8,1.8,1.8,Solar Photovoltaic,(OP) Operating,36.9997,-122.0622
+14180,55961,CalRenew-1 LLC,56768,CalRenew-1,CA,Fresno,CISO,IPP Non-CHP,CR1,5,5,5,Solar Photovoltaic,(OP) Operating,36.7575,-120.3658
+14233,56028,MMA Fresno Power LP,56813,CSU Fresno Solar Project,CA,Fresno,CISO,IPP Non-CHP,1,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.809841,-119.7417
+14234,56028,MMA Fresno Power LP,56813,CSU Fresno Solar Project,CA,Fresno,CISO,IPP Non-CHP,2,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.809841,-119.7417
+14235,56027,MMA LA Power LP,56814,ELACC Photovoltaic Power Facility,CA,Los Angeles,CISO,IPP Non-CHP,PV1,0.5,0.4,0.3,Solar Photovoltaic,(OP) Operating,34.040278,-118.1481
+14236,56027,MMA LA Power LP,56814,ELACC Photovoltaic Power Facility,CA,Los Angeles,CISO,IPP Non-CHP,PV2,0.5,0.4,0.3,Solar Photovoltaic,(OP) Operating,34.040278,-118.1481
+14291,56105,MMA WBF Power LP,56862,Bolthouse S&P and Rowen Farms Solar,CA,Los Angeles,CISO,IPP Non-CHP,1,0.3,0.3,0.3,Solar Photovoltaic,(OP) Operating,34.5644,-117.6933
+14292,56105,MMA WBF Power LP,56862,Bolthouse S&P and Rowen Farms Solar,CA,Los Angeles,CISO,IPP Non-CHP,2,0.3,0.3,0.3,Solar Photovoltaic,(OP) Operating,34.5644,-117.6933
+14293,56105,MMA WBF Power LP,56862,Bolthouse S&P and Rowen Farms Solar,CA,Los Angeles,CISO,IPP Non-CHP,3,0.3,0.3,0.3,Solar Photovoltaic,(OP) Operating,34.5644,-117.6933
+14294,56105,MMA WBF Power LP,56862,Bolthouse S&P and Rowen Farms Solar,CA,Los Angeles,CISO,IPP Non-CHP,4,0.3,0.3,0.3,Solar Photovoltaic,(OP) Operating,34.5644,-117.6933
+14309,57170,"EDF Renewable Asset Holdings, Inc.",56875,Sacramento Soleil LLC,CA,Sacramento,BANC,IPP Non-CHP,TBD,1,1,1,Solar Photovoltaic,(OP) Operating,38.44979,-121.1647
+14370,61944,MN8 Energy LLC,56909,Gap Pacific Distribution Center,CA,Fresno,CISO,Commercial Non-CHP,1,0.6,0.3,0.3,Solar Photovoltaic,(OP) Operating,36.806476,-121.7745
+14371,61944,MN8 Energy LLC,56909,Gap Pacific Distribution Center,CA,Fresno,CISO,Commercial Non-CHP,2,0.6,0.3,0.3,Solar Photovoltaic,(OP) Operating,36.806476,-121.7745
+14372,61944,MN8 Energy LLC,56909,Gap Pacific Distribution Center,CA,Fresno,CISO,Commercial Non-CHP,3,0.6,0.3,0.3,Solar Photovoltaic,(OP) Operating,36.806476,-121.7745
+14373,61944,MN8 Energy LLC,56909,Gap Pacific Distribution Center,CA,Fresno,CISO,Commercial Non-CHP,4,0.6,0.3,0.3,Solar Photovoltaic,(OP) Operating,36.806476,-121.7745
+14382,56167,"Imperial Valley Solar, LLC",56917,"Imperial Valley Solar, LLC",CA,Imperial,CISO,IPP Non-CHP,1,101,101,101,Solar Photovoltaic,(OP) Operating,32.671099,-115.5873
+14383,56167,"Imperial Valley Solar, LLC",56917,"Imperial Valley Solar, LLC",CA,Imperial,CISO,IPP Non-CHP,1A,64.6,64.6,64.6,Solar Photovoltaic,(OP) Operating,32.671099,-115.5873
+14384,56167,"Imperial Valley Solar, LLC",56917,"Imperial Valley Solar, LLC",CA,Imperial,CISO,IPP Non-CHP,1B,34.3,34.3,34.3,Solar Photovoltaic,(OP) Operating,32.671099,-115.5873
+14406,59399,NRG Solar Blythe,56939,Solar Blythe LLC,CA,Riverside,CISO,IPP Non-CHP,1,21,21,21,Solar Photovoltaic,(OP) Operating,33.5917,-114.7444
+14522,56294,SunE WG113 Moreno Valley LLC,57004,SunEdison Walgreens Moreno Valley,CA,Riverside,CISO,IPP Non-CHP,1,1,0.9,0.9,Solar Photovoltaic,(OP) Operating,33.8672,-117.23
+14523,56431,SunE U6 Holdings LLC,57005,Mariani Packing Vacaville Solar,CA,Solano,CISO,IPP Non-CHP,1,1,0.9,0.9,Solar Photovoltaic,(OP) Operating,38.40008,-121.9637
+14524,56296,SunE WG45 Woodland LLC,57006,Walgreens Woodland Distribution Center,CA,Yolo,CISO,IPP Non-CHP,1,1,0.9,0.9,Solar Photovoltaic,(OP) Operating,38.674894,-121.7134
+14525,56297,SunE CPA CDC2 LLC,57007,SunEdison Ironwood State Prison,CA,Riverside,CISO,IPP Non-CHP,1,1,0.9,0.9,Solar Photovoltaic,(OP) Operating,33.567268,-114.918
+14526,56431,SunE U6 Holdings LLC,57008,SunEdison Procter & Gamble Oxnard,CA,Ventura,CISO,IPP Non-CHP,1,1,0.8,0.8,Solar Photovoltaic,(OP) Operating,34.2089,-119.13
+14527,65923,"SunE WF3 KHL A Holdings, LLC",57009,Kohls San Bernardino Solar Facility,CA,San Bernardino,CISO,IPP Non-CHP,1,1,0.9,0.9,Solar Photovoltaic,(OP) Operating,34.094695,-117.2668
+14528,56434,SunE M5 Holdings LLC,57010,SunEdison Anheuser Busch Fairfield,CA,Solano,CISO,IPP Non-CHP,1,1,0.9,0.9,Solar Photovoltaic,(OP) Operating,38.232108,-122.0927
+14529,56302,SunE CPA CDC1 LLC,57011,Chuckawalla Valley State Prison,CA,Riverside,CISO,IPP Non-CHP,1,1,0.9,0.9,Solar Photovoltaic,(OP) Operating,33.565329,-114.9036
+14530,56434,SunE M5 Holdings LLC,57012,SunEdison Walmart Apple Valley DC,CA,San Bernardino,CISO,IPP Non-CHP,1,1,0.9,0.9,Solar Photovoltaic,(OP) Operating,34.5975,-117.2
+14625,14328,Pacific Gas & Electric Co.,57041,Vaca Dixon Solar Station,CA,Solano,CISO,Electric Utility,1,2,2,2,Solar Photovoltaic,(OP) Operating,38.4106,-121.9264
+14882,56618,Victor Valley Community College District,57254,Victor Valley CC CPV Solar,CA,San Bernardino,CISO,Commercial Non-CHP,1PV,1,1,1,Solar Photovoltaic,(OP) Operating,34.48017,-117.2579
+14917,64617,Alpine BESS LLC,57295,Alpine Solar,CA,Los Angeles,CISO,IPP Non-CHP,1,66,66,66,Solar Photovoltaic,(OP) Operating,34.7892,-118.5047
+14945,11208,Los Angeles Department of Water & Power,57305,Adelanto Solar Project,CA,San Bernardino,LDWP,Electric Utility,1,6.8,6.8,6.8,Solar Photovoltaic,(OP) Operating,34.550833,-117.4353
+14946,11208,Los Angeles Department of Water & Power,57306,Pine Tree Solar Project,CA,Kern,LDWP,Electric Utility,1,8.5,8.5,8.5,Solar Photovoltaic,(OP) Operating,35.229635,-118.1957
+14947,11208,Los Angeles Department of Water & Power,57308,Maclay Solar Project,CA,Los Angeles,LDWP,Electric Utility,1,2,1.8,1.1,Solar Photovoltaic,(OP) Operating,34.319722,-118.4308
+14949,59551,Occidental College,57311,Occidental College Solar Project,CA,Los Angeles,LDWP,Commercial Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,34.1283,-118.2069
+14950,57275,Los Angeles County Metropolitan Transportation Authority,57313,Metro Support Services Center Solar,CA,Los Angeles,LDWP,Commercial Non-CHP,1,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,34.0578,-118.2297
+14951,57276,Los Angeles Community College District,57314,Los Angeles Harbor College,CA,Los Angeles,LDWP,Commercial Non-CHP,1,1.2,2.2,2.2,Solar Photovoltaic,(OP) Operating,33.783102,-118.2849
+14974,56769,Consolidated Edison Development Inc.,57340,Panoche Valley Solar Farm,CA,San Benito,CISO,IPP Non-CHP,1,140,140,140,Solar Photovoltaic,(OP) Operating,36.627,-120.879
+15008,56700,Avenal Solar Holdings LLC,57359,Avenal Park,CA,Kings,CISO,IPP Non-CHP,1,6,6,6,Solar Photovoltaic,(OP) Operating,35.989722,-120.11
+15009,56700,Avenal Solar Holdings LLC,57360,Sun City Project LLC,CA,Kings,CISO,IPP Non-CHP,1,20,20,20,Solar Photovoltaic,(OP) Operating,35.983056,-120.1103
+15010,56700,Avenal Solar Holdings LLC,57361,Sand Drag LLC,CA,Kings,CISO,IPP Non-CHP,1,19,19,19,Solar Photovoltaic,(OP) Operating,35.982778,-120.1103
+15032,56722,AV Solar Ranch 1 LLC,57378,AV Solar Ranch One,CA,Los Angeles,CISO,IPP Non-CHP,AVSR,253,241.5,241.5,Solar Photovoltaic,(OP) Operating,34.780278,-118.4244
+15085,56751,Yolo County of,57422,Yolo County Solar Project,CA,Yolo,CISO,Commercial Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,38.659722,-121.7294
+15102,64536,Clearway Energy Operating LLC,57439,California Valley Solar Ranch,CA,San Luis Obispo,CISO,IPP Non-CHP,HPR2,32.3,32.3,32.3,Solar Photovoltaic,(OP) Operating,35.323739,-119.9166
+15103,64536,Clearway Energy Operating LLC,57439,California Valley Solar Ranch,CA,San Luis Obispo,CISO,IPP Non-CHP,HPR2A,21,21,21,Solar Photovoltaic,(OP) Operating,35.323739,-119.9166
+15104,64536,Clearway Energy Operating LLC,57439,California Valley Solar Ranch,CA,San Luis Obispo,CISO,IPP Non-CHP,HPR2B,86.5,86.5,86.5,Solar Photovoltaic,(OP) Operating,35.323739,-119.9166
+15105,64536,Clearway Energy Operating LLC,57439,California Valley Solar Ranch,CA,San Luis Obispo,CISO,IPP Non-CHP,HPR2C,70,70,70,Solar Photovoltaic,(OP) Operating,35.323739,-119.9166
+15106,64536,Clearway Energy Operating LLC,57439,California Valley Solar Ranch,CA,San Luis Obispo,CISO,IPP Non-CHP,HPR2D,40,40,40,Solar Photovoltaic,(OP) Operating,35.323739,-119.9166
+15107,17609,Southern California Edison Co,57441,Solar Photovoltaic Project #42,CA,Tulare,CISO,Electric Utility,S42A,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.028056,-119.0747
+15108,17609,Southern California Edison Co,57441,Solar Photovoltaic Project #42,CA,Tulare,CISO,Electric Utility,S42B,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.028056,-119.0747
+15109,17609,Southern California Edison Co,57441,Solar Photovoltaic Project #42,CA,Tulare,CISO,Electric Utility,S42C,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.028056,-119.0747
+15110,17609,Southern California Edison Co,57441,Solar Photovoltaic Project #42,CA,Tulare,CISO,Electric Utility,S42D,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.028056,-119.0747
+15111,17609,Southern California Edison Co,57441,Solar Photovoltaic Project #42,CA,Tulare,CISO,Electric Utility,S42E,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.028056,-119.0747
+15112,17609,Southern California Edison Co,57441,Solar Photovoltaic Project #42,CA,Tulare,CISO,Electric Utility,S42F,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.028056,-119.0747
+15113,17609,Southern California Edison Co,57441,Solar Photovoltaic Project #42,CA,Tulare,CISO,Electric Utility,S42G,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.028056,-119.0747
+15114,17609,Southern California Edison Co,57441,Solar Photovoltaic Project #42,CA,Tulare,CISO,Electric Utility,S42H,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.028056,-119.0747
+15115,17609,Southern California Edison Co,57441,Solar Photovoltaic Project #42,CA,Tulare,CISO,Electric Utility,S42I,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.028056,-119.0747
+15116,17609,Southern California Edison Co,57441,Solar Photovoltaic Project #42,CA,Tulare,CISO,Electric Utility,S42J,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.028056,-119.0747
+15139,57271,NRG Solar Borrego I,57455,Solar Borrego I,CA,San Diego,CISO,IPP Non-CHP,SB1,26,26,26,Solar Photovoltaic,(OP) Operating,33.298889,-116.3508
+15190,56819,CSOLAR IV South LLC,57490,Imperial Solar Energy Center South,CA,Imperial,CISO,IPP Non-CHP,56819,128.9,128.9,128.9,Solar Photovoltaic,(OP) Operating,32.663289,-115.6583
+15191,57260,CSOLAR IV West LLC,57491,Imperial Solar Energy Center West,CA,Imperial,CISO,IPP Non-CHP,56819,148.7,148.7,148.7,Solar Photovoltaic,(OP) Operating,32.772225,-115.7793
+15196,14328,Pacific Gas & Electric Co.,57497,Stroud Solar Station,CA,Fresno,CISO,Electric Utility,1,20,20,20,Solar Photovoltaic,(OP) Operating,36.531389,-120.1069
+15197,14328,Pacific Gas & Electric Co.,57498,Five Points Solar Station,CA,Fresno,CISO,Electric Utility,1,15,15,15,Solar Photovoltaic,(OP) Operating,36.400278,-120.1033
+15198,14328,Pacific Gas & Electric Co.,57499,Westside Solar Station,CA,Fresno,CISO,Electric Utility,1,15,15,15,Solar Photovoltaic,(OP) Operating,36.378726,-120.1249
+15207,65924,"FRV SI Transport Solar, L.P. (Sacremento)",57506,FRV SI Transport Solar LP,CA,Sacramento,CISO,IPP Non-CHP,SEIM,1,1,1,Solar Photovoltaic,(OP) Operating,38.4869,-121.3911
+15218,14328,Pacific Gas & Electric Co.,57521,Giffen,CA,Fresno,CISO,Electric Utility,1,10,10,10,Solar Photovoltaic,(OP) Operating,36.530278,-120.3161
+15219,14328,Pacific Gas & Electric Co.,57522,Cantua Solar Station,CA,Fresno,CISO,Electric Utility,1,20,20,20,Solar Photovoltaic,(OP) Operating,36.425085,-120.3435
+15220,14328,Pacific Gas & Electric Co.,57523,Huron Solar Station,CA,Fresno,CISO,Electric Utility,1,20,20,20,Solar Photovoltaic,(OP) Operating,36.181389,-120.0306
+15239,65411,Duke Energy Renewables Services,57559,Sunset Reservoir North Basin,CA,San Francisco,CISO,IPP Non-CHP,1,4.5,4.5,4.5,Solar Photovoltaic,(OP) Operating,37.750894,-122.4818
+15264,17573,South San Joaquin Irr District,57579,Robert O Schulz Solar Farm,CA,Stanislaus,CISO,Electric Utility,1,0.9,0.9,0.4,Solar Photovoltaic,(OP) Operating,37.8583,-120.8917
+15265,17573,South San Joaquin Irr District,57579,Robert O Schulz Solar Farm,CA,Stanislaus,CISO,Electric Utility,2,0.4,0.4,0.2,Solar Photovoltaic,(OP) Operating,37.8583,-120.8917
+15268,56917,Broadridge Customer Communications,57580,Broadridge Cogen,CA,El Dorado,CISO,IPP CHP,PV1,0.5,0.3,0.2,Solar Photovoltaic,(OP) Operating,38.6183,-121.0564
+15269,56917,Broadridge Customer Communications,57580,Broadridge Cogen,CA,El Dorado,CISO,IPP CHP,PV2,0.5,0.5,0.3,Solar Photovoltaic,(OP) Operating,38.6183,-121.0564
+15344,56980,"Regulus Solar, LLC",57650,Regulus Solar Project,CA,Kern,CISO,IPP Non-CHP,FRV4,60,60,60,Solar Photovoltaic,(OP) Operating,35.3,-118.8519
+15345,17650,Southern Power Co,57651,Adobe Solar,CA,KERN,CISO,IPP Non-CHP,FRV3,20,20,20,Solar Photovoltaic,(OP) Operating,35.102778,-118.9544
+15349,56982,Kern Community College District,57655,Bakersfield College Solar 01,CA,Kern,CISO,Commercial Non-CHP,BC01,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,35.411817,-118.9686
+15350,56984,"Temescal Canyon RV, LLC",57656,"Temescal Canyon RV, LLC",CA,Riverside,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,33.826389,-117.5117
+15385,56995,"Sacramento PV Energy, LLC",57669,SMUD at Grundman,CA,Sacramento,BANC,IPP Non-CHP,PV1,17,18,17,Solar Photovoltaic,(OP) Operating,38.364722,-121.4128
+15386,56995,"Sacramento PV Energy, LLC",57670,SMUD at Van Conett,CA,Sacramento,BANC,IPP Non-CHP,PV1,2.9,2.9,2.9,Solar Photovoltaic,(OP) Operating,38.253056,-121.2789
+15387,56995,"Sacramento PV Energy, LLC",57671,SMUD at Fleshman,CA,Sacramento,BANC,IPP Non-CHP,PV1,2.9,2.9,2.9,Solar Photovoltaic,(OP) Operating,38.237778,-121.3375
+15402,57006,"SunE GIL1, LLC",57682,City of Madera WWTP,CA,Madera,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,36.9408,-120.1572
+15403,57007,"SunE WF3-ST Holdings, LLC",57683,"Staples La Mirada, CA",CA,Los Angeles,CISO,IPP Non-CHP,1,1.1,0.9,0.9,Solar Photovoltaic,(OP) Operating,33.881667,-118.0175
+15411,59874,Topaz Solar Farms LLC,57695,Topaz Solar Farm,CA,San Luis Obispo,CISO,IPP Non-CHP,TPZ1,129.8,129.8,129.8,Solar Photovoltaic,(OP) Operating,35.405556,-120.0686
+15412,59874,Topaz Solar Farms LLC,57695,Topaz Solar Farm,CA,San Luis Obispo,CISO,IPP Non-CHP,TPZ2,151.2,151.2,151.2,Solar Photovoltaic,(OP) Operating,35.405556,-120.0686
+15413,59874,Topaz Solar Farms LLC,57695,Topaz Solar Farm,CA,San Luis Obispo,CISO,IPP Non-CHP,TPZ3,102.1,102.1,102.1,Solar Photovoltaic,(OP) Operating,35.405556,-120.0686
+15414,59874,Topaz Solar Farms LLC,57695,Topaz Solar Farm,CA,San Luis Obispo,CISO,IPP Non-CHP,TPZ4,90.3,90.3,90.3,Solar Photovoltaic,(OP) Operating,35.405556,-120.0686
+15415,59874,Topaz Solar Farms LLC,57695,Topaz Solar Farm,CA,San Luis Obispo,CISO,IPP Non-CHP,TPZ5,112.5,112.5,112.5,Solar Photovoltaic,(OP) Operating,35.405556,-120.0686
+15417,60281,"Altus Power America Management, LLC",57697,Aerojet I,CA,Sacramento,BANC,IPP Non-CHP,1,3,3,3,Solar Photovoltaic,(OP) Operating,38.613508,-121.1629
+15418,60281,"Altus Power America Management, LLC",57698,Aerojet II,CA,Sacramento,BANC,IPP Non-CHP,1,2.2,2.2,2.2,Solar Photovoltaic,(OP) Operating,38.6086,-121.1703
+15441,57170,"EDF Renewable Asset Holdings, Inc.",57708,Catalina Solar LLC,CA,Kern,CISO,IPP Non-CHP,INV,110,110,110,Solar Photovoltaic,(OP) Operating,34.938261,-118.3345
+15449,60025,Greenbacker Renewable Energy Corporation,57722,North Palm Springs 4A,CA,Riverside,CISO,IPP Non-CHP,1,4,4,4,Solar Photovoltaic,(OP) Operating,33.909722,-116.5625
+15465,60025,Greenbacker Renewable Energy Corporation,57743,North Palm Springs 1A,CA,Riverside,CISO,IPP Non-CHP,1,2.5,2.4,2.4,Solar Photovoltaic,(OP) Operating,33.924167,-116.5933
+15479,56995,"Sacramento PV Energy, LLC",57753,SMUD at Lawrence,CA,Sacramento,BANC,IPP Non-CHP,PV1,1,1,1,Solar Photovoltaic,(OP) Operating,38.338868,-121.4313
+15490,61944,MN8 Energy LLC,57764,Naval Air Weapons Station China Lake,CA,Kern,CISO,Commercial Non-CHP,1,11.1,11.1,11.1,Solar Photovoltaic,(OP) Operating,35.68771,-117.6814
+15502,65242,"Scale Sustainable I, LLC",57773,Palo Verde College,CA,Riverside,CISO,Commercial Non-CHP,1,1.2,1,1,Solar Photovoltaic,(OP) Operating,33.661667,-114.6517
+15507,61944,MN8 Energy LLC,57777,RE Dillard 1 LLC,CA,Sacramento,BANC,IPP Non-CHP,DL1,3,3,3,Solar Photovoltaic,(OP) Operating,38.468611,-121.1819
+15508,61944,MN8 Energy LLC,57778,RE Kammerer 1 LLC,CA,Sacramento,BANC,IPP Non-CHP,KAM1,5,5,5,Solar Photovoltaic,(OP) Operating,38.365053,-121.3811
+15509,61944,MN8 Energy LLC,57779,RE Dillard 2 LLC,CA,Sacramento,BANC,IPP Non-CHP,DIL2,3,3,3,Solar Photovoltaic,(OP) Operating,38.466111,-121.1778
+15510,61944,MN8 Energy LLC,57780,RE Kammerer 2 LLC,CA,Sacramento,BANC,IPP Non-CHP,KAM2,5,5,5,Solar Photovoltaic,(OP) Operating,38.365053,-121.3811
+15511,61944,MN8 Energy LLC,57781,RE Dillard 3 LLC,CA,Sacramento,BANC,IPP Non-CHP,DIL3,3,3,3,Solar Photovoltaic,(OP) Operating,38.461944,-121.1803
+15512,61944,MN8 Energy LLC,57782,RE Kammerer 3 LLC,CA,Sacramento,BANC,IPP Non-CHP,KAM3,5,5,5,Solar Photovoltaic,(OP) Operating,38.365053,-121.3811
+15513,61944,MN8 Energy LLC,57783,RE Bruceville 1 LLC,CA,Sacramento,BANC,IPP Non-CHP,BRU1,5,5,5,Solar Photovoltaic,(OP) Operating,38.3475,-121.4128
+15514,61944,MN8 Energy LLC,57784,RE Bruceville 2 LLC,CA,Sacramento,BANC,IPP Non-CHP,BRU2,5,5,5,Solar Photovoltaic,(OP) Operating,38.3475,-121.4128
+15515,61944,MN8 Energy LLC,57785,RE Bruceville 3 LLC,CA,Sacramento,BANC,IPP Non-CHP,BRU3,5,5,5,Solar Photovoltaic,(OP) Operating,38.3475,-121.4128
+15529,57104,Golden Springs Development Company LLC,57796,Golden Springs Building C-1,CA,Los Angeles,CISO,IPP Non-CHP,1,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,33.914167,-118.0536
+15530,57104,Golden Springs Development Company LLC,57797,Golden Springs Building D,CA,Los Angeles,CISO,IPP Non-CHP,1,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,33.911944,-118.0522
+15540,61944,MN8 Energy LLC,57806,RE Dillard 4 LLC,CA,Sacramento,BANC,IPP Non-CHP,DIL4,0.4,0.4,0.4,Solar Photovoltaic,(OP) Operating,38.461944,-121.1803
+15547,61944,MN8 Energy LLC,57816,RE McKenzie 1 LLC,CA,Sacramento,BANC,IPP Non-CHP,MCK1,5,5,5,Solar Photovoltaic,(OP) Operating,38.302594,-121.2958
+15548,61944,MN8 Energy LLC,57817,RE McKenzie 2 LLC,CA,Sacramento,BANC,IPP Non-CHP,MCK2,5,5,5,Solar Photovoltaic,(OP) Operating,38.302594,-121.2958
+15549,61944,MN8 Energy LLC,57818,RE McKenzie 3 LLC,CA,Sacramento,BANC,IPP Non-CHP,MCK3,5,5,5,Solar Photovoltaic,(OP) Operating,38.302594,-121.2958
+15550,61944,MN8 Energy LLC,57819,RE McKenzie 4 LLC,CA,Sacramento,BANC,IPP Non-CHP,MCK4,5,5,5,Solar Photovoltaic,(OP) Operating,38.302594,-121.2958
+15551,61944,MN8 Energy LLC,57820,RE McKenzie 5 LLC,CA,Sacramento,BANC,IPP Non-CHP,MCK5,5,5,5,Solar Photovoltaic,(OP) Operating,38.302594,-121.2958
+15552,61944,MN8 Energy LLC,57821,RE McKenzie 6 LLC,CA,Sacramento,BANC,IPP Non-CHP,MCK6,5,5,5,Solar Photovoltaic,(OP) Operating,38.302594,-121.2958
+15556,61012,AES Distributed Energy,57827,Dinuba Wastewater Treatment Plant,CA,Tulare,CISO,Commercial Non-CHP,DSPV,1,1,1,Solar Photovoltaic,(OP) Operating,36.538056,-119.4264
+15560,57154,Heliocentric LLC,57831,Heliocentric,CA,Los Angeles,CISO,IPP Non-CHP,1,1.5,1.3,1.5,Solar Photovoltaic,(OP) Operating,34.65434,-117.971
+15565,57159,L-8 Solar Project LLC,57836,L-8 Solar Project,CA,Los Angeles,CISO,IPP Non-CHP,TSM,1.5,1.3,1.5,Solar Photovoltaic,(OP) Operating,34.654347,-117.9731
+15571,59139,SunEdison LLC,57840,ISH Solar Hospital SDMC,CA,San Diego,CISO,IPP Non-CHP,1,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,32.791667,-117.0953
+15572,59139,SunEdison LLC,57841,ISH Solar Hospital Downey,CA,Los Angeles,CISO,IPP Non-CHP,1,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,33.921667,-118.1244
+15576,57177,"SIT Renewables, Inc.",57849,Green Acres Solar Facility 1,CA,Sacramento,BANC,IPP Non-CHP,GASF1,3,2.8,2,Solar Photovoltaic,(OP) Operating,38.282021,-121.4647
+15577,57177,"SIT Renewables, Inc.",57850,Green Acres Solar Facility 2,CA,Sacramento,BANC,IPP Non-CHP,GASF2,1,0.9,0.7,Solar Photovoltaic,(OP) Operating,38.28357,-121.4613
+15582,56918,University of California San Diego,57856,Univ of California San Diego Solar,CA,San Diego,CISO,Commercial Non-CHP,SGU1,1,1,1,Solar Photovoltaic,(OP) Operating,32.874379,-117.2389
+15585,57194,City of Industry,57860,Industry MetroLink PV 1,CA,Los Angeles,CISO,Electric Utility,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.008661,-117.8456
+15623,57213,Castle Rock Cooling,57870,Castle Rock Vineyards,CA,Tulare,CISO,Commercial Non-CHP,SOLAR,1,1,1,Solar Photovoltaic,(OP) Operating,35.801111,-119.1106
+15624,11208,Los Angeles Department of Water & Power,57871,2555 E Olympic Bl,CA,Los Angeles,LDWP,Commercial Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,34.026944,-118.2242
+15665,14328,Pacific Gas & Electric Co.,57891,Guernsey Solar Station,CA,Kings,CISO,Electric Utility,1,20,20,20,Solar Photovoltaic,(OP) Operating,36.163889,-119.6506
+15666,14328,Pacific Gas & Electric Co.,57892,Gates Solar Station,CA,Fresno,CISO,Electric Utility,1,20,20,20,Solar Photovoltaic,(OP) Operating,36.176389,-120.1142
+15668,57262,Kern County Water Agency,57895,Improvement Dst No. 4,CA,Kern,CISO,Commercial Non-CHP,ID4,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,35.402778,-119.0386
+15691,57273,SS San Antonio West LLC,57904,San Antonio West Solar Rooftop,CA,Riverside,CISO,IPP Non-CHP,CHNO,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,33.965617,-117.6591
+15723,58101,Solar Star California II LLC,57933,Solar Star California II LLC,CA,Sacramento,BANC,IPP Non-CHP,1,2,2,2,Solar Photovoltaic,(OP) Operating,38.516389,-121.4753
+15752,49893,Invenergy Services LLC,57959,Desert Green Solar Farm LLC,CA,San Diego,CISO,IPP Non-CHP,1,6.3,6.3,6.3,Solar Photovoltaic,(OP) Operating,33.27055,-116.3481
+15760,57345,Butte-Glenn Community College District,57970,Butte College Main Campus Solar,CA,Butte,CISO,Commercial Non-CHP,SOL1,3.5,3.6,3.5,Solar Photovoltaic,(OP) Operating,39.648056,-121.6442
+15773,65432,CVI CleanCapital Solar 1 LLC,57982,Meridian Vineyards,CA,San Luis Obispo,CISO,IPP Non-CHP,PV-1,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,35.670278,-120.5669
+15774,65432,CVI CleanCapital Solar 1 LLC,57982,Meridian Vineyards,CA,San Luis Obispo,CISO,IPP Non-CHP,PV-2,0.6,0.6,0.6,Solar Photovoltaic,(OP) Operating,35.670278,-120.5669
+15791,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL1,40.3,40.3,40.3,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15792,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL10,30.2,30.2,30.2,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15793,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL11,20.2,20.2,20.2,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15794,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL2,40.3,40.3,40.3,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15795,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL3,40.3,40.3,40.3,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15796,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL4,30.2,30.2,30.2,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15797,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL5,25.2,25.2,25.2,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15798,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL6,25.2,25.2,25.2,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15799,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL7,20.2,20.2,20.2,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15800,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL8,18.9,18.9,18.9,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15801,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,"Desert Sunlight 300, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL9,22.7,22.7,22.7,Solar Photovoltaic,(OP) Operating,33.823056,-115.3939
+15818,56769,Consolidated Edison Development Inc.,58002,Alpaugh North,CA,Tulare,CISO,IPP Non-CHP,SPS,20,20,20,Solar Photovoltaic,(OP) Operating,35.9025,-119.4428
+15819,56769,Consolidated Edison Development Inc.,58003,Alpaugh 50,CA,Tulare,CISO,IPP Non-CHP,SPS50,50,50,50,Solar Photovoltaic,(OP) Operating,35.898333,-119.4353
+15861,57389,IKEA Property Inc,58028,IKEA Tejon 345,CA,Kern,CISO,Commercial Non-CHP,PV,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.975278,-118.9469
+15865,60281,"Altus Power America Management, LLC",58034,Nickel 1 Solar Facility,CA,Kern,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,35.647295,-119.7165
+15870,60898,Axium US Solar Holdings LLC,58039,Axium Modesto Solar,CA,Stanislaus,CISO,IPP Non-CHP,1,25,25,25,Solar Photovoltaic,(OP) Operating,37.734167,-120.9956
+15899,63952,"Irwindale Brew Yard, LLC",58056,"Irwindale Brew Yard, LLC",CA,Los Angeles,CISO,Industrial Non-CHP,PV,2.5,0.8,0.8,Solar Photovoltaic,(OP) Operating,34.121667,-117.9383
+15905,9216,Imperial Irrigation District,58062,Imperial Valley Solar Company 1 LLC,CA,Imperial,IID,Electric Utility,0001,23,23,23,Solar Photovoltaic,(OP) Operating,33.245833,-115.4967
+15915,65432,CVI CleanCapital Solar 1 LLC,58073,SEPV 1,CA,Los Angeles,CISO,IPP Non-CHP,SEPV,2,2,2,Solar Photovoltaic,(OP) Operating,34.618861,-117.9394
+15916,65432,CVI CleanCapital Solar 1 LLC,58074,SEPV 2,CA,San Bernardino,CISO,IPP Non-CHP,SEPV,2,2,2,Solar Photovoltaic,(OP) Operating,34.174167,-116.1528
+15918,65164,CleanCapital Holdings,58076,Edwards Air Force Base,CA,Kern,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,34.9077,-117.9206
+15919,65164,CleanCapital Holdings,58076,Edwards Air Force Base,CA,Kern,CISO,IPP Non-CHP,2,1,1,1,Solar Photovoltaic,(OP) Operating,34.9077,-117.9206
+15920,65164,CleanCapital Holdings,58076,Edwards Air Force Base,CA,Kern,CISO,IPP Non-CHP,3,1,1,1,Solar Photovoltaic,(OP) Operating,34.9077,-117.9206
+15933,57313,Tesla Inc.,58086,Intel Folsom,CA,Sacramento,BANC,IPP Non-CHP,1,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,38.645119,-121.173
+15934,57313,Tesla Inc.,58086,Intel Folsom,CA,Sacramento,BANC,IPP Non-CHP,2,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,38.645119,-121.173
+15972,65432,CVI CleanCapital Solar 1 LLC,58118,La Joya Del Sol,CA,Fresno,CISO,IPP Non-CHP,JDS1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.678611,-119.7975
+15973,62034,Depot Park Solar Farm,58119,Depot Park Solar System,CA,Sacramento,BANC,IPP Non-CHP,DPSS,3,2.7,1,Solar Photovoltaic,(OP) Operating,38.515,-121.3983
+16010,58111,RE Kansas South LLC,58148,RE Kansas South LLC,CA,Kings,CISO,IPP Non-CHP,KS,20,20,20,Solar Photovoltaic,(OP) Operating,36.226111,-119.8342
+16011,58112,TA-High Desert LLC,58149,TA-High Desert LLC,CA,Los Angeles,CISO,IPP Non-CHP,TAHD,20,20,20,Solar Photovoltaic,(OP) Operating,34.708889,-118.3047
+16051,58104,California State University at Fullerton,58169,CSUF Trigeneration,CA,Orange,CISO,Commercial CHP,CPAC,0.3,0.3,0.3,Solar Photovoltaic,(OP) Operating,33.880638,-117.8866
+16052,58104,California State University at Fullerton,58169,CSUF Trigeneration,CA,Orange,CISO,Commercial CHP,KHS,0.3,0.3,0.3,Solar Photovoltaic,(OP) Operating,33.880638,-117.8866
+16053,58104,California State University at Fullerton,58169,CSUF Trigeneration,CA,Orange,CISO,Commercial CHP,NPS,2,2,2,Solar Photovoltaic,(OP) Operating,33.880638,-117.8866
+16054,58104,California State University at Fullerton,58169,CSUF Trigeneration,CA,Orange,CISO,Commercial CHP,PS4,0.3,0.3,0.3,Solar Photovoltaic,(OP) Operating,33.880638,-117.8866
+16055,58104,California State University at Fullerton,58169,CSUF Trigeneration,CA,Orange,CISO,Commercial CHP,PS5,0.4,0.4,0.4,Solar Photovoltaic,(OP) Operating,33.880638,-117.8866
+16056,58104,California State University at Fullerton,58169,CSUF Trigeneration,CA,Orange,CISO,Commercial CHP,SCPS,1,1,1,Solar Photovoltaic,(OP) Operating,33.880638,-117.8866
+16106,61944,MN8 Energy LLC,58202,RE Victor Phelan Solar One LLC,CA,San Bernardino,CISO,IPP Non-CHP,VPS1,20,20,20,Solar Photovoltaic,(OP) Operating,34.51231,-117.4775
+16108,56751,Yolo County of,58204,Grassland 3&4 Solar Project,CA,Yolo,CISO,IPP Non-CHP,INV3,2,2.5,1.5,Solar Photovoltaic,(OP) Operating,38.500278,-121.6942
+16110,14328,Pacific Gas & Electric Co.,58206,West Gates Solar Station,CA,Fresno,CISO,Electric Utility,1,10,10,10,Solar Photovoltaic,(OP) Operating,36.142222,-120.1325
+16132,56751,Yolo County of,58217,Grassland 1&2 Solar Project,CA,Yolo,CISO,IPP Non-CHP,INV4,2,2.5,1.5,Solar Photovoltaic,(OP) Operating,38.500278,-121.6942
+16145,58197,Newberry Solar 1 LLC,58226,Newberry Solar 1 LLC,CA,San Bernardino,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.853581,-116.6831
+16146,65411,Duke Energy Renewables Services,58227,SEPV9 Power Plant,CA,San Bernardino,CISO,IPP Non-CHP,SPV9,9,8.5,8.8,Solar Photovoltaic,(OP) Operating,34.192222,-116.0903
+16149,61012,AES Distributed Energy,58232,Tahquitz High School,CA,Riverside,CISO,Commercial Non-CHP,TAHQ,1,1,1,Solar Photovoltaic,(OP) Operating,33.767222,-117.0175
+16151,65411,Duke Energy Renewables Services,58234,SEPV 8,CA,San Bernardino,CISO,IPP Non-CHP,SPV8,12,11.8,11.8,Solar Photovoltaic,(OP) Operating,34.171944,-116.1525
+16165,61012,AES Distributed Energy,58244,West Valley High School Solar,CA,Riverside,CISO,Commercial Non-CHP,WEST,1,0.9,0.9,Solar Photovoltaic,(OP) Operating,33.719722,-117.0097
+16172,57276,Los Angeles Community College District,58248,Pierce College,CA,Los Angeles,LDWP,Commercial Non-CHP,GEN1,1.9,1.9,1.9,Solar Photovoltaic,(OP) Operating,34.183611,-118.5747
+16173,59553,VA Sepulveda Ambulatory Care Center,58249,VA Sepulveda Ambulatory Care Center,CA,Los Angeles,LDWP,Commercial Non-CHP,GEN1,4.4,3.5,3.5,Solar Photovoltaic,(OP) Operating,34.248889,-118.4833
+16178,63330,"Televison City Studios, LLC.",58253,CBS Television City,CA,Los Angeles,LDWP,Commercial Non-CHP,GEN1,1.6,1.6,1.6,Solar Photovoltaic,(OP) Operating,34.075,-118.36
+16205,58238,Enfinity NorCal 1 FAA LLC,58261,FAA NorCal TRACON,CA,Sacramento,BANC,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,38.559533,-121.2576
+16255,59455,"Venable Solar, LLC",58289,Venable Solar 1,CA,Riverside,CISO,IPP Non-CHP,VNPV,1.5,1.5,1.1,Solar Photovoltaic,(OP) Operating,33.598889,-114.5717
+16256,59455,"Venable Solar, LLC",58290,Venable Solar 2,CA,Riverside,CISO,IPP Non-CHP,VSPV,1.5,1.5,1.1,Solar Photovoltaic,(OP) Operating,33.597222,-114.5717
+16267,60281,"Altus Power America Management, LLC",58304,Kingsburg Solar,CA,Tulare,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.505278,-119.5403
+16268,60281,"Altus Power America Management, LLC",58304,Kingsburg Solar,CA,Tulare,CISO,IPP Non-CHP,2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.505278,-119.5403
+16269,60281,"Altus Power America Management, LLC",58304,Kingsburg Solar,CA,Tulare,CISO,IPP Non-CHP,3,0.7,0.7,0.7,Solar Photovoltaic,(OP) Operating,36.505278,-119.5403
+16271,60281,"Altus Power America Management, LLC",58306,Exeter Solar,CA,Tulare,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,36.2675,-119.1286
+16272,60281,"Altus Power America Management, LLC",58306,Exeter Solar,CA,Tulare,CISO,IPP Non-CHP,2,1,1,1,Solar Photovoltaic,(OP) Operating,36.2675,-119.1286
+16273,60281,"Altus Power America Management, LLC",58306,Exeter Solar,CA,Tulare,CISO,IPP Non-CHP,3,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.2675,-119.1286
+16274,60281,"Altus Power America Management, LLC",58307,Ivanhoe Solar,CA,Tulare,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.3875,-119.255
+16275,60281,"Altus Power America Management, LLC",58307,Ivanhoe Solar,CA,Tulare,CISO,IPP Non-CHP,2,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.3875,-119.255
+16276,60281,"Altus Power America Management, LLC",58307,Ivanhoe Solar,CA,Tulare,CISO,IPP Non-CHP,3,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.3875,-119.255
+16277,60281,"Altus Power America Management, LLC",58308,Lindsay Solar,CA,Tulare,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.211944,-119.1339
+16278,60281,"Altus Power America Management, LLC",58308,Lindsay Solar,CA,Tulare,CISO,IPP Non-CHP,3,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.211944,-119.1339
+16279,60281,"Altus Power America Management, LLC",58308,Lindsay Solar,CA,Tulare,CISO,IPP Non-CHP,4,1,1,1,Solar Photovoltaic,(OP) Operating,36.211944,-119.1339
+16280,60281,"Altus Power America Management, LLC",58309,Porterville Solar,CA,Tulare,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,36.102778,-119.0397
+16281,60281,"Altus Power America Management, LLC",58309,Porterville Solar,CA,Tulare,CISO,IPP Non-CHP,2,1,1,1,Solar Photovoltaic,(OP) Operating,36.102778,-119.0397
+16282,60281,"Altus Power America Management, LLC",58309,Porterville Solar,CA,Tulare,CISO,IPP Non-CHP,5,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.102778,-119.0397
+16337,60025,Greenbacker Renewable Energy Corporation,58354,Radiance Solar 4,CA,Los Angeles,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.665556,-118.2881
+16338,60025,Greenbacker Renewable Energy Corporation,58355,Radiance Solar 5,CA,Los Angeles,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.665556,-118.2869
+16348,58355,SPS Atwell Island LLC,58366,Atwell Island,CA,Tulare,CISO,IPP Non-CHP,1,20.2,20.2,20.2,Solar Photovoltaic,(OP) Operating,35.895,-119.5108
+16349,60281,"Altus Power America Management, LLC",58370,Gridley Main,CA,Butte,CISO,IPP Non-CHP,GEN1,1,1,1,Solar Photovoltaic,(OP) Operating,39.373333,-121.6842
+16350,60281,"Altus Power America Management, LLC",58371,Gridley Main Two,CA,Butte,CISO,IPP Non-CHP,GEN1,2.5,2.5,2.5,Solar Photovoltaic,(OP) Operating,39.373333,-121.6817
+16352,56769,Consolidated Edison Development Inc.,58373,White River Solar,CA,Tulare,CISO,IPP Non-CHP,WRCA,20,20,20,Solar Photovoltaic,(OP) Operating,35.871389,-119.4625
+16353,56769,Consolidated Edison Development Inc.,58374,Corcoran Solar,CA,Kings,CISO,IPP Non-CHP,CSCA,20,20,20,Solar Photovoltaic,(OP) Operating,36.138333,-119.5733
+16359,58363,Oakley Solar Project LLC,58376,Oakley Solar Project,CA,Contra Costa,CISO,Commercial Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,38.001667,-121.7478
+16380,59873,"Solar Star California XIX, LLC",58388,Solar Star 1,CA,Kern,CISO,IPP Non-CHP,AVS1,39,38,38,Solar Photovoltaic,(OP) Operating,34.8181,-118.4036
+16381,59873,"Solar Star California XIX, LLC",58388,Solar Star 1,CA,Kern,CISO,IPP Non-CHP,SS11,54,52.6,52.6,Solar Photovoltaic,(OP) Operating,34.8181,-118.4036
+16382,59873,"Solar Star California XIX, LLC",58388,Solar Star 1,CA,Kern,CISO,IPP Non-CHP,SS12,54,52.6,52.6,Solar Photovoltaic,(OP) Operating,34.8181,-118.4036
+16383,59873,"Solar Star California XIX, LLC",58388,Solar Star 1,CA,Kern,CISO,IPP Non-CHP,SS13,58.5,57,57,Solar Photovoltaic,(OP) Operating,34.8181,-118.4036
+16384,59873,"Solar Star California XIX, LLC",58388,Solar Star 1,CA,Kern,CISO,IPP Non-CHP,SS14,33,32.2,32.2,Solar Photovoltaic,(OP) Operating,34.8181,-118.4036
+16385,59873,"Solar Star California XIX, LLC",58388,Solar Star 1,CA,Kern,CISO,IPP Non-CHP,SS15,15,14.6,14.6,Solar Photovoltaic,(OP) Operating,34.8181,-118.4036
+16386,59873,"Solar Star California XIX, LLC",58388,Solar Star 1,CA,Kern,CISO,IPP Non-CHP,SS16,64.5,62.9,62.9,Solar Photovoltaic,(OP) Operating,34.8181,-118.4036
+16387,59872,"Solar Star California XX, LLC",58389,Solar Star 2,CA,Kern,CISO,IPP Non-CHP,AVS2,19.5,19,19,Solar Photovoltaic,(OP) Operating,34.848611,-118.3528
+16388,59872,"Solar Star California XX, LLC",58389,Solar Star 2,CA,Kern,CISO,IPP Non-CHP,SS21,60,59,59,Solar Photovoltaic,(OP) Operating,34.848611,-118.3528
+16389,59872,"Solar Star California XX, LLC",58389,Solar Star 2,CA,Kern,CISO,IPP Non-CHP,SS22,55.5,55,55,Solar Photovoltaic,(OP) Operating,34.848611,-118.3528
+16390,59872,"Solar Star California XX, LLC",58389,Solar Star 2,CA,Kern,CISO,IPP Non-CHP,SS23,48,47,47,Solar Photovoltaic,(OP) Operating,34.848611,-118.3528
+16391,59872,"Solar Star California XX, LLC",58389,Solar Star 2,CA,Kern,CISO,IPP Non-CHP,SS24,43.5,43,43,Solar Photovoltaic,(OP) Operating,34.848611,-118.3528
+16392,59872,"Solar Star California XX, LLC",58389,Solar Star 2,CA,Kern,CISO,IPP Non-CHP,SS25,52.5,52,52,Solar Photovoltaic,(OP) Operating,34.848611,-118.3528
+16400,60898,Axium US Solar Holdings LLC,58398,Heber Solar,CA,Imperial,IID,IPP Non-CHP,1,10.9,10,8.2,Solar Photovoltaic,(OP) Operating,32.7125,-115.5406
+16417,58413,Lone Valley Solar Park I LLC,58417,Lone Valley Solar Park I LLC,CA,San Bernardino,CISO,IPP Non-CHP,CP1,10,10,10,Solar Photovoltaic,(OP) Operating,34.398059,-116.8655
+16418,61012,AES Distributed Energy,58418,Victor Dry Farm Ranch A,CA,San Bernardino,CISO,IPP Non-CHP,1,5,5,4,Solar Photovoltaic,(OP) Operating,34.501111,-117.4667
+16419,61012,AES Distributed Energy,58419,Victor Dry Farm Ranch B,CA,San Bernardino,CISO,IPP Non-CHP,1,5,5,4,Solar Photovoltaic,(OP) Operating,34.497778,-117.4711
+16422,58416,"California State University, Northridge",58422,CSU Northridge Plant,CA,Los Angeles,LDWP,Commercial Non-CHP,B2PV,0.4,0.3,0.2,Solar Photovoltaic,(OP) Operating,34.243333,-118.5306
+16423,58416,"California State University, Northridge",58422,CSU Northridge Plant,CA,Los Angeles,LDWP,Commercial Non-CHP,E6PV,0.2,0.1,0.1,Solar Photovoltaic,(OP) Operating,34.243333,-118.5306
+16437,61230,"Arevon Energy, Inc.",58430,Centinela Solar Energy,CA,Imperial,CISO,IPP Non-CHP,CSE1,34.2,33.4,33.4,Solar Photovoltaic,(OP) Operating,32.686944,-115.6478
+16438,61230,"Arevon Energy, Inc.",58430,Centinela Solar Energy,CA,Imperial,CISO,IPP Non-CHP,CSE2,26.6,25.6,25.6,Solar Photovoltaic,(OP) Operating,32.686944,-115.6478
+16439,61230,"Arevon Energy, Inc.",58430,Centinela Solar Energy,CA,Imperial,CISO,IPP Non-CHP,CSE3,34.2,33.4,33.4,Solar Photovoltaic,(OP) Operating,32.686944,-115.6478
+16440,61230,"Arevon Energy, Inc.",58430,Centinela Solar Energy,CA,Imperial,CISO,IPP Non-CHP,CSE4,34.2,33.4,33.4,Solar Photovoltaic,(OP) Operating,32.686944,-115.6478
+16441,61230,"Arevon Energy, Inc.",58430,Centinela Solar Energy,CA,Imperial,CISO,IPP Non-CHP,CSE5,19,18.6,18.6,Solar Photovoltaic,(OP) Operating,32.686944,-115.6478
+16442,61230,"Arevon Energy, Inc.",58430,Centinela Solar Energy,CA,Imperial,CISO,IPP Non-CHP,CSE6,26.6,25.6,25.6,Solar Photovoltaic,(OP) Operating,32.686944,-115.6478
+16467,58440,CD US Solar MT 2 LLC,58445,Arrache 4006,CA,Los Angeles,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,34.655,-118.0511
+16468,58440,CD US Solar MT 2 LLC,58445,Arrache 4006,CA,Los Angeles,CISO,IPP Non-CHP,2,1,1,1,Solar Photovoltaic,(OP) Operating,34.655,-118.0511
+16469,58440,CD US Solar MT 2 LLC,58446,Arrache 4013,CA,Los Angeles,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.650556,-118.0519
+16470,58440,CD US Solar MT 2 LLC,58447,Arrache 8083,CA,Los Angeles,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.647778,-118.0611
+16471,58440,CD US Solar MT 2 LLC,58447,Arrache 8083,CA,Los Angeles,CISO,IPP Non-CHP,2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.647778,-118.0611
+16472,58440,CD US Solar MT 2 LLC,58447,Arrache 8083,CA,Los Angeles,CISO,IPP Non-CHP,3,1,1,1,Solar Photovoltaic,(OP) Operating,34.647778,-118.0611
+16473,58440,CD US Solar MT 2 LLC,58448,Nunn,CA,San Bernardino,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,34.509167,-117.1544
+16474,58440,CD US Solar MT 2 LLC,58449,Rutan,CA,Los Angeles,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.643889,-118.1631
+16475,58440,CD US Solar MT 2 LLC,58449,Rutan,CA,Los Angeles,CISO,IPP Non-CHP,2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.643889,-118.1631
+16476,58440,CD US Solar MT 2 LLC,58449,Rutan,CA,Los Angeles,CISO,IPP Non-CHP,3,1,1,1,Solar Photovoltaic,(OP) Operating,34.643889,-118.1631
+16477,58440,CD US Solar MT 2 LLC,58450,Vinam,CA,Los Angeles,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.668889,-118.0614
+16478,58440,CD US Solar MT 2 LLC,58451,Ma,CA,Los Angeles,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.695278,-118.0625
+16479,58440,CD US Solar MT 2 LLC,58452,Horn,CA,Los Angeles,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.708889,-118.2742
+16481,58440,CD US Solar MT 2 LLC,58454,Watts 3115,CA,San Bernardino,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.600833,-117.6422
+16482,58440,CD US Solar MT 2 LLC,58454,Watts 3115,CA,San Bernardino,CISO,IPP Non-CHP,2,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,34.600833,-117.6422
+16492,58451,"McCoy Solar, LLC",58462,McCoy Solar Energy Project Hybrid,CA,Riverside,CISO,IPP Non-CHP,1,41.9,41.9,41.9,Solar Photovoltaic,(OP) Operating,33.694722,-114.7397
+16493,58451,"McCoy Solar, LLC",58462,McCoy Solar Energy Project Hybrid,CA,Riverside,CISO,IPP Non-CHP,BLK2,21,21,21,Solar Photovoltaic,(OP) Operating,33.694722,-114.7397
+16494,58451,"McCoy Solar, LLC",58462,McCoy Solar Energy Project Hybrid,CA,Riverside,CISO,IPP Non-CHP,BLK3,39.6,39.6,39.6,Solar Photovoltaic,(OP) Operating,33.694722,-114.7397
+16495,58451,"McCoy Solar, LLC",58462,McCoy Solar Energy Project Hybrid,CA,Riverside,CISO,IPP Non-CHP,BLK4,31.4,31.4,31.4,Solar Photovoltaic,(OP) Operating,33.694722,-114.7397
+16496,58451,"McCoy Solar, LLC",58462,McCoy Solar Energy Project Hybrid,CA,Riverside,CISO,IPP Non-CHP,BLK5,31.4,31.4,31.4,Solar Photovoltaic,(OP) Operating,33.694722,-114.7397
+16497,58451,"McCoy Solar, LLC",58462,McCoy Solar Energy Project Hybrid,CA,Riverside,CISO,IPP Non-CHP,BLK6,26.9,26.9,26.9,Solar Photovoltaic,(OP) Operating,33.694722,-114.7397
+16498,58451,"McCoy Solar, LLC",58462,McCoy Solar Energy Project Hybrid,CA,Riverside,CISO,IPP Non-CHP,BLK7,41.9,41.9,41.9,Solar Photovoltaic,(OP) Operating,33.694722,-114.7397
+16499,58451,"McCoy Solar, LLC",58462,McCoy Solar Energy Project Hybrid,CA,Riverside,CISO,IPP Non-CHP,BLK8,36.5,36.5,36.5,Solar Photovoltaic,(OP) Operating,33.694722,-114.7397
+16504,17650,Southern Power Co,58467,Campo Verde Solar,CA,Imperial,CISO,IPP Non-CHP,CVS1,147.4,139,139,Solar Photovoltaic,(OP) Operating,32.753333,-115.7264
+16541,61944,MN8 Energy LLC,58498,RE Rosamond One LLC,CA,Kern,CISO,IPP Non-CHP,RONE,20,20,20,Solar Photovoltaic,(OP) Operating,34.9,-118.2469
+16542,61944,MN8 Energy LLC,58499,RE Rosamond Two LLC,CA,Kern,CISO,IPP Non-CHP,RTWO,20,20,20,Solar Photovoltaic,(OP) Operating,34.900278,-118.2383
+16543,61944,MN8 Energy LLC,58500,RE Rio Grande Solar LLC,CA,Kern,CISO,IPP Non-CHP,RIO,5,5,5,Solar Photovoltaic,(OP) Operating,35.00745,-118.1645
+16545,61944,MN8 Energy LLC,58502,RE Columbia 3 LLC,CA,Kern,CISO,IPP Non-CHP,COL3,10,10,10,Solar Photovoltaic,(OP) Operating,35.024722,-118.1642
+16550,60281,"Altus Power America Management, LLC",58506,Chuckawalla Solar,CA,Riverside,CISO,IPP Non-CHP,0937,4,4,4,Solar Photovoltaic,(OP) Operating,33.568333,-114.9181
+16566,58135,Ecos Energy LLC,58508,Bear Creek Solar,CA,San Joaquin,CISO,IPP Non-CHP,PV3,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,38.136389,-121.1489
+16567,58135,Ecos Energy LLC,58509,Vintner Solar,CA,San Luis Obispo,CISO,IPP Non-CHP,PV4,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,35.55795,-120.6829
+16568,58135,Ecos Energy LLC,58510,Kettleman Solar Project,CA,San Joaquin,CISO,IPP Non-CHP,PV5,1,1,1,Solar Photovoltaic,(OP) Operating,38.12139,-121.1412
+16573,60281,"Altus Power America Management, LLC",58513,Ironwood Solar LLC,CA,Riverside,CISO,IPP Non-CHP,0937,4,4,4,Solar Photovoltaic,(OP) Operating,33.565,-114.9181
+16574,57365,Consolidated Edison Solutions Inc.,58514,Desert Hot Springs Solar,CA,Riverside,CISO,IPP Non-CHP,DHCA,2.3,2.2,2.2,Solar Photovoltaic,(OP) Operating,33.923056,-116.53
+16583,65164,CleanCapital Holdings,58522,Madera Community Hospital,CA,Madera,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,36.941111,-120.0467
+16586,58500,City of Hayward,58525,City of Hayward WWTP,CA,Alameda,CISO,IPP CHP,1,1.6,1.6,1.6,Solar Photovoltaic,(OP) Operating,37.633526,-122.1397
+16594,58501,Five Crowns Inc,58527,Crown Cooling Facility,CA,Imperial,IID,Industrial Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,32.967222,-115.5325
+16595,58503,Garnet Solar Generation Station I LLC,58528,Garnet Solar Generation Station I LLC,CA,Riverside,CISO,IPP Non-CHP,WDT44,4,4,4,Solar Photovoltaic,(OP) Operating,33.8906,-116.5431
+16607,58290,"NextEra Energy Desert Sunlight 250, LLC",58542,"Desert Sunlight 250, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL12,39.1,39.1,39.1,Solar Photovoltaic,(OP) Operating,33.8055,-115.3947
+16608,58290,"NextEra Energy Desert Sunlight 250, LLC",58542,"Desert Sunlight 250, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL13,39.1,39.1,39.1,Solar Photovoltaic,(OP) Operating,33.8055,-115.3947
+16609,58290,"NextEra Energy Desert Sunlight 250, LLC",58542,"Desert Sunlight 250, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL14,26.5,26.5,26.5,Solar Photovoltaic,(OP) Operating,33.8055,-115.3947
+16610,58290,"NextEra Energy Desert Sunlight 250, LLC",58542,"Desert Sunlight 250, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL15,13.9,13.9,13.9,Solar Photovoltaic,(OP) Operating,33.8055,-115.3947
+16611,58290,"NextEra Energy Desert Sunlight 250, LLC",58542,"Desert Sunlight 250, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL16,22.7,22.7,22.7,Solar Photovoltaic,(OP) Operating,33.8055,-115.3947
+16612,58290,"NextEra Energy Desert Sunlight 250, LLC",58542,"Desert Sunlight 250, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL17,29,29,29,Solar Photovoltaic,(OP) Operating,33.8055,-115.3947
+16613,58290,"NextEra Energy Desert Sunlight 250, LLC",58542,"Desert Sunlight 250, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL18,29,29,29,Solar Photovoltaic,(OP) Operating,33.8055,-115.3947
+16614,58290,"NextEra Energy Desert Sunlight 250, LLC",58542,"Desert Sunlight 250, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL19,25.2,25.2,25.2,Solar Photovoltaic,(OP) Operating,33.8055,-115.3947
+16615,58290,"NextEra Energy Desert Sunlight 250, LLC",58542,"Desert Sunlight 250, LLC",CA,Riverside,CISO,IPP Non-CHP,DSL20,25.2,25.2,25.2,Solar Photovoltaic,(OP) Operating,33.8055,-115.3947
+16618,64635,Solar Community I LLC,58545,Community Solar 1,CA,Imperial,IID,IPP Non-CHP,1,5.7,5.7,5.7,Solar Photovoltaic,(OP) Operating,32.982778,-115.4819
+16664,60025,Greenbacker Renewable Energy Corporation,58578,Sonora 1,CA,Tuolumne,CISO,IPP Non-CHP,SON1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,37.889753,-120.5287
+16666,58540,California PV Energy LLC,58581,Oltmans SCE at Champagne,CA,San Bernardino,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,34.043889,-117.5311
+16667,58540,California PV Energy LLC,58582,Oltmans SCE at Jurupa,CA,San Bernardino,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.05,-117.5961
+16676,58544,Sierra Nevada Brewing Co,58585,Sierra Nevada Brewing Co Hybrid,CA,Butte,CISO,Industrial CHP,SOLR,1.7,1.4,0.9,Solar Photovoltaic,(OP) Operating,39.724167,-121.8153
+16681,58546,Cascade Solar LLC,58590,Cascade Solar,CA,San Bernardino,CISO,IPP Non-CHP,1,18.5,18.5,18.5,Solar Photovoltaic,(OP) Operating,34.157222,-116.2344
+16683,17650,Southern Power Co,58592,Solar Gen 2 Solar Facility,CA,Imperial,CISO,IPP Non-CHP,ALHM,54.4,50,50,Solar Photovoltaic,(OP) Operating,33.08,-115.47
+16684,17650,Southern Power Co,58592,Solar Gen 2 Solar Facility,CA,Imperial,CISO,IPP Non-CHP,ARK,54.4,50,50,Solar Photovoltaic,(OP) Operating,33.08,-115.47
+16685,17650,Southern Power Co,58592,Solar Gen 2 Solar Facility,CA,Imperial,CISO,IPP Non-CHP,SONR,54.4,50,50,Solar Photovoltaic,(OP) Operating,33.08,-115.47
+16705,61012,AES Distributed Energy,58609,Industry Solar Power Generation Station,CA,San Bernardino,CISO,IPP Non-CHP,ISP1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.553056,-117.4569
+16706,61012,AES Distributed Energy,58610,Navajo Solar Power Generation Station 1,CA,San Bernardino,CISO,IPP Non-CHP,NSP1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.551111,-117.1911
+16707,61012,AES Distributed Energy,58611,Powhatan Solar Power Generation Station,CA,San Bernardino,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.496944,-117.145
+16708,61012,AES Distributed Energy,58612,Otoe Solar Power Generation Station 1 LL,CA,San Bernardino,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.545,-117.1919
+16711,66100,Boralex US Operations LLC,58616,Westlands Solar PV Farm,CA,Fresno,CISO,IPP Non-CHP,WSF1,18,18,14,Solar Photovoltaic,(OP) Operating,36.138056,-120.0758
+16718,58575,"Sol Orchard Imperial 1, LLC",58621,Sol Orchard El Centro PV,CA,Imperial,IID,IPP Non-CHP,ECPV,20,20,20,Solar Photovoltaic,(OP) Operating,32.803333,-115.5464
+16724,58549,County of Alameda GSA,58625,Santa Rita Jail Hybrid,CA,Alameda,CISO,IPP CHP,SRPV2,1,1,0.1,Solar Photovoltaic,(OP) Operating,37.719167,-121.8869
+16725,58549,County of Alameda GSA,58625,Santa Rita Jail Hybrid,CA,Alameda,CISO,IPP CHP,SRPV3,0.5,0.5,0.1,Solar Photovoltaic,(OP) Operating,37.719167,-121.8869
+16726,61012,AES Distributed Energy,58626,Western Antelope Blue Sky Ranch A,CA,Los Angeles,CISO,IPP Non-CHP,WABSA,20,19,18,Solar Photovoltaic,(OP) Operating,34.681667,-118.3247
+16727,61012,AES Distributed Energy,58627,Western Antelope Dry Ranch,CA,Los Angeles,CISO,IPP Non-CHP,WADR,10,10,9,Solar Photovoltaic,(OP) Operating,34.688889,-118.3203
+16737,57313,Tesla Inc.,58633,Monterey Regional Water Pollution Contro,CA,Monterey,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,36.721111,-121.7878
+16738,57313,Tesla Inc.,58634,Lancaster Baptist Church,CA,Los Angeles,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,34.695833,-118.0589
+16740,57313,Tesla Inc.,58636,Sacramento Fairbain Water Treatment Plan,CA,Sacramento,BANC,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,38.554802,-121.4168
+16744,61230,"Arevon Energy, Inc.",58642,Tulare 1 and 2,CA,Tulare,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.2,-119.42
+16745,61230,"Arevon Energy, Inc.",58642,Tulare 1 and 2,CA,Tulare,CISO,IPP Non-CHP,2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.2,-119.42
+16758,17650,Southern Power Co,58646,Stateline Solar,CA,San Bernardino,CISO,IPP Non-CHP,STL,75.9,76,76,Solar Photovoltaic,(OP) Operating,35.6,-115.4
+16759,17650,Southern Power Co,58646,Stateline Solar,CA,San Bernardino,CISO,IPP Non-CHP,STL2,34.1,34,34,Solar Photovoltaic,(OP) Operating,35.6,-115.4
+16760,17650,Southern Power Co,58646,Stateline Solar,CA,San Bernardino,CISO,IPP Non-CHP,STL3,37.9,38,38,Solar Photovoltaic,(OP) Operating,35.6,-115.4
+16761,17650,Southern Power Co,58646,Stateline Solar,CA,San Bernardino,CISO,IPP Non-CHP,STL4,37.9,38,38,Solar Photovoltaic,(OP) Operating,35.6,-115.4
+16762,17650,Southern Power Co,58646,Stateline Solar,CA,San Bernardino,CISO,IPP Non-CHP,STL5,37.9,38,38,Solar Photovoltaic,(OP) Operating,35.6,-115.4
+16763,17650,Southern Power Co,58646,Stateline Solar,CA,San Bernardino,CISO,IPP Non-CHP,STL6,37.9,38,38,Solar Photovoltaic,(OP) Operating,35.6,-115.4
+16764,17650,Southern Power Co,58646,Stateline Solar,CA,San Bernardino,CISO,IPP Non-CHP,STL7,37.9,38,38,Solar Photovoltaic,(OP) Operating,35.6,-115.4
+16833,58622,Costco Wholesale,58698,Mira Loma,CA,Riverside,CISO,Commercial Non-CHP,D960,1,1,1,Solar Photovoltaic,(OP) Operating,34.013056,-117.5375
+16834,58622,Costco Wholesale,58698,Mira Loma,CA,Riverside,CISO,Commercial Non-CHP,D9611,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.013056,-117.5375
+16835,58622,Costco Wholesale,58698,Mira Loma,CA,Riverside,CISO,Commercial Non-CHP,D9612,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,34.013056,-117.5375
+16849,17650,Southern Power Co,58711,Lost Hills/Blackwell,CA,Kern,CISO,IPP Non-CHP,BLKW,12,12,12,Solar Photovoltaic,(OP) Operating,35.62,-119.85
+16850,17650,Southern Power Co,58711,Lost Hills/Blackwell,CA,Kern,CISO,IPP Non-CHP,LTHL,20,20,20,Solar Photovoltaic,(OP) Operating,35.62,-119.85
+16851,17650,Southern Power Co,58713,North Star Solar,CA,Fresno,CISO,IPP Non-CHP,NSTR,61.6,60,60,Solar Photovoltaic,(OP) Operating,36.73,-120.41
+16864,58654,Orion Solar I LLC,58718,Orion Solar I,CA,Kern,CISO,IPP Non-CHP,PV1,12,12,12,Solar Photovoltaic,(OP) Operating,35.150694,-118.875
+16867,58655,"Orion Solar II, LLC",58721,Orion Solar II,CA,Kern,CISO,IPP Non-CHP,ORION,8,8,8,Solar Photovoltaic,(OP) Operating,35.150694,-118.8753
+16883,61012,AES Distributed Energy,58748,North Bay Solar 1,CA,Solano,CISO,Commercial Non-CHP,NBWT,1,1,1,Solar Photovoltaic,(OP) Operating,38.300556,-121.9664
+16885,61012,AES Distributed Energy,58750,Lancaster Dry Farm Ranch B,CA,Los Angeles,CISO,IPP Non-CHP,LDFRB,5,5,5,Solar Photovoltaic,(OP) Operating,34.716944,-118.2894
+16886,61012,AES Distributed Energy,58751,Rodeo Solar C2,CA,Los Angeles,CISO,IPP Non-CHP,RSC2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.713333,-118.2894
+16887,61012,AES Distributed Energy,58752,Rodeo Solar D2,CA,Los Angeles,CISO,IPP Non-CHP,RSD2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.713333,-118.2894
+16888,61012,AES Distributed Energy,58753,Summer Solar A2,CA,Los Angeles,CISO,IPP Non-CHP,SSA2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.723056,-118.2897
+16889,61012,AES Distributed Energy,58754,Summer Solar B2,CA,Los Angeles,CISO,IPP Non-CHP,SSB2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.723056,-118.2897
+16890,61012,AES Distributed Energy,58755,Summer Solar C2,CA,Los Angeles,CISO,IPP Non-CHP,SSC2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.723056,-118.2897
+16891,61012,AES Distributed Energy,58756,Summer Solar D2,CA,Los Angeles,CISO,IPP Non-CHP,SSD2,1,1,1,Solar Photovoltaic,(OP) Operating,34.723056,-118.2897
+16892,61012,AES Distributed Energy,58757,Summer North Solar,CA,Los Angeles,CISO,IPP Non-CHP,UE2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.723056,-118.2897
+16893,61012,AES Distributed Energy,58757,Summer North Solar,CA,Los Angeles,CISO,IPP Non-CHP,UF2,2,2,2,Solar Photovoltaic,(OP) Operating,34.723056,-118.2897
+16894,61012,AES Distributed Energy,58757,Summer North Solar,CA,Los Angeles,CISO,IPP Non-CHP,UG2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.723056,-118.2897
+16895,61012,AES Distributed Energy,58757,Summer North Solar,CA,Los Angeles,CISO,IPP Non-CHP,UH2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.723056,-118.2897
+16896,61012,AES Distributed Energy,58761,Expressway Solar A,CA,San Bernardino,CISO,IPP Non-CHP,EXSA,2,2,2,Solar Photovoltaic,(OP) Operating,34.582222,-117.3417
+16897,61012,AES Distributed Energy,58762,Expressway Solar B,CA,San Bernardino,CISO,IPP Non-CHP,EXSB,2,2,2,Solar Photovoltaic,(OP) Operating,34.583333,-117.3403
+16898,61012,AES Distributed Energy,58763,Expressway Solar C2,CA,San Bernardino,CISO,IPP Non-CHP,EXSC2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.584444,-117.3414
+16965,58696,Ignite Solar Holdings LLC,58814,Shasta Solar Farm,CA,Shasta,CISO,IPP Non-CHP,GENA,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,41.031389,-121.4225
+16966,58696,Ignite Solar Holdings LLC,58814,Shasta Solar Farm,CA,Shasta,CISO,IPP Non-CHP,GENB,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,41.031389,-121.4225
+16980,61012,AES Distributed Energy,58831,Redcrest Solar Farm,CA,Kern,CISO,IPP Non-CHP,PV-1,16.6,16,16,Solar Photovoltaic,(OP) Operating,35.321944,-118.8128
+17051,58759,Perpetual Energy Systems,58889,ASTI,CA,Sonoma,CISO,IPP Non-CHP,ASTI,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,38.761389,-122.9753
+17052,58759,Perpetual Energy Systems,58890,Beringer,CA,Sonoma,CISO,IPP Non-CHP,BERI,1.4,1.4,1.4,Solar Photovoltaic,(OP) Operating,38.510833,-122.4797
+17075,61944,MN8 Energy LLC,58906,Valley Center 1,CA,San Diego,CISO,IPP Non-CHP,VC1,2.5,2.5,2.5,Solar Photovoltaic,(OP) Operating,33.234167,-117.0017
+17076,61944,MN8 Energy LLC,58907,Valley Center 2,CA,San Diego,CISO,IPP Non-CHP,VC2,5,5,5,Solar Photovoltaic,(OP) Operating,33.234167,-117.0017
+17078,61944,MN8 Energy LLC,58909,Ramona 1,CA,San Diego,CISO,IPP Non-CHP,RAM1,2,2,2,Solar Photovoltaic,(OP) Operating,33.012222,-116.875
+17079,61944,MN8 Energy LLC,58911,Ramona 2,CA,San Diego,CISO,IPP Non-CHP,RAM2,5,5,5,Solar Photovoltaic,(OP) Operating,33.012222,-116.875
+17080,57104,Golden Springs Development Company LLC,58912,Santa Fe Springs Rooftop Solar BLDG M,CA,Los Angeles,CISO,IPP Non-CHP,1,1.8,1.8,1.8,Solar Photovoltaic,(OP) Operating,33.910833,-118.0444
+17081,57104,Golden Springs Development Company LLC,58913,Santa Fe Springs Rooftop Solar BLDG H,CA,Los Angeles,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,33.910833,-118.0444
+17096,61315,Solarenewal LLC,58918,2081 Terzian Solar Project,CA,Fresno,CISO,IPP Non-CHP,2081,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,36.67,-119.4158
+17097,61315,Solarenewal LLC,58919,2127 Harris Solar Project,CA,Butte,CISO,IPP Non-CHP,2127,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,39.291667,-121.6697
+17098,61315,Solarenewal LLC,58920,2097 Helton Solar Project,CA,Merced,CISO,IPP Non-CHP,2097,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,37.352222,-120.5069
+17128,60281,"Altus Power America Management, LLC",58949,Cloverdale Solar I,CA,Sonoma,CISO,IPP Non-CHP,TBD,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,38.773056,-123.0178
+17132,57313,Tesla Inc.,58954,Intel Folsom Phase 2,CA,Sacramento,BANC,IPP Non-CHP,PV,1,1,1,Solar Photovoltaic,(OP) Operating,38.643611,-121.1639
+17143,57313,Tesla Inc.,58963,Las Virgenes Municipal Water District,CA,Los Angeles,CISO,IPP Non-CHP,PV,1,1,1,Solar Photovoltaic,(OP) Operating,34.136111,-118.7019
+17150,56769,Consolidated Edison Development Inc.,58973,White River Solar 2,CA,Tulare,CISO,IPP Non-CHP,W2CA,19.8,19.8,19.8,Solar Photovoltaic,(OP) Operating,35.874722,-119.0461
+17152,17650,Southern Power Co,58975,Henrietta Solar Project,CA,Kings,CISO,IPP Non-CHP,PV1,102,100,100,Solar Photovoltaic,(OP) Operating,36.218806,-119.8058
+17162,60453,Onward Energy,58983,RE Camelot LLC,CA,Kern,CISO,IPP Non-CHP,1,45,45,45,Solar Photovoltaic,(OP) Operating,35.026667,-118.1856
+17163,60453,Onward Energy,58984,"RE Adams East, LLC",CA,Fresno,CISO,IPP Non-CHP,1,19,19,19,Solar Photovoltaic,(OP) Operating,36.6175,-120.2908
+17164,60453,Onward Energy,58985,"RE Kansas Solar, LLC",CA,Kings,CISO,IPP Non-CHP,1,20,20,20,Solar Photovoltaic,(OP) Operating,36.247778,-119.8339
+17165,60453,Onward Energy,58986,"RE Old River One, LLC",CA,Kern,CISO,IPP Non-CHP,1,20,20,20,Solar Photovoltaic,(OP) Operating,35.223333,-119.0889
+17176,60453,Onward Energy,58990,"RE Columbia Two, LLC",CA,Kern,CISO,IPP Non-CHP,1,15,15,15,Solar Photovoltaic,(OP) Operating,35.026667,-118.1856
+17177,60453,Onward Energy,58991,"RE Kent South, LLC",CA,Kings,CISO,IPP Non-CHP,1,20,20,20,Solar Photovoltaic,(OP) Operating,36.226111,-119.9053
+17198,61012,AES Distributed Energy,59008,Woodmere Solar Farm,CA,Kern,CISO,IPP Non-CHP,PV1,15,15,14,Solar Photovoltaic,(OP) Operating,35.323056,-118.8214
+17199,61012,AES Distributed Energy,59009,Hayworth Solar,CA,Kern,CISO,IPP Non-CHP,PV1,27,26,25,Solar Photovoltaic,(OP) Operating,35.325278,-118.8786
+17324,60453,Onward Energy,59086,"Cottonwood Solar, LLC (Goose Lake)",CA,Kern,CISO,IPP Non-CHP,GEN1,12,12,12,Solar Photovoltaic,(OP) Operating,35.593611,-119.58
+17325,60453,Onward Energy,59087,"Cottonwood Solar, LLC (City of Corcoran)",CA,Kings,CISO,IPP Non-CHP,GEN 1,12,12,12,Solar Photovoltaic,(OP) Operating,36.134444,-119.5544
+17326,17650,Southern Power Co,59088,Calipatria Solar Farm,CA,Imperial,IID,IPP Non-CHP,GEN 1,20,20,20,Solar Photovoltaic,(OP) Operating,33.165833,-115.5322
+17331,57313,Tesla Inc.,59094,Division 1,CA,Los Angeles,CISO,IPP Non-CHP,GEN 1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.708333,-118.1306
+17332,57313,Tesla Inc.,59095,Division 2,CA,Los Angeles,CISO,IPP Non-CHP,GEN 1,1,1,1,Solar Photovoltaic,(OP) Operating,34.708333,-118.1306
+17333,57313,Tesla Inc.,59096,Division 3,CA,Los Angeles,CISO,IPP Non-CHP,GEN1,1,1,1,Solar Photovoltaic,(OP) Operating,34.708333,-118.1306
+17335,57313,Tesla Inc.,59098,Kettering Solar 1,CA,Los Angeles,CISO,IPP Non-CHP,PV1,1,1,1,Solar Photovoltaic,(OP) Operating,34.700278,-118.1236
+17336,57313,Tesla Inc.,59099,Kettering Solar 2,CA,Los Angeles,CISO,IPP Non-CHP,PV1,1,1,1,Solar Photovoltaic,(OP) Operating,34.700278,-118.1236
+17357,58944,"Enerparc CA 1, LLC",59122,Enerparc CA1 LLC,CA,San Benito,CISO,IPP Non-CHP,ECA11,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.831667,-121.4042
+17364,65164,CleanCapital Holdings,59129,CSD 2- Freedom High,CA,Contra Costa,CISO,IPP Non-CHP,57449,0.9,0.9,0.9,Solar Photovoltaic,(OP) Operating,37.969722,-121.7194
+17365,65164,CleanCapital Holdings,59130,CSD 2 - Heritage High,CA,Contra Costa,CISO,IPP Non-CHP,57449,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,37.921944,-121.7556
+17367,65164,CleanCapital Holdings,59132,EAFB - North Base,CA,Kern,CISO,IPP Non-CHP,57449,1,1,1,Solar Photovoltaic,(OP) Operating,34.9325,-117.9072
+17368,65164,CleanCapital Holdings,59133,EAFB - South Base,CA,Kern,CISO,IPP Non-CHP,57449,1,1,1,Solar Photovoltaic,(OP) Operating,34.917222,-117.9003
+17373,65164,CleanCapital Holdings,59138,SDCCD - Miramar,CA,San Diego,CISO,IPP Non-CHP,57449,1,1,1,Solar Photovoltaic,(OP) Operating,32.906111,-117.1214
+17374,65164,CleanCapital Holdings,59139,SDCWA - Twin Oaks,CA,San Diego,CISO,IPP Non-CHP,57449,1,1,1,Solar Photovoltaic,(OP) Operating,33.21,-117.1706
+17386,61944,MN8 Energy LLC,59150,RE Mustang LLC,CA,Kings,CISO,IPP Non-CHP,PV1,100,100,100,Solar Photovoltaic,(OP) Operating,36.221667,-119.9031
+17398,66100,Boralex US Operations LLC,59167,Lancaster Solar 1,CA,Los Angeles,CISO,IPP Non-CHP,LS1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.715,-118.095
+17400,58976,"PsomasFMG Lancaster Solar Crest, LLC",59169,Lancaster Solar 2,CA,Los Angeles,CISO,IPP Non-CHP,LS2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.710556,-118.1661
+17413,59139,SunEdison LLC,59182,Hesperia,CA,San Bernardino,CISO,IPP Non-CHP,10-94,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.435,-117.3781
+17414,60453,Onward Energy,59183,"CID Solar, LLC",CA,Kings,CISO,IPP Non-CHP,PV1,20,20,20,Solar Photovoltaic,(OP) Operating,36.138056,-119.5647
+17430,61230,"Arevon Energy, Inc.",59203,Farmersville,CA,Tulare,CISO,IPP Non-CHP,PV1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.19,-119.12
+17431,61230,"Arevon Energy, Inc.",59203,Farmersville,CA,Tulare,CISO,IPP Non-CHP,PV2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.19,-119.12
+17432,61230,"Arevon Energy, Inc.",59203,Farmersville,CA,Tulare,CISO,IPP Non-CHP,PV3,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.19,-119.12
+17439,61230,"Arevon Energy, Inc.",59219,Porterville 6 and 7,CA,Tulare,CISO,IPP Non-CHP,PV1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.05,-119.02
+17440,61230,"Arevon Energy, Inc.",59219,Porterville 6 and 7,CA,Tulare,CISO,IPP Non-CHP,PV2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.05,-119.02
+17462,59041,Lone Valley Solar Park II LLC,59237,Lone Valley Solar Park II LLC,CA,San Bernardino,CISO,IPP Non-CHP,CPII,20,20,20,Solar Photovoltaic,(OP) Operating,34.408333,-116.8625
+17474,65411,Duke Energy Renewables Services,59249,Rio Bravo Solar 1 LLC,CA,Kern,CISO,IPP Non-CHP,PV1,20,19.5,14.1,Solar Photovoltaic,(OP) Operating,35.416111,-119.6825
+17475,65411,Duke Energy Renewables Services,59250,Rio Bravo Solar II LLC,CA,Kern,CISO,IPP Non-CHP,PV1,20,19.5,14.1,Solar Photovoltaic,(OP) Operating,35.4225,-119.6292
+17477,65411,Duke Energy Renewables Services,59253,Wildwood Solar II,CA,Kern,CISO,IPP Non-CHP,PV1,15,14.7,11.2,Solar Photovoltaic,(OP) Operating,35.63,-119.5739
+17489,61012,AES Distributed Energy,59262,Lancaster Little Rock,CA,Los Angeles,CISO,IPP Non-CHP,LLRC,5,5,5,Solar Photovoltaic,(OP) Operating,34.599444,-117.9328
+17490,58135,Ecos Energy LLC,59265,Merced Solar LLC,CA,Merced,CISO,IPP Non-CHP,PV8,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,37.267778,-120.4844
+17491,58135,Ecos Energy LLC,59267,Mission Solar LLC,CA,Merced,CISO,IPP Non-CHP,PV9,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,37.267778,-120.4825
+17492,58135,Ecos Energy LLC,59268,Hollister Solar LLC,CA,San Benito,CISO,IPP Non-CHP,PV10,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.8625,-121.4289
+17493,61012,AES Distributed Energy,59269,Victor Mesa Linda B2,CA,San Bernardino,CISO,IPP Non-CHP,VMLB2,1.5,1.6,1.5,Solar Photovoltaic,(OP) Operating,34.512778,-117.3872
+17494,61012,AES Distributed Energy,59270,Victor Mesa Linda C2,CA,San Bernardino,CISO,IPP Non-CHP,VMLC2,1.5,1.6,1.5,Solar Photovoltaic,(OP) Operating,34.511389,-117.3872
+17495,61012,AES Distributed Energy,59271,Victor Mesa Linda D2,CA,San Bernardino,CISO,IPP Non-CHP,VMLD2,1.5,1.6,1.5,Solar Photovoltaic,(OP) Operating,34.509444,-117.3872
+17496,61012,AES Distributed Energy,59272,Victor Mesa Linda E2,CA,San Bernardino,CISO,IPP Non-CHP,VMLE2,1.5,1.6,1.5,Solar Photovoltaic,(OP) Operating,34.508056,-117.3872
+17497,61012,AES Distributed Energy,59273,SEPV Palmdale East,CA,Los Angeles,CISO,IPP Non-CHP,PALME,10,9,9,Solar Photovoltaic,(OP) Operating,34.613056,-117.9389
+17505,58540,California PV Energy LLC,59283,California PV Energy at ISD WWTP,CA,Contra Costa,CISO,IPP Non-CHP,W4236,1,1,1,Solar Photovoltaic,(OP) Operating,38.001111,-121.7039
+17515,61230,"Arevon Energy, Inc.",59300,Hanford 1 and 2,CA,Kings,CISO,IPP Non-CHP,HAN1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.306667,-119.6292
+17516,61230,"Arevon Energy, Inc.",59300,Hanford 1 and 2,CA,Kings,CISO,IPP Non-CHP,HAN2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.306667,-119.6292
+17523,64172,Arevon Asset Management,59308,Beacon Solar Plant Site 5,CA,Kern,LDWP,IPP Non-CHP,BEAC5,37.8,37.8,37.8,Solar Photovoltaic,(OP) Operating,35.248889,-118.0344
+17524,64172,Arevon Asset Management,59309,Beacon Solar Plant Site 2,CA,Kern,LDWP,IPP Non-CHP,BEAC2,47.3,47.3,47.3,Solar Photovoltaic,(OP) Operating,35.265833,-117.9992
+17533,61012,AES Distributed Energy,59315,Hecate Energy Beacon Solar 1,CA,Kern,LDWP,IPP Non-CHP,BEAC1,56,51,50,Solar Photovoltaic,(OP) Operating,35.269444,-118.0144
+17534,61012,AES Distributed Energy,59316,Hecate Energy Beacon Solar 3,CA,Kern,LDWP,IPP Non-CHP,BEAC3,56,51,50,Solar Photovoltaic,(OP) Operating,35.253056,-118.0147
+17535,61012,AES Distributed Energy,59317,Hecate Energy Beacon Solar 4,CA,Kern,LDWP,IPP Non-CHP,BEAC4,50,47,45,Solar Photovoltaic,(OP) Operating,35.253611,-118.0269
+17540,65411,Duke Energy Renewables Services,59322,Pumpjack Solar I,CA,Kern,CISO,IPP Non-CHP,GEN1,20,20,20,Solar Photovoltaic,(OP) Operating,35.305556,-119.6225
+17541,63249,Terraform Arcadia,59323,Sacramento (SMUD),CA,Sacramento,BANC,IPP Non-CHP,SMUPV,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,38.587222,-121.4578
+17554,60453,Onward Energy,59334,"Catalina Solar 2, LLC",CA,Kern,CISO,IPP Non-CHP,INV-1,18,18,18,Solar Photovoltaic,(OP) Operating,34.812222,-118.3528
+17561,61230,"Arevon Energy, Inc.",59339,Quinto Solar PV Project,CA,Merced,CISO,IPP Non-CHP,SSC13,108,105.1,76.8,Solar Photovoltaic,(OP) Operating,37.130278,-121.0522
+17565,59139,SunEdison LLC,59359,SCE-Snowline-Duncan Road (North),CA,San Bernardino,CISO,IPP Non-CHP,10400,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.473889,-117.5628
+17566,59139,SunEdison LLC,59360,SCE-Snowline-Duncan Road (South),CA,San Bernardino,CISO,IPP Non-CHP,11113,1,1,1,Solar Photovoltaic,(OP) Operating,34.471389,-117.5622
+17586,65411,Duke Energy Renewables Services,59380,"Wildwood Solar I, LLC",CA,Kern,CISO,IPP Non-CHP,WLD1,19.5,19.5,19.5,Solar Photovoltaic,(OP) Operating,35.615833,-119.5783
+17613,59173,City of Tulare Water Pollution Control,59395,City of Tulare Water Facility,CA,Tulare,CISO,Commercial Non-CHP,SC500,1,1,0.8,Solar Photovoltaic,(OP) Operating,36.185,-119.375
+17614,59173,City of Tulare Water Pollution Control,59395,City of Tulare Water Facility,CA,Tulare,CISO,Commercial Non-CHP,SOLAR,2.4,2.2,1.7,Solar Photovoltaic,(OP) Operating,36.185,-119.375
+17617,58135,Ecos Energy LLC,59405,Diamond Valley Solar Project,CA,Riverside,CISO,IPP Non-CHP,PV11,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,33.713056,-117.0725
+17620,59183,Shafter Solar LLC,59408,Shafter Solar LLC,CA,Kern,CISO,IPP Non-CHP,1,20,20,20,Solar Photovoltaic,(OP) Operating,35.393333,-119.1278
+17621,59185,"CD US Solar PO 3, LLC",59409,"Madelyn Solar, LLC",CA,San Bernardino,CISO,IPP Non-CHP,SNL17,1,1,1,Solar Photovoltaic,(OP) Operating,34.768333,-117.3236
+17622,59185,"CD US Solar PO 3, LLC",59410,"Rudy Solar, LLC",CA,San Bernardino,CISO,IPP Non-CHP,SNL19,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.766389,-117.3236
+17623,59185,"CD US Solar PO 3, LLC",59411,"Mitchell Solar, LLC",CA,San Bernardino,CISO,IPP Non-CHP,SNL18,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.765,-117.3236
+17624,59050,Algonquin Power Co,59412,Algonquin SKIC20 Solar LLC,CA,Kern,CISO,IPP Non-CHP,SKI20,20,20,20,Solar Photovoltaic,(OP) Operating,35.126111,-119.2433
+17625,56769,Consolidated Edison Development Inc.,59413,Corcoran Solar 2,CA,Kings,CISO,IPP Non-CHP,C2CA,19.8,19.8,19.8,Solar Photovoltaic,(OP) Operating,36.141944,-119.5817
+17626,56769,Consolidated Edison Development Inc.,59414,Atwell Island West Solar,CA,Tulare,CISO,IPP Non-CHP,AWCA,20,20,20,Solar Photovoltaic,(OP) Operating,35.815,-119.4597
+17631,59187,Anaheim Public Utilities,59416,Anaheim Solar Energy Plant,CA,Orange,CISO,Electric Utility,PV1,2.1,2,1.2,Solar Photovoltaic,(OP) Operating,33.8025,-117.9197
+17633,59139,SunEdison LLC,59421,SCE-Snowline-White Road (South),CA,San Bernardino,CISO,IPP Non-CHP,11111,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.413056,-117.4708
+17634,59139,SunEdison LLC,59422,SCE-Snowline-White Road (North),CA,San Bernardino,CISO,IPP Non-CHP,10401,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.4175,-117.4697
+17635,59139,SunEdison LLC,59423,SCE-Snowline-White Rd (Central),CA,San Bernardino,CISO,IPP Non-CHP,10402,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.415278,-117.47
+17647,61012,AES Distributed Energy,59431,Sierra Solar Greenworks,CA,Los Angeles,CISO,IPP Non-CHP,SSG1,20,18,18,Solar Photovoltaic,(OP) Operating,34.703611,-118.3342
+17667,59212,"Adelanto Solar II, LLC",59440,"Adelanto Solar II, LLC",CA,San Bernardino,CISO,IPP Non-CHP,SAS,7,7,7,Solar Photovoltaic,(OP) Operating,34.557222,-117.3775
+17668,59211,"Adelanto Solar, LLC",59441,"Adelanto Solar, LLC",CA,San Bernardino,CISO,IPP Non-CHP,SAS,20,20,20,Solar Photovoltaic,(OP) Operating,34.557222,-117.3775
+17670,60453,Onward Energy,59443,"TA-Acacia, LLC",CA,Los Angeles,CISO,IPP Non-CHP,WAS1,20,20,20,Solar Photovoltaic,(OP) Operating,34.689167,-118.3247
+17710,60453,Onward Energy,59469,Alamo Solar,CA,San Bernardino,CISO,IPP Non-CHP,ALAMO,20,20,20,Solar Photovoltaic,(OP) Operating,34.682222,-117.3475
+17713,57369,"Apple, Inc",59473,Apple Campus 2 PV,CA,Santa Clara,CISO,Industrial Non-CHP,AC2PV,14.4,12.4,9.5,Solar Photovoltaic,(OP) Operating,37.33,-122.01
+17762,59257,"Giffen Solar Park, LLC",59522,Giffen Solar Park,CA,Fresno,CISO,IPP Non-CHP,FRGSP,20,20,18,Solar Photovoltaic,(OP) Operating,36.544722,-120.3161
+17763,66100,Boralex US Operations LLC,59523,Five Points Solar Park,CA,Fresno,CISO,IPP Non-CHP,FRFSP,60,60,50,Solar Photovoltaic,(OP) Operating,36.386944,-120.2367
+17764,56769,Consolidated Edison Development Inc.,59524,Blackwell Solar Park,CA,Kern,CISO,IPP Non-CHP,FRBSP,20,20,20,Solar Photovoltaic,(OP) Operating,35.612,-119.845
+17765,59260,Wright Solar Park LLC,59525,Wright Solar Park,CA,Merced,CISO,IPP Non-CHP,FRWSP,200,200,180,Solar Photovoltaic,(OP) Operating,37.009444,-120.9572
+17768,64659,"Solar Oasis, LLC",59528,Solar Oasis LLC,CA,Los Angeles,CISO,IPP Non-CHP,OASIS,20,20,20,Solar Photovoltaic,(OP) Operating,34.648889,-118.0767
+17772,59272,"41MB 8me, LLC",59531,Borden Solar Farm,CA,Madera,CISO,IPP Non-CHP,BRDN,50,50,50,Solar Photovoltaic,(OP) Operating,36.941111,-119.96
+17773,59273,"62SK 8me, LLC",59532,Springbok Solar Farm 1,CA,Kern,LDWP,IPP Non-CHP,SB1,105,105,105,Solar Photovoltaic,(OP) Operating,35.249167,-117.9553
+17777,65305,"Clean Focus Yield, LLC",59536,Coronus Adelanto West 1,CA,San Bernardino,CISO,IPP Non-CHP,AWI,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.548056,-117.4644
+17778,65305,"Clean Focus Yield, LLC",59537,Coronus Adelanto West 2,CA,San Bernardino,CISO,IPP Non-CHP,AW2,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.548056,-117.4644
+17779,60281,"Altus Power America Management, LLC",59539,Park Meridian #1,CA,Riverside,CISO,IPP Non-CHP,1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,33.896111,-117.2836
+17780,60281,"Altus Power America Management, LLC",59540,Rancho Cucamonga Dist #1,CA,San Bernardino,CISO,IPP Non-CHP,2,1.8,1.8,1.8,Solar Photovoltaic,(OP) Operating,34.100278,-117.5528
+17781,60281,"Altus Power America Management, LLC",59541,Terra Francesco,CA,San Bernardino,CISO,IPP Non-CHP,3,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.039722,-117.6067
+17790,59290,Solvida Energy Group/Blue Oak Energy,59550,Putah Creek Solar Farm,CA,Yolo,CISO,IPP Non-CHP,PCSF,2,2,2,Solar Photovoltaic,(OP) Operating,38.521111,-121.9939
+17795,59298,"Vega Solar, LLC",59555,Vega Solar,CA,Merced,CISO,IPP Non-CHP,VEGA1,20,20,20,Solar Photovoltaic,(OP) Operating,36.925833,-120.82
+17826,59345,"Colton Solar One, LLC",59597,"Colton Solar One, LLC",CA,San Bernardino,CISO,IPP Non-CHP,CS001,2.5,2.5,2.5,Solar Photovoltaic,(OP) Operating,34.093333,-117.3194
+17827,59346,"Colton Solar Two, LLC",59598,"Colton Solar Two, LLC",CA,San Bernardino,CISO,IPP Non-CHP,CS002,1,1,1,Solar Photovoltaic,(OP) Operating,34.042222,-117.3617
+17828,61230,"Arevon Energy, Inc.",59599,Tropico Solar PV Plant,CA,Tulare,CISO,IPP Non-CHP,GEN1,14,13,11,Solar Photovoltaic,(OP) Operating,35.831944,-119.0561
+17829,61230,"Arevon Energy, Inc.",59600,Nicolis Solar PV Plant,CA,Tulare,CISO,IPP Non-CHP,GEN1,20,19,16,Solar Photovoltaic,(OP) Operating,35.835833,-119.0561
+17835,60453,Onward Energy,59607,"Maricopa West Solar PV, LLC",CA,Kern,CISO,IPP Non-CHP,MWS,20,20,20,Solar Photovoltaic,(OP) Operating,35.115278,-119.3178
+17836,59353,"AP North Lake I, LP",59610,"AP North Lake I, LP",CA,Riverside,CISO,IPP Non-CHP,APNLI,20,20,20,Solar Photovoltaic,(OP) Operating,33.74,-117.0106
+17864,66100,Boralex US Operations LLC,59633,Kettleman Solar -Centaurus,CA,Kings,CISO,IPP Non-CHP,KS,20,20,18,Solar Photovoltaic,(OP) Operating,36.050833,-119.9475
+17873,61230,"Arevon Energy, Inc.",59638,Coronal Lost Hills,CA,Kern,CISO,IPP Non-CHP,CLH,20,20,20,Solar Photovoltaic,(OP) Operating,35.726667,-119.9058
+17889,11208,Los Angeles Department of Water & Power,59651,"Forever 21 Retail, Inc.",CA,Los Angeles,LDWP,IPP Non-CHP,W4161,1.3,1.3,1,Solar Photovoltaic,(OP) Operating,34.071389,-118.1961
+17890,11208,Los Angeles Department of Water & Power,59652,Nordhoff Place,CA,Los Angeles,LDWP,IPP Non-CHP,W4162,0.9,1,0.6,Solar Photovoltaic,(OP) Operating,34.236667,-118.5658
+17895,60453,Onward Energy,59657,"Imperial Valley Solar Co (IVSC) 2, LLC",CA,Imperial,IID,IPP Non-CHP,IVSC2,20,20,20,Solar Photovoltaic,(OP) Operating,33.252222,-115.4975
+17921,60281,"Altus Power America Management, LLC",59687,Sun Harvest Solar NDP1,CA,Merced,CISO,IPP Non-CHP,NDP1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,37.05758,-120.6536
+17932,60453,Onward Energy,59703,"Cottonwood Solar, LLC Cottonwood Carport",CA,Marin,CISO,IPP Non-CHP,1,1,1,1,Solar Photovoltaic,(OP) Operating,38.129759,-122.5682
+17958,65411,Duke Energy Renewables Services,59722,Seville 1,CA,Imperial,IID,IPP Non-CHP,SEV1,20,20,20,Solar Photovoltaic,(OP) Operating,33.1125,-116.0139
+17959,65411,Duke Energy Renewables Services,59723,Seville 2,CA,Imperial,IID,IPP Non-CHP,SEV2,30,30,30,Solar Photovoltaic,(OP) Operating,33.1101,-116.0059
+17968,61012,AES Distributed Energy,59730,SEPV 18,CA,Los Angeles,CISO,IPP Non-CHP,SPV18,2,2,2,Solar Photovoltaic,(OP) Operating,34.613602,-117.9344
+17975,61012,AES Distributed Energy,59737,Aspiration G,CA,Fresno,CISO,IPP Non-CHP,ASPRG,9,9,9,Solar Photovoltaic,(OP) Operating,36.552186,-120.3525
+17976,61012,AES Distributed Energy,59738,Citizen B,CA,Fresno,CISO,IPP Non-CHP,CSB,5,5,5,Solar Photovoltaic,(OP) Operating,36.723806,-120.4321
+17977,61012,AES Distributed Energy,59739,Lancaster WAD B,CA,Los Angeles,CISO,IPP Non-CHP,LWADB,3,3,3,Solar Photovoltaic,(OP) Operating,34.780192,-118.1933
+17978,61012,AES Distributed Energy,59740,SEPV Mojave West,CA,Kern,CISO,IPP Non-CHP,SPVMW,20,20,20,Solar Photovoltaic,(OP) Operating,35.022903,-118.2827
+17984,59512,"Team-Solar, Inc.",59746,DSH (CA) - Coalinga State Hospital,CA,Fresno,CISO,IPP Non-CHP,1,2,2,2,Solar Photovoltaic,(OP) Operating,36.13726,-120.2185
+17986,59512,"Team-Solar, Inc.",59748,CDCR (CA) - Pleasant Valley State Prison,CA,Fresno,CISO,IPP Non-CHP,1,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,36.137219,-120.2244
+18050,11208,Los Angeles Department of Water & Power,59798,Colon PV,CA,Los Angeles,LDWP,IPP Non-CHP,W4172,1.3,0.9,1.4,Solar Photovoltaic,(OP) Operating,33.792694,-118.2524
+18099,59616,"63SU 8me, LLC",59840,Springbok Solar Farm 2,CA,Kern,LDWP,IPP Non-CHP,SB2,155,155,155,Solar Photovoltaic,(OP) Operating,35.250031,-117.9768
+18146,61230,"Arevon Energy, Inc.",59868,Kingbird A Solar LLC,CA,Kern,CISO,IPP Non-CHP,GEN01,20,20,20,Solar Photovoltaic,(OP) Operating,34.819,-118.432
+18147,65902,"Little Bear Solar 1, LLC (Longroad)",59870,"Little Bear Solar 1, LLC",CA,Fresno,CISO,IPP Non-CHP,GEN01,40,40,40,Solar Photovoltaic,(OP) Operating,36.716,-120.415
+18148,59656,Desert Quartzite LLC,59871,Desert Quartzite,CA,Riverside,CISO,IPP Non-CHP,GEN01,300,300,300,Solar Photovoltaic,(OP) Operating,33.565,-114.753
+18150,59660,"Solar Star California XXXII, LLC",59872,UC Davis South Campus,CA,Yolo,CISO,Commercial Non-CHP,UCD1,13,13,13,Solar Photovoltaic,(OP) Operating,38.55,-121.75
+18156,61785,EDP Renewables North America LLC,59878,Windhub Solar A LLC,CA,Kern,CISO,IPP Non-CHP,GEN01,20,20,20,Solar Photovoltaic,(OP) Operating,35.0199,-118.2879
+18157,61943,"North Rosamond Solar, LLC",59879,North Rosamond Solar LLC,CA,Kern,CISO,IPP Non-CHP,GEN01,151.1,151.1,151.1,Solar Photovoltaic,(OP) Operating,34.862,-118.38
+18170,56769,Consolidated Edison Development Inc.,59900,Corcoran Solar 3,CA,Kings,CISO,IPP Non-CHP,C3CA,20,20,20,Solar Photovoltaic,(OP) Operating,36.15042,-119.5854
+18187,56769,Consolidated Edison Development Inc.,59915,Oro Loma,CA,Fresno,CISO,IPP Non-CHP,ORCA,20,20,20,Solar Photovoltaic,(OP) Operating,36.876847,-120.6676
+18188,59139,SunEdison LLC,59916,SunE- E Philadelphia Ontario,CA,San Bernardino,CISO,IPP Non-CHP,12307,1,1,1,Solar Photovoltaic,(OP) Operating,34.03527,-117.5341
+18212,17650,Southern Power Co,59939,RE Tranquillity,CA,Fresno,CISO,IPP Non-CHP,TQ,205.3,200,200,Solar Photovoltaic,(OP) Operating,36.581365,-120.4045
+18213,56769,Consolidated Edison Development Inc.,59940,"Great Valley Solar Portfolio Holdings, L",CA,Fresno,CISO,IPP Non-CHP,GVS2,60,60,60,Solar Photovoltaic,(OP) Operating,36.581182,-120.3796
+18214,56769,Consolidated Edison Development Inc.,59940,"Great Valley Solar Portfolio Holdings, L",CA,Fresno,CISO,IPP Non-CHP,GVS3,20,20,20,Solar Photovoltaic,(OP) Operating,36.581182,-120.3796
+18215,56769,Consolidated Edison Development Inc.,59940,"Great Valley Solar Portfolio Holdings, L",CA,Fresno,CISO,IPP Non-CHP,GVS4,20,20,20,Solar Photovoltaic,(OP) Operating,36.581182,-120.3796
+18216,56769,Consolidated Edison Development Inc.,59940,"Great Valley Solar Portfolio Holdings, L",CA,Fresno,CISO,IPP Non-CHP,TQ8,102.5,102.5,102.5,Solar Photovoltaic,(OP) Operating,36.581182,-120.3796
+18218,63249,Terraform Arcadia,59942,Morgan Lancaster 1,CA,Los Angeles,CISO,IPP Non-CHP,ML1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.6608,-118.0836
+18224,59711,Bakersfield 111 LLC,59948,Bakersfield 111,CA,Kern,PACW,IPP Non-CHP,BF111,1.4,1.4,1.4,Solar Photovoltaic,(OP) Operating,35.317551,-118.9899
+18240,61012,AES Distributed Energy,59961,Western Antelope Blue Sky B,CA,Los Angeles,CISO,IPP Non-CHP,WABSB,20,19,19,Solar Photovoltaic,(OP) Operating,34.73206,-118.3136
+18241,61012,AES Distributed Energy,59962,North Lancaster Ranch,CA,Los Angeles,CISO,IPP Non-CHP,NLR,20,18,17,Solar Photovoltaic,(OP) Operating,34.719538,-118.313
+18242,61012,AES Distributed Energy,59963,Central Antelope Dry Ranch C,CA,Los Angeles,CISO,IPP Non-CHP,CADRC,20,17,16,Solar Photovoltaic,(OP) Operating,34.720499,-118.3005
+18243,61012,AES Distributed Energy,59964,Elevation Solar C,CA,Los Angeles,CISO,IPP Non-CHP,ELVSC,40,39,37,Solar Photovoltaic,(OP) Operating,34.730263,-118.3043
+18254,59727,RE Astoria LLC,59976,RE Astoria,CA,Kern,CISO,IPP Non-CHP,ASTR1,100,100,100,Solar Photovoltaic,(OP) Operating,34.844226,-118.4585
+18255,59728,RE Astoria 2 LLC,59977,RE Astoria 2,CA,Kern,CISO,IPP Non-CHP,ASTR2,75,75,75,Solar Photovoltaic,(OP) Operating,34.836649,-118.4802
+18256,60496,"Adapture Renewables, Inc.",59978,"Adapture CA2, LLC",CA,Glenn,PACW,IPP Non-CHP,ECA22,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,39.69898,-122.1756
+18257,59736,Columbia Solar Energy LLC,59979,"Columbia Solar Energy, LLC",CA,Contra Costa,CISO,IPP Non-CHP,GEN1,19.2,19.2,19.2,Solar Photovoltaic,(OP) Operating,38.019671,-121.8651
+18281,17650,Southern Power Co,60007,Morelos del Sol,CA,Kern,CISO,IPP Non-CHP,MORLS,15,15,15,Solar Photovoltaic,(OP) Operating,35.731362,-119.8187
+18300,63249,Terraform Arcadia,60026,Little Rock Pham Solar,CA,Los Angeles,LDWP,IPP Non-CHP,PV1,3,3,3,Solar Photovoltaic,(OP) Operating,34.600231,-117.9475
+18301,61012,AES Distributed Energy,60027,Adera Solar,CA,Madera,CISO,IPP Non-CHP,ADERA,20,19,19,Solar Photovoltaic,(OP) Operating,37.120586,-120.3249
+18305,59773,"SunE Solar XVI Lessor, LLC",60032,SunE Rochester,CA,San Bernardino,CISO,IPP Non-CHP,RCHTR,1,1,1,Solar Photovoltaic,(OP) Operating,34.097728,-117.5445
+18306,61423,"California Flats Solar 130, LLC",60033,"CA Flats Solar 130, LLC",CA,San Luis Obispo,CISO,IPP Non-CHP,GEN01,130,130,130,Solar Photovoltaic,(OP) Operating,35.615573,-120.4044
+18307,61230,"Arevon Energy, Inc.",60034,"CA Flats Solar 150, LLC",CA,San Luis Obispo,CISO,IPP Non-CHP,GEN01,150,150,150,Solar Photovoltaic,(OP) Operating,35.615573,-120.4044
+18308,59775,"Solar Star California XXXI, LLC",60035,Tequesquite Landfill Solar PV Project,CA,Riverside,CISO,IPP Non-CHP,RPU1,7.3,7.3,7.3,Solar Photovoltaic,(OP) Operating,33.97819,-117.3851
+18311,66100,Boralex US Operations LLC,60039,Frontier Solar LLC,CA,Stanislaus,CISO,IPP Non-CHP,FTRS,20,20,18,Solar Photovoltaic,(OP) Operating,37.379919,-121.1307
+18313,61112,"Cuyama Solar, LLC",60043,"Cuyama Solar, LLC",CA,Santa Barbara,CISO,IPP Non-CHP,GEN01,40,40,40,Solar Photovoltaic,(OP) Operating,34.901,-119.596
+18331,59791,Lindberg Field Solar I LLC,60060,Lindberg FIeld Solar,CA,San Diego,CISO,IPP Non-CHP,SDIA2,1.8,1.7,1.7,Solar Photovoltaic,(OP) Operating,32.729238,-117.2077
+18332,59791,Lindberg Field Solar I LLC,60060,Lindberg FIeld Solar,CA,San Diego,CISO,IPP Non-CHP,SDIAA,0.6,0.5,0.5,Solar Photovoltaic,(OP) Operating,32.729238,-117.2077
+18333,59791,Lindberg Field Solar I LLC,60060,Lindberg FIeld Solar,CA,San Diego,CISO,IPP Non-CHP,SDIAB,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,32.729238,-117.2077
+18350,56769,Consolidated Edison Development Inc.,60077,CED Avenal,CA,Kings,CISO,IPP Non-CHP,AVCA,15.8,15.8,15.8,Solar Photovoltaic,(OP) Operating,35.996324,-120.1515
+18351,56769,Consolidated Edison Development Inc.,60078,CED Ducor 1,CA,Tulare,CISO,IPP Non-CHP,DU1CA,20,20,20,Solar Photovoltaic,(OP) Operating,35.856278,-119.0684
+18352,56769,Consolidated Edison Development Inc.,60079,CED Ducor 2,CA,Tulare,CISO,IPP Non-CHP,DU2CA,20,20,20,Solar Photovoltaic,(OP) Operating,35.844167,-119.0681
+18353,56769,Consolidated Edison Development Inc.,60080,CED Ducor 3,CA,Tulare,CISO,IPP Non-CHP,DU3CA,15,15,15,Solar Photovoltaic,(OP) Operating,35.845378,-119.057
+18354,56769,Consolidated Edison Development Inc.,60081,CED Ducor 4,CA,Tulare,CISO,IPP Non-CHP,DU4CA,20,20,20,Solar Photovoltaic,(OP) Operating,35.850403,-119.027
+18356,20323,"Wellhead Services, Inc",60083,Fresno Solar,CA,Fresno,CISO,IPP Non-CHP,PV-S,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.616846,-120.1051
+18357,20323,"Wellhead Services, Inc",60083,Fresno Solar,CA,Fresno,CISO,IPP Non-CHP,PV-W,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.616846,-120.1051
+18361,57313,Tesla Inc.,60085,AVS Lancaster 1,CA,Los Angeles,CISO,IPP Non-CHP,PV1,3.7,3.7,3.7,Solar Photovoltaic,(OP) Operating,34.748894,-117.9736
+18362,57313,Tesla Inc.,60086,US-TOPCO (Soccer Center),CA,Los Angeles,CISO,IPP Non-CHP,PV1,3,3,3,Solar Photovoltaic,(OP) Operating,34.66072,-118.0812
+18366,61230,"Arevon Energy, Inc.",60091,"Kingbird B Solar, LLC",CA,Kern,CISO,IPP Non-CHP,GEN01,20,20,20,Solar Photovoltaic,(OP) Operating,34.824206,-118.4385
+18367,59843,"Blythe Solar II, LLC",60092,"Blythe Solar II, LLC",CA,Riverside,CISO,IPP Non-CHP,BLCK4,33.2,33.2,33.2,Solar Photovoltaic,(OP) Operating,33.68,-114.73
+18368,59843,"Blythe Solar II, LLC",60092,"Blythe Solar II, LLC",CA,Riverside,CISO,IPP Non-CHP,BLCK5,33.9,33.9,33.9,Solar Photovoltaic,(OP) Operating,33.68,-114.73
+18369,59843,"Blythe Solar II, LLC",60092,"Blythe Solar II, LLC",CA,Riverside,CISO,IPP Non-CHP,BLCK6,32,32,32,Solar Photovoltaic,(OP) Operating,33.68,-114.73
+18370,59843,"Blythe Solar II, LLC",60092,"Blythe Solar II, LLC",CA,Riverside,CISO,IPP Non-CHP,BLCK7,32.1,32.1,32.1,Solar Photovoltaic,(OP) Operating,33.68,-114.73
+18373,59842,"Blythe Solar 110, LLC",60093,"Blythe Solar 110, LLC",CA,Riverside,CISO,IPP Non-CHP,BLCK1,38.7,38.7,38.7,Solar Photovoltaic,(OP) Operating,33.68,-114.742
+18374,59842,"Blythe Solar 110, LLC",60093,"Blythe Solar 110, LLC",CA,Riverside,CISO,IPP Non-CHP,BLCK2,36.3,36.3,36.3,Solar Photovoltaic,(OP) Operating,33.68,-114.742
+18375,59842,"Blythe Solar 110, LLC",60093,"Blythe Solar 110, LLC",CA,Riverside,CISO,IPP Non-CHP,BLCK3,34.8,34.8,34.8,Solar Photovoltaic,(OP) Operating,33.68,-114.742
+18376,59844,"Blythe Solar III, LLC",60094,"Blythe Solar III, LLC Hybrid",CA,Riverside,CISO,IPP Non-CHP,BLSL3,136.8,136.8,136.8,Solar Photovoltaic,(OP) Operating,33.656,-114.742
+18378,59845,"Blythe Solar IV, LLC",60095,"Blythe Solar IV, LLC",CA,Riverside,CISO,IPP Non-CHP,BLS4A,68.7,68.7,68.7,Solar Photovoltaic,(OP) Operating,33.682,-114.768
+18379,59845,"Blythe Solar IV, LLC",60095,"Blythe Solar IV, LLC",CA,Riverside,CISO,IPP Non-CHP,BLS4B,68.7,68.7,68.7,Solar Photovoltaic,(OP) Operating,33.682,-114.768
+18433,61012,AES Distributed Energy,60142,Lemoore 1,CA,Kings,CISO,IPP Non-CHP,LEPV1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.257938,-119.7981
+18441,57104,Golden Springs Development Company LLC,60151,Building F,CA,Los Angeles,CISO,IPP Non-CHP,BLDGF,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,33.914356,-118.0502
+18443,57104,Golden Springs Development Company LLC,60153,Building G,CA,Los Angeles,CISO,IPP Non-CHP,BLDGG,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,33.912917,-118.0506
+18444,57104,Golden Springs Development Company LLC,60154,Buidling L,CA,Los Angeles,CISO,IPP Non-CHP,BLDG1,1,1,1,Solar Photovoltaic,(OP) Operating,33.912917,-118.0419
+18454,57104,Golden Springs Development Company LLC,60182,Dulles,CA,Riverside,CISO,IPP Non-CHP,DULLE,2,2,2,Solar Photovoltaic,(OP) Operating,34.030119,-117.5178
+18455,57104,Golden Springs Development Company LLC,60183,Freeway Springs,CA,Los Angeles,CISO,IPP Non-CHP,FSPRI,2,2,2,Solar Photovoltaic,(OP) Operating,33.892614,-118.0376
+18458,61012,AES Distributed Energy,60185,Solverde 1,CA,Los Angeles,CISO,IPP Non-CHP,SOLV1,85,81,78,Solar Photovoltaic,(OP) Operating,34.655694,-118.2982
+18459,61012,AES Distributed Energy,60186,Antelope DSR 1,CA,Los Angeles,CISO,IPP Non-CHP,DSR1,50,48,46,Solar Photovoltaic,(OP) Operating,34.655556,-118.2807
+18460,61012,AES Distributed Energy,60187,Antelope DSR 2,CA,Los Angeles,CISO,IPP Non-CHP,DSR2,5,5,5,Solar Photovoltaic,(OP) Operating,34.686944,-118.3117
+18465,59969,Whitethorn Solar LLC,60193,Whitethorn Solar LLC,CA,Alameda,CISO,IPP Non-CHP,GEN1,3.3,3.3,3.3,Solar Photovoltaic,(OP) Operating,37.691,-121.717
+18479,64778,"Strata Manager, LLC",60219,Strata Roof 1,CA,Sacramento,BANC,IPP Non-CHP,UNIT1,1,1,0.6,Solar Photovoltaic,(OP) Operating,38.643527,-121.5055
+18497,60413,"Rancho Seco Solar, LLC",60226,"Rancho Seco Solar, LLC",CA,Sacramento,BANC,IPP Non-CHP,GEN01,10.8,10.8,10.8,Solar Photovoltaic,(OP) Operating,38.339857,-121.1145
+18503,57313,Tesla Inc.,60231,Genentech-Oceanside Hybrid,CA,San Diego,CISO,IPP Non-CHP,PV1,4.5,4.5,4.5,Solar Photovoltaic,(OP) Operating,33.211095,-117.2996
+18507,17650,Southern Power Co,60233,RE Garland,CA,Kern,CISO,IPP Non-CHP,PV2,185.1,180,180,Solar Photovoltaic,(OP) Operating,34.825267,-118.525
+18514,58468,Dominion Renewable Energy,60237,Midway Solar Farm II,CA,Imperial,IID,IPP Non-CHP,MSF2,30,30,30,Solar Photovoltaic,(OP) Operating,33.162056,-115.5317
+18520,59050,Algonquin Power Co,60242,"Algonquin SKIC 10 Solar, LLC",CA,Kern,CISO,IPP Non-CHP,SKI10,10,10,10,Solar Photovoltaic,(OP) Operating,35.126111,-119.2434
+18544,12397,Metropolitan Water District of S CA,60255,Weymouth Solar Plant,CA,Los Angeles,CISO,Electric Utility,1,2,2,2,Solar Photovoltaic,(OP) Operating,34.108618,-117.7822
+18545,12397,Metropolitan Water District of S CA,60255,Weymouth Solar Plant,CA,Los Angeles,CISO,Electric Utility,2,1,1,1,Solar Photovoltaic,(OP) Operating,34.108618,-117.7822
+18569,60067,Westside Assets LLC,60275,Westside Solar Power PV1,CA,Kings,CISO,IPP Non-CHP,WSPV1,2,2,2,Solar Photovoltaic,(OP) Operating,36.219,-119.907
+18573,61012,AES Distributed Energy,60279,Antelope Big Sky Ranch,CA,Los Angeles,CISO,IPP Non-CHP,ABSR,20,19,19,Solar Photovoltaic,(OP) Operating,34.694839,-118.2877
+18574,61012,AES Distributed Energy,60280,Summer Solar LLC,CA,Los Angeles,CISO,IPP Non-CHP,SUMSL,20,19,19,Solar Photovoltaic,(OP) Operating,34.714703,-118.311
+18575,63250,"Central Antelope Dry Ranch B, LLC",60281,Central Antelope Dry Ranch B LLC,CA,Los Angeles,CISO,IPP Non-CHP,CADRB,3,3,3,Solar Photovoltaic,(OP) Operating,34.705549,-118.3014
+18597,60412,"Portal Ridge Solar, LLC",60310,"Portal Ridge Solar B, LLC",CA,Los Angeles,CISO,IPP Non-CHP,GEN01,20,20,20,Solar Photovoltaic,(OP) Operating,34.71647,-118.2821
+18598,60412,"Portal Ridge Solar, LLC",60311,"Portal Ridge Solar C, LLC",CA,Los Angeles,CISO,IPP Non-CHP,GEN01,11.4,11.4,11.4,Solar Photovoltaic,(OP) Operating,34.71412,-118.2739
+18602,60025,Greenbacker Renewable Energy Corporation,60315,Midway Solar Farm III,CA,Imperial,IID,IPP Non-CHP,MSF3,20,20,20,Solar Photovoltaic,(OP) Operating,33.154761,-115.5449
+18609,61672,Willow Spring Solar LLC,60324,"Willow Spring Solar, LLC",CA,Kern,CISO,IPP Non-CHP,GEN01,107.9,107.9,107.9,Solar Photovoltaic,(OP) Operating,34.826697,-118.3352
+18627,60118,"83WI 8ME, LLC",60336,Midway Solar Farm 1,CA,Imperial,IID,IPP Non-CHP,MSF1,50,50,50,Solar Photovoltaic,(OP) Operating,33.176627,-115.5728
+18687,17650,Southern Power Co,60386,RE Garland A,CA,Kern,CISO,IPP Non-CHP,PV1,20.2,20,20,Solar Photovoltaic,(OP) Operating,34.821453,-118.4974
+18691,60191,"RE Barren Ridge 1, LLC",60389,RE Barren Ridge 1,CA,Kern,LDWP,IPP Non-CHP,REBR1,60,60,60,Solar Photovoltaic,(OP) Operating,35.20473,-118.0688
+18714,58135,Ecos Energy LLC,60412,Munro Valley Solar,CA,Inyo,CISO,IPP Non-CHP,MUN,4,4,4,Solar Photovoltaic,(OP) Operating,36.2647,-117.9955
+18727,61944,MN8 Energy LLC,60426,RCWD PV Project,CA,Riverside,CISO,IPP Non-CHP,RCWD,4.1,3.9,2.7,Solar Photovoltaic,(OP) Operating,33.5226,-117.1815
+18729,58540,California PV Energy LLC,60428,CA Dept of Public Health at Richmond,CA,Contra Costa,CISO,IPP Non-CHP,PV1,2.2,2.2,2.2,Solar Photovoltaic,(OP) Operating,37.92,-122.344
+18743,63249,Terraform Arcadia,60446,E&B Resources,CA,Kern,CISO,IPP Non-CHP,PVEB,1,1,1,Solar Photovoltaic,(OP) Operating,35.534584,-119.06
+18747,63249,Terraform Arcadia,60450,Corcoran,CA,Kings,CISO,IPP Non-CHP,PVCR,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,36.102307,-119.5665
+18776,61012,AES Distributed Energy,60474,"Bayshore Solar B, LLC",CA,Los Angeles,CISO,IPP Non-CHP,BSHRB,20,20,20,Solar Photovoltaic,(OP) Operating,34.678305,-118.3026
+18777,61012,AES Distributed Energy,60475,"Bayshore Solar C, LLC",CA,Los Angeles,CISO,IPP Non-CHP,BSHRC,20,20,20,Solar Photovoltaic,(OP) Operating,34.681338,-118.3141
+18782,61012,AES Distributed Energy,60481,"Bayshore Solar A, LLC",CA,Los Angeles,CISO,IPP Non-CHP,BSHRA,20,20,20,Solar Photovoltaic,(OP) Operating,34.667817,-118.2981
+18784,65411,Duke Energy Renewables Services,60485,"Longboat Solar, LLC",CA,San Bernardino,CISO,IPP Non-CHP,PV1,20,20,20,Solar Photovoltaic,(OP) Operating,34.541,-117.061
+18789,60277,54 KR 8me LLC,60490,Redwood 4 Solar Farm,CA,Kern,CISO,IPP Non-CHP,RW4SF,20,20,20,Solar Photovoltaic,(OP) Operating,35.314198,-118.8119
+18791,60278,64KT 8me LLC,60491,Springbok 3 Solar Farm Hybrid,CA,Kern,LDWP,IPP Non-CHP,SB3SF,90,90,90,Solar Photovoltaic,(OP) Operating,35.171153,-118.0017
+18807,59462,"Heelstone Energy Holdings, LLC",60509,Valley Center,CA,San Diego,CISO,IPP Non-CHP,PV1,2.3,2.3,2.3,Solar Photovoltaic,(OP) Operating,33.2503,-117.0226
+18814,59462,"Heelstone Energy Holdings, LLC",60516,NLP Granger,CA,San Diego,CISO,IPP Non-CHP,PV1,3,3,3,Solar Photovoltaic,(OP) Operating,33.2704,-117.0588
+18856,60307,NRG Solar Blythe II LLC,60558,Solar Blythe 2,CA,Riverside,CISO,IPP Non-CHP,PV1,20,20,20,Solar Photovoltaic,(OP) Operating,33.618678,-114.6962
+18897,61944,MN8 Energy LLC,60590,"Golden Fields Solar I, LLC",CA,Kern,CISO,IPP Non-CHP,RS1,54,54,54,Solar Photovoltaic,(OP) Operating,34.839012,-118.3868
+18898,61944,MN8 Energy LLC,60591,"Solar Star California, XLI, LLC",CA,Kern,CISO,IPP Non-CHP,RS1,54,54,54,Solar Photovoltaic,(OP) Operating,34.839012,-118.3868
+18977,60399,"GASNA 6P, LLC",60678,San Joaquin Solar,CA,Fresno,CISO,IPP Non-CHP,SJ1A,19.8,18.5,18.5,Solar Photovoltaic,(OP) Operating,36.527,-120.149
+18978,60399,"GASNA 6P, LLC",60678,San Joaquin Solar,CA,Fresno,CISO,IPP Non-CHP,SJ1B,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.527,-120.149
+19086,61012,AES Distributed Energy,60744,SEPV Imperial Dixieland West,CA,Imperial,IID,IPP Non-CHP,SESI2,3,2.9,2.4,Solar Photovoltaic,(OP) Operating,32.79411,-115.7793
+19087,61012,AES Distributed Energy,60745,SEPV Imperial Dixieland East,CA,Imperial,IID,IPP Non-CHP,SESI1,2,1.9,1.6,Solar Photovoltaic,(OP) Operating,32.792038,-115.7734
+19123,61944,MN8 Energy LLC,60777,"American Kings Solar, LLC",CA,Kings,CISO,IPP Non-CHP,GEN01,128,128,128,Solar Photovoltaic,(OP) Operating,36.24,-119.898
+19137,60455,"PVN Milliken, LLC",60790,"PVN Milliken, LLC",CA,San Bernardino,CISO,IPP Non-CHP,PV,3,3,3,Solar Photovoltaic,(OP) Operating,34.038433,-117.5658
+19138,796,Arizona Electric Pwr Coop Inc,60791,SunAnza,CA,Riverside,CISO,Electric Utility,ANZA1,2,2,2,Solar Photovoltaic,(OP) Operating,33.555267,-116.6396
+19139,796,Arizona Electric Pwr Coop Inc,60791,SunAnza,CA,Riverside,CISO,Electric Utility,ANZA2,1.4,1.4,1.4,Solar Photovoltaic,(OP) Operating,33.555267,-116.6396
+19160,60496,"Adapture Renewables, Inc.",60813,Cloverdale Solar Center,CA,Sonoma,CISO,IPP Non-CHP,ECA02,1,1,1,Solar Photovoltaic,(OP) Operating,38.769581,-123.0207
+19174,57313,Tesla Inc.,60824,Valley Sanitary District WTP Solar,CA,Riverside,LDWP,IPP Non-CHP,PV1,1,1,1,Solar Photovoltaic,(OP) Operating,33.708661,-116.1989
+19175,60495,"Sunpin Holdings, LLC",60825,Colgreen North Shore Solar Farm,CA,Riverside,IID,IPP Non-CHP,CNS1,74.8,74.8,74.8,Solar Photovoltaic,(OP) Operating,33.540124,-115.9748
+19196,57313,Tesla Inc.,60844,Genentech Vacaville Meter #1,CA,Solano,CISO,IPP Non-CHP,PV1,3.8,3.8,3.8,Solar Photovoltaic,(OP) Operating,38.390756,-121.9478
+19197,57313,Tesla Inc.,60844,Genentech Vacaville Meter #1,CA,Solano,CISO,IPP Non-CHP,PV2,2.3,2.3,2.3,Solar Photovoltaic,(OP) Operating,38.390756,-121.9478
+19198,57313,Tesla Inc.,60846,US GSA - Sacramento,CA,Sacramento,BANC,IPP Non-CHP,PV1,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,38.601354,-121.3979
+19212,60518,"California PV Energy 2, LLC",60861,Dept of General Services -FTB,CA,Sacramento,BANC,IPP Non-CHP,PV1,2.7,2.7,2.7,Solar Photovoltaic,(OP) Operating,38.565,-121.343
+19219,61944,MN8 Energy LLC,60869,"Solar Star California, XLIV, LLC",CA,Los Angeles,CISO,IPP Non-CHP,PB1,9.5,9.5,9.5,Solar Photovoltaic,(OP) Operating,34.511889,-117.9228
+19261,60281,"Altus Power America Management, LLC",60914,Westmont 300B,CA,Los Angeles,LDWP,IPP Non-CHP,W5328,3,2.3,1.5,Solar Photovoltaic,(OP) Operating,33.766067,-118.2847
+19321,49893,Invenergy Services LLC,60947,Jacumba Solar Farm,CA,San Diego,CISO,IPP Non-CHP,Q644A,20,20,20,Solar Photovoltaic,(OP) Operating,32.6212,-116.129
+19324,11208,Los Angeles Department of Water & Power,60953,Owens Valley Solar Project 11,CA,Inyo,LDWP,IPP Non-CHP,W5381,1,1,1,Solar Photovoltaic,(OP) Operating,36.275144,-118.0122
+19353,60619,"Whitney Point Solar, LLC",60975,Whitney Point Solar,CA,Fresno,CISO,IPP Non-CHP,WS532,20,20,20,Solar Photovoltaic,(OP) Operating,36.376889,-120.1385
+19355,61944,MN8 Energy LLC,60978,CSUF State College,CA,Orange,CISO,IPP Non-CHP,PV1,1,1,1,Solar Photovoltaic,(OP) Operating,33.87912,-117.8887
+19356,61944,MN8 Energy LLC,60979,CSUF Nutwood Solar,CA,Orange,CISO,IPP Non-CHP,PV1,1.9,1.9,1.9,Solar Photovoltaic,(OP) Operating,33.87912,-117.8887
+19358,60614,"Westside Solar, LLC",60981,NextEra Westside PV,CA,Fresno,CISO,IPP Non-CHP,WS526,20,20,20,Solar Photovoltaic,(OP) Operating,36.381775,-120.1345
+19361,60618,"Lindberg Field Solar 2, LLC",60984,Lindberg Field Solar 2,CA,San Diego,CISO,IPP Non-CHP,PV1,1.9,1.9,1.9,Solar Photovoltaic,(OP) Operating,32.729444,-117.2051
+19371,16609,San Diego Gas & Electric Co,60995,Ramona Solar Energy,CA,San Diego,CISO,Electric Utility,1,4.3,3.7,3.6,Solar Photovoltaic,(OP) Operating,33.018486,-116.8607
+19386,60648,"SCDA Solar 1, LLC",61006,SCDA Solar 1,CA,Sacramento,CISO,IPP Non-CHP,SCAIR,7,7,7,Solar Photovoltaic,(OP) Operating,38.690186,-121.5865
+19400,61012,AES Distributed Energy,61013,Marin Clean Energy Solar One,CA,Contra Costa,CISO,IPP Non-CHP,MCES1,10.5,10.5,10.5,Solar Photovoltaic,(OP) Operating,37.945296,-122.3772
+19487,61012,AES Distributed Energy,61115,Manteca Land PV,CA,San Joaquin,CISO,IPP Non-CHP,MANT1,1,1,1,Solar Photovoltaic,(OP) Operating,37.84013,-121.2162
+19488,61012,AES Distributed Energy,61116,Delano Land 1,CA,Kern,CISO,IPP Non-CHP,DELA1,1,1,1,Solar Photovoltaic,(OP) Operating,35.761217,-119.3444
+19489,61012,AES Distributed Energy,61117,Bakersfield PV 1,CA,Kern,CISO,IPP Non-CHP,BAKE1,5.3,5.3,5.3,Solar Photovoltaic,(OP) Operating,35.324982,-118.9815
+19490,61012,AES Distributed Energy,61118,Bakersfield Industrial PV 1,CA,Kern,CISO,IPP Non-CHP,BIND1,1,1,1,Solar Photovoltaic,(OP) Operating,35.330032,-118.9931
+19519,57313,Tesla Inc.,61152,Intel Folsom Phase 3,CA,Sacramento,BANC,IPP Non-CHP,PV1,5.2,5.2,5.2,Solar Photovoltaic,(OP) Operating,38.645961,-121.1626
+19534,60797,68SF 8me LLC,61168,"Eland Solar & Storage Center, Phase 1 Hy",CA,Kern,LDWP,IPP Non-CHP,68SF8,200,200,200,Solar Photovoltaic,(OP) Operating,35.2237,-117.977
+19590,63447,"Imperial Valley Solar 3, LLC",61202,Mount Signal Solar Farm V,CA,Imperial,CISO,IPP Non-CHP,MTSG3,252.3,252.3,252.3,Solar Photovoltaic,(OP) Operating,32.678805,-115.5672
+19600,57313,Tesla Inc.,61209,Sacramento Regional County Sanitation PV,CA,Sacramento,BANC,IPP Non-CHP,PV1,3.5,3.5,3.5,Solar Photovoltaic,(OP) Operating,38.448604,-121.4637
+19605,61012,AES Distributed Energy,61215,Green Beanworks C PV,CA,Los Angeles,CISO,IPP Non-CHP,GBWXC,3,3,3,Solar Photovoltaic,(OP) Operating,34.597,-117.931
+19606,61012,AES Distributed Energy,61216,Green Beanworks D PV,CA,Los Angeles,CISO,IPP Non-CHP,GBWXD,3,3,3,Solar Photovoltaic,(OP) Operating,34.654976,-118.0822
+19637,60281,"Altus Power America Management, LLC",61249,Westmont 300A,CA,Los Angeles,LDWP,IPP Non-CHP,W5531,2.9,2.9,2.9,Solar Photovoltaic,(OP) Operating,33.766067,-118.2889
+19638,60281,"Altus Power America Management, LLC",61250,USPS PV,CA,Los Angeles,CISO,Electric Utility,USPS1,7.4,7.4,7.4,Solar Photovoltaic,(OP) Operating,33.977922,-118.2587
+19652,61012,AES Distributed Energy,61264,Antelope Expansion 2,CA,Los Angeles,CISO,IPP Non-CHP,ANTX2,105,105,105,Solar Photovoltaic,(OP) Operating,34.744977,-118.3092
+19653,61012,AES Distributed Energy,61265,Antelope DSR 3,CA,Los Angeles,CISO,IPP Non-CHP,ADSR3,20,20,20,Solar Photovoltaic,(OP) Operating,34.736859,-118.3041
+19696,11208,Los Angeles Department of Water & Power,61319,Port of LA Solar FiT Project,CA,Los Angeles,LDWP,IPP Non-CHP,W4885,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,33.727977,-118.28
+19717,61012,AES Distributed Energy,61339,Green Beanworks B PV,CA,Los Angeles,CISO,IPP Non-CHP,GBWXB,3,3,3,Solar Photovoltaic,(OP) Operating,34.688042,-117.9895
+19727,60281,"Altus Power America Management, LLC",61348,Westmont 400A,CA,Los Angeles,LDWP,IPP Non-CHP,W5691,2.3,2.3,2.3,Solar Photovoltaic,(OP) Operating,33.764227,-118.2889
+19728,60281,"Altus Power America Management, LLC",61349,Westmont 400B,CA,Los Angeles,LDWP,IPP Non-CHP,W5694,2.2,2.2,2.2,Solar Photovoltaic,(OP) Operating,33.764227,-118.2847
+19732,61944,MN8 Energy LLC,61353,Mount Signal Solar Farm II,CA,Imperial,CISO,IPP Non-CHP,IVS2,153.5,153.5,153.5,Solar Photovoltaic,(OP) Operating,32.6685,-115.6292
+19758,61012,AES Distributed Energy,61377,Amazon - Patterson PV,CA,Stanislaus,BANC,IPP Non-CHP,PATT1,2.5,2.5,2.5,Solar Photovoltaic,(OP) Operating,37.468888,-121.1663
+19855,60281,"Altus Power America Management, LLC",61418,Valencia 1 Solar CA,CA,Imperial,IID,IPP Non-CHP,VAL1,3,3,3,Solar Photovoltaic,(OP) Operating,33.04358,-115.6278
+19856,61058,"One Ten Partners, LLC",61419,One Ten Partners PV,CA,Los Angeles,CISO,IPP Non-CHP,OTP,2,2,2,Solar Photovoltaic,(OP) Operating,34.615622,-117.9366
+19857,60059,ZGlobal Inc,61420,Merced 1 PV,CA,Merced,CISO,IPP Non-CHP,MRCD1,3,3,3,Solar Photovoltaic,(OP) Operating,36.989475,-120.8781
+19858,60059,ZGlobal Inc,61421,Madera 1 PV,CA,Madera,CISO,IPP Non-CHP,MDRA1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,37.056468,-120.167
+19882,17650,Southern Power Co,61445,Gaskell West 1 Solar Facility,CA,Kern,CISO,IPP Non-CHP,PV1,20,20,20,Solar Photovoltaic,(OP) Operating,34.832786,-118.5636
+19883,61069,RE Gaskell West LLC,61446,RE Gaskell West 2 LLC,CA,Kern,CISO,IPP Non-CHP,PV2,45,45,45,Solar Photovoltaic,(OP) Operating,34.834944,-118.5512
+19884,61069,RE Gaskell West LLC,61447,RE Gaskell West 3 LLC,CA,Kern,CISO,IPP Non-CHP,PV3,20,20,20,Solar Photovoltaic,(OP) Operating,34.834944,-118.5512
+19885,61069,RE Gaskell West LLC,61448,RE Gaskell West 4 LLC,CA,Kern,CISO,IPP Non-CHP,PV4,20,20,20,Solar Photovoltaic,(OP) Operating,34.827873,-118.5682
+19886,61069,RE Gaskell West LLC,61449,RE Gaskell West 5 LLC,CA,Kern,CISO,IPP Non-CHP,PV5,20,20,20,Solar Photovoltaic,(OP) Operating,34.834944,-118.5512
+19912,61944,MN8 Energy LLC,61463,Vandenberg Solar Project,CA,Santa Barbara,CISO,IPP Non-CHP,VBERG,25.3,25.3,25.3,Solar Photovoltaic,(OP) Operating,34.749708,-120.51
+20124,60281,"Altus Power America Management, LLC",61593,Westmont 301,CA,Los Angeles,LDWP,Commercial Non-CHP,W5791,1.8,1.8,0.8,Solar Photovoltaic,(OP) Operating,33.763012,-118.2866
+20125,60281,"Altus Power America Management, LLC",61594,Westmont 401,CA,Los Angeles,LDWP,Commercial Non-CHP,W5792,2.9,2,1.3,Solar Photovoltaic,(OP) Operating,33.762421,-118.2882
+20138,61210,Stenner Creek Solar LLC,61607,Stenner Creek Solar,CA,San Luis Obispo,CISO,IPP Non-CHP,CPOLY,4.5,4.5,4.5,Solar Photovoltaic,(OP) Operating,35.32,-120.691
+20150,61224,"SunE Solano SP Owner, LLC",61619,CDCR (CA) - Solano State Prison,CA,Solano,CISO,IPP Non-CHP,SOLSP,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,38.32272,-121.9706
+20151,61225,"SunE Corcoran SP Owner, LLC",61620,CDCR (CA) - Corcoran State Prison,CA,Kings,CISO,IPP Non-CHP,CORSP,5,5,5,Solar Photovoltaic,(OP) Operating,36.06502,-119.5576
+20152,61226,"SunE Wasco SP Owner, LLC",61621,CDCR (CA) - Wasco State Prison,CA,Kern,CISO,IPP Non-CHP,WASCO,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,35.60053,-119.4037
+20157,61227,Nautilus Solar Solutions,61628,Kilroy Solar,CA,San Diego,CISO,IPP Non-CHP,KILRO,1.1,1.1,0.9,Solar Photovoltaic,(OP) Operating,32.936137,-117.2342
+20232,60059,ZGlobal Inc,61682,USG 1,CA,Imperial,IID,IPP Non-CHP,USG1,1,1,1,Solar Photovoltaic,(OP) Operating,32.79278,-115.8573
+20233,60059,ZGlobal Inc,61683,USG 2,CA,Imperial,IID,IPP Non-CHP,USG2,1,1,1,Solar Photovoltaic,(OP) Operating,32.790403,-115.8632
+20243,9216,Imperial Irrigation District,61692,IVC Solar,CA,Imperial,IID,IPP Non-CHP,IVCS,3,3,3,Solar Photovoltaic,(OP) Operating,32.83186,-115.5066
+20256,58970,"Ecoplexus, Inc",61698,Folsom SP and CSP Sacramento,CA,Sacramento,BANC,IPP Non-CHP,FOLSM,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,38.687,-121.16
+20277,61348,"PCS Energy, LLC         ",61718,Aerolease,CA,Los Angeles,LDWP,Industrial Non-CHP,APLEX,1.3,1.1,0.9,Solar Photovoltaic,(OP) Operating,34.189857,-118.4514
+20316,56769,Consolidated Edison Development Inc.,61750,Wistaria Ranch Solar,CA,Imperial,CISO,IPP Non-CHP,WICA,106.7,100,100,Solar Photovoltaic,(OP) Operating,32.676,-115.619
+20363,61418,"Stage Gulch Solar, LLC",61791,Stage Gulch Solar,CA,Sonoma,CISO,IPP Non-CHP,5001,1,0.8,0.7,Solar Photovoltaic,(OP) Operating,38.216841,-122.5429
+20364,61417,"Lavio Solar, LLC",61792,Lavio Solar,CA,Sonoma,CISO,IPP Non-CHP,5002,1,1,0.5,Solar Photovoltaic,(OP) Operating,38.194599,-122.6634
+20398,61944,MN8 Energy LLC,61824,RPUWD Scheuer Well Solar Project,CA,San Bernardino,CISO,IPP Non-CHP,RPU2,3,3,3,Solar Photovoltaic,(OP) Operating,34.11193,-117.2733
+20408,61453,Soboba Band of Luiseno Indians,61834,Soboba Community Solar Project,CA,Riverside,CISO,Electric Utility,SCSP1,1,0.9,0.8,Solar Photovoltaic,(OP) Operating,33.767061,-116.9059
+20409,61453,Soboba Band of Luiseno Indians,61834,Soboba Community Solar Project,CA,Riverside,CISO,Electric Utility,SCSP2,1,0.8,0.8,Solar Photovoltaic,(OP) Operating,33.767061,-116.9059
+20417,60584,Onyx Asset Services Group,61843,SeaWorld Aquatica,CA,San Diego,CISO,IPP Non-CHP,10276,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,32.586536,-117.0049
+20478,61510,National Raisin,61894,National Raisin,CA,Fresno,CISO,Industrial Non-CHP,CR1,1,0.9,0.6,Solar Photovoltaic,(OP) Operating,36.624512,-119.6731
+20479,61510,National Raisin,61894,National Raisin,CA,Fresno,CISO,Industrial Non-CHP,CR2,1,0.8,0.4,Solar Photovoltaic,(OP) Operating,36.624512,-119.6731
+20480,61510,National Raisin,61894,National Raisin,CA,Fresno,CISO,Industrial Non-CHP,CR3,0.6,0.5,0.3,Solar Photovoltaic,(OP) Operating,36.624512,-119.6731
+20481,61510,National Raisin,61894,National Raisin,CA,Fresno,CISO,Industrial Non-CHP,CR4,0.3,0.3,0.1,Solar Photovoltaic,(OP) Operating,36.624512,-119.6731
+20584,64702,"Seaboard Energy California, LLC",61989,Pacific Ethanol Madera Solar Array,CA,Madera,CISO,IPP Non-CHP,PV,4.3,3.9,2.4,Solar Photovoltaic,(OP) Operating,36.916111,-119.9714
+20591,61872,Gavilan District College Solar Project,61993,Gavilan Community College Solar Project,CA,Santa Clara,CISO,Commercial Non-CHP,GDCPV,1.4,1.2,0.4,Solar Photovoltaic,(OP) Operating,37.003832,-121.5936
+20593,61944,MN8 Energy LLC,61995,UC Merced Solar Hybrid,CA,Merced,CISO,IPP Non-CHP,UCMPV,4.5,4.3,1.8,Solar Photovoltaic,(OP) Operating,37.365688,-120.4322
+20613,61012,AES Distributed Energy,62004,San Pablo Raceway,CA,Los Angeles,CISO,IPP Non-CHP,SPRWY,100,100,100,Solar Photovoltaic,(OP) Operating,34.723748,-118.2803
+20619,61589,RE Mustang Two LLC,62015,Mustang Two,CA,Kings,CISO,IPP Non-CHP,M2BAR,50,50,50,Solar Photovoltaic,(OP) Operating,36.216806,-119.8964
+20620,61589,RE Mustang Two LLC,62015,Mustang Two,CA,Kings,CISO,IPP Non-CHP,M2WHI,100,100,100,Solar Photovoltaic,(OP) Operating,36.216806,-119.8964
+20621,61944,MN8 Energy LLC,62016,UC Riverside Lots 30 & 32,CA,Riverside,CISO,IPP Non-CHP,UCRIV,4,3.5,2,Solar Photovoltaic,(OP) Operating,33.97036,-117.331
+20624,61944,MN8 Energy LLC,62020,Stanford Campus Solar,CA,Santa Clara,CISO,IPP Non-CHP,STANF,3.4,3.3,1.6,Solar Photovoltaic,(OP) Operating,37.43434,-122.1608
+20632,61944,MN8 Energy LLC,62028,CSU Long Beach Lots 7 & 14,CA,Los Angeles,CISO,IPP Non-CHP,CSULB,4.5,3.3,1.8,Solar Photovoltaic,(OP) Operating,33.78104,-118.1136
+20642,61987,Sonoma County Junior College District,62039,Santa Rosa Junior College Petaluma Solar,CA,Sonoma,CISO,IPP Non-CHP,SRJCP,1.2,1.1,0.6,Solar Photovoltaic,(OP) Operating,38.46905,-122.7219
+20658,58871,Citizens Enterprises Corporation,62052,Citizens Imperial Solar,CA,Imperial,IID,IPP Non-CHP,CIS1,30,30,30,Solar Photovoltaic,(OP) Operating,33.191661,-115.4338
+20662,65305,"Clean Focus Yield, LLC",62056,Lancaster,CA,Los Angeles,CISO,IPP Non-CHP,LANC,3,3,3,Solar Photovoltaic,(OP) Operating,34.743383,-117.9722
+20681,57313,Tesla Inc.,62077,Blue Shld Of Cal- El Dorado Hlls Mtr B,CA,El Dorado,BANC,IPP Non-CHP,PV1,1.5,2.1,2.1,Solar Photovoltaic,(OP) Operating,38.650627,-121.0741
+20756,61686,Chaffey Community College District,62150,Chaffey College Rancho Cucamonga Campus,CA,San Bernardino,CISO,Commercial Non-CHP,SOLAR,4,4,4,Solar Photovoltaic,(OP) Operating,34.148139,-117.5704
+20787,61709,"Desert Harvest, LLC",62177,"Desert Harvest, LLC",CA,Riverside,CISO,IPP Non-CHP,DH001,80,80,80,Solar Photovoltaic,(OP) Operating,33.8,-115.38
+20788,61710,"Maverick Solar, LLC",62178,"Maverick Solar, LLC",CA,Riverside,CISO,IPP Non-CHP,MAV01,125,125,125,Solar Photovoltaic,(OP) Operating,33.7,-115.38
+20838,61944,MN8 Energy LLC,62242,County of San Diego SBRC,CA,San Diego,CISO,IPP Non-CHP,SBRC,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,32.63266,-117.0778
+20842,61944,MN8 Energy LLC,62246,Target Woodland Solar Project,CA,Yolo,CISO,IPP Non-CHP,TWSP,2.3,1.8,2,Solar Photovoltaic,(OP) Operating,38.682746,-121.7235
+20889,61944,MN8 Energy LLC,62274,Liberty HS Solar Project,CA,Kern,CISO,Commercial Non-CHP,LHSSP,1.5,1.2,0.2,Solar Photovoltaic,(OP) Operating,35.364408,-119.1275
+20890,61944,MN8 Energy LLC,62275,Frontier HS Solar Project,CA,Kern,CISO,Commercial Non-CHP,FHSSP,1.4,1.4,1.4,Solar Photovoltaic,(OP) Operating,35.41824,-119.1489
+20891,61012,AES Distributed Energy,62286,Xebec 1,CA,Los Angeles,LDWP,Commercial Non-CHP,W7188,1.9,1.9,1.9,Solar Photovoltaic,(OP) Operating,34.224041,-118.3929
+20892,61012,AES Distributed Energy,62287,Francisco St. Solar,CA,Los Angeles,LDWP,Commercial Non-CHP,W7190,1.2,1,1,Solar Photovoltaic,(OP) Operating,33.8482,-118.3055
+20893,57170,"EDF Renewable Asset Holdings, Inc.",62288,"Valentine Solar, LLC",CA,Kern,CISO,IPP Non-CHP,VAL01,111.2,111.2,111.2,Solar Photovoltaic,(OP) Operating,34.90422,-118.3843
+20908,61012,AES Distributed Energy,62320,Antelope Expansion 1B,CA,Los Angeles,CISO,IPP Non-CHP,ANE1B,17,17,17,Solar Photovoltaic,(OP) Operating,34.71611,-118.2592
+20958,61980,Valta Energy,62378,CFW Solar X LLC - Vaughn,CA,Los Angeles,LDWP,IPP Non-CHP,VSCFW,1.6,1.6,1.6,Solar Photovoltaic,(OP) Operating,34.277355,-118.4298
+21061,65900,"Little Bear Solar 3, LLC (Longroad)",62463,Little Bear 3,CA,Fresno,CISO,IPP Non-CHP,GEN01,20,20,20,Solar Photovoltaic,(OP) Operating,36.716,-120.415
+21062,65903,"Little Bear Solar 4, LLC (Longroad)",62464,Little Bear 4,CA,Fresno,CISO,IPP Non-CHP,GEN01,50,50,50,Solar Photovoltaic,(OP) Operating,36.716,-120.415
+21063,65904,"Little Bear Solar 5, LLC (Longroad)",62465,Little Bear 5,CA,Fresno,CISO,IPP Non-CHP,GEN01,50,50,50,Solar Photovoltaic,(OP) Operating,36.716,-120.415
+21130,60025,Greenbacker Renewable Energy Corporation,62545,Renew Solar ABC Sacramento LLC,CA,Sacramento,BANC,IPP Non-CHP,SACRA,1.7,1.7,1.7,Solar Photovoltaic,(OP) Operating,38.39945,-121.2932
+21131,62048,Westlands Almond LLC,62546,Almond,CA,Kings,CISO,IPP Non-CHP,ALMND,19.9,19.9,19.9,Solar Photovoltaic,(OP) Operating,36.21222,-119.91
+21132,62049,Aquamarine Westside LLC,62547,Aquamarine,CA,Kings,CISO,IPP Non-CHP,AQUAM,250,250,250,Solar Photovoltaic,(OP) Operating,36.189722,-119.9042
+21168,62067,EnterSolar,62578,Preferred Freezer San Leandro,CA,Alameda,CISO,Commercial Non-CHP,SLPV1,2,2,2,Solar Photovoltaic,(OP) Operating,37.711995,-122.1507
+21205,60281,"Altus Power America Management, LLC",62611,PFMG Solar Grossmont Helix LLC,CA,San Diego,CISO,IPP Non-CHP,HELIX,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,32.753281,-117.0352
+21259,61012,AES Distributed Energy,62649,SFDK Solar,CA,Solano,CISO,IPP Non-CHP,SFDK,6.3,6.3,6.3,Solar Photovoltaic,(OP) Operating,38.132245,-122.232
+21268,62131,HL Solar LLC,62655,HL Solar,CA,Lassen,CISO,IPP Non-CHP,HLS,7.6,7.6,7.6,Solar Photovoltaic,(OP) Operating,40.373,-120.262
+21294,61012,AES Distributed Energy,62673,Antelope Expansion 3A,CA,Los Angeles,CISO,IPP Non-CHP,ANX3A,15,15,15,Solar Photovoltaic,(OP) Operating,34.728902,-118.3221
+21295,61012,AES Distributed Energy,62674,Antelope Expansion 3B,CA,Los Angeles,CISO,IPP Non-CHP,ANX3B,5,5,5,Solar Photovoltaic,(OP) Operating,34.720162,-118.3225
+21331,62162,"RP Napa Solar 1, LLC",62687,American Canyon Solar,CA,Napa,CISO,IPP Non-CHP,RPNPA,1,1,1,Solar Photovoltaic,(OP) Operating,38.160858,-122.214
+21332,62162,"RP Napa Solar 1, LLC",62687,American Canyon Solar,CA,Napa,CISO,IPP Non-CHP,RPNPB,1,1,1,Solar Photovoltaic,(OP) Operating,38.160858,-122.214
+21333,62162,"RP Napa Solar 1, LLC",62687,American Canyon Solar,CA,Napa,CISO,IPP Non-CHP,RPNPC,1,1,1,Solar Photovoltaic,(OP) Operating,38.160858,-122.214
+21334,62628,County of Santa Clara (CA),62688,Malech Solar Farm,CA,Santa Clara,CISO,IPP Non-CHP,MFARM,3.1,3.1,2,Solar Photovoltaic,(OP) Operating,37.228736,-121.7386
+21335,62628,County of Santa Clara (CA),62689,Hellyer Solar Farm,CA,Santa Clara,CISO,IPP Non-CHP,HFARM,2.2,2.2,1.5,Solar Photovoltaic,(OP) Operating,37.286958,-121.8151
+21336,62628,County of Santa Clara (CA),62690,Guadalupe Solar Farm,CA,Santa Clara,CISO,IPP Non-CHP,GFARM,1.7,1.7,1.1,Solar Photovoltaic,(OP) Operating,37.269039,-121.8611
+21379,62648,"DG 1 Acquisition Co., LLC",62732,"Solar Star Palo Alto I, LLC",CA,Santa Clara,CISO,IPP Non-CHP,SSPAI,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,37.411011,-122.1489
+21455,62701,"Vista Solar, Inc.",62806,Shelter Creek Condominiums Solar,CA,San Mateo,CISO,IPP Non-CHP,SCC01,1.9,2.4,1.1,Solar Photovoltaic,(OP) Operating,37.61909,-122.4289
+21533,62772,CA ODEVI LLC,62902,Windsor Floating Solar,CA,Sonoma,CISO,IPP Non-CHP,WUS15,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,38.53917,-122.8151
+21630,61944,MN8 Energy LLC,62987,Grossmont HS Solar Project,CA,San Diego,CISO,Commercial Non-CHP,GHSP,1.4,1.3,0.8,Solar Photovoltaic,(OP) Operating,32.816542,-116.9996
+21631,62842,"Lightsource Renewable Energy Asset Management, LLC",62988,Wildflower Solar 1,CA,Sacramento,BANC,IPP Non-CHP,CAWF1,13,13,13,Solar Photovoltaic,(OP) Operating,38.705,-121.477
+21667,62856,"Forefront Power, LLC",63021,SCCCD - Clovis Community College,CA,Fresno,CISO,IPP Non-CHP,232,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,36.885463,-119.7319
+21700,62885,"CalCity Solar 1, LLC",63054,CalCity Solar 1,CA,Kern,CISO,IPP Non-CHP,CALTR,3,3,3,Solar Photovoltaic,(OP) Operating,35.141374,-117.9657
+21712,62856,"Forefront Power, LLC",63068,SCCCD - Fresno Community College,CA,Fresno,CISO,IPP Non-CHP,231,2.2,2.2,2.2,Solar Photovoltaic,(OP) Operating,36.76655,-119.7986
+21718,62856,"Forefront Power, LLC",63074,Reedley Community College Solar,CA,Fresno,CISO,IPP Non-CHP,234,2.6,2.6,2.6,Solar Photovoltaic,(OP) Operating,36.60563,-119.4577
+21722,60059,ZGlobal Inc,63078,Eagle Creek,CA,Kern,CISO,IPP Non-CHP,EGCRK,3,3,3,Solar Photovoltaic,(OP) Operating,35.214023,-119.3952
+21761,62911,Drew Solar LLC,63127,Drew Solar LLC,CA,Imperial,CISO,IPP Non-CHP,DS,100,100,100,Solar Photovoltaic,(OP) Operating,32.687195,-115.6656
+21829,62701,"Vista Solar, Inc.",63189,Bio-Rad,CA,Contra Costa,CISO,IPP Non-CHP,BIORD,2.3,2.4,1.1,Solar Photovoltaic,(OP) Operating,38.022486,-122.2737
+21838,62988,DG California Solar LLC,63204,CID Solar (CA),CA,Kings,CISO,IPP Non-CHP,HLS,2,2,2,Solar Photovoltaic,(OP) Operating,36.140764,-119.5669
+21933,62983,"SE Athos I, LLC",63300,Athos Solar Project,CA,Riverside,CISO,IPP Non-CHP,IPAT1,250,250,250,Solar Photovoltaic,(OP) Operating,33.751283,-115.355
+21936,61944,MN8 Energy LLC,63303,Alticor Inc - Solar Project,CA,Orange,CISO,IPP Non-CHP,AISP,1.2,1.1,0.7,Solar Photovoltaic,(OP) Operating,33.878585,-117.9961
+22001,62067,EnterSolar,63361,Medline Ind. Phase 2 Tracy,CA,San Joaquin,CISO,IPP Non-CHP,MIP2T,1,1,1,Solar Photovoltaic,(OP) Operating,37.734761,-121.5089
+22002,62067,EnterSolar,63363,Niagara Bottling Stockton,CA,San Joaquin,CISO,IPP Non-CHP,NBS,1,1,1,Solar Photovoltaic,(OP) Operating,37.894817,-121.2489
+22019,63125,Phelan Pinon Hills Community Services District,63376,Phelan Pinon Hills CSD Solar,CA,San Bernardino,CISO,IPP Non-CHP,PPHS,1.2,1.1,0.8,Solar Photovoltaic,(OP) Operating,34.57654,-117.5828
+22027,61944,MN8 Energy LLC,63385,Castaic Lake Phase II,CA,Los Angeles,CISO,IPP Non-CHP,CA135,3.5,3.5,3.5,Solar Photovoltaic,(OP) Operating,34.433332,-118.5108
+22028,63141,"Rancho Seco Solar II, LLC",63387,"Rancho Seco Solar II, LLC",CA,Sacramento,BANC,IPP Non-CHP,RSS2,160,160,160,Solar Photovoltaic,(OP) Operating,38.346814,-121.1198
+22055,62915,Madison Energy Holdings LLC,63414,IOS II-LAX9,CA,San Bernardino,CISO,IPP Non-CHP,IOSII,4,3.7,3.3,Solar Photovoltaic,(OP) Operating,34.09,-117.45
+22058,17164,Sierra Pacific Industries,63416,Sierra Pacific Industries (2042-RD),CA,Tehama,CISO,Industrial Non-CHP,GEN1,8.4,8.4,8.4,Solar Photovoltaic,(OP) Operating,40.121389,-122.1919
+22060,62856,"Forefront Power, LLC",63418,DGS Wasco State Prison,CA,Kern,CISO,IPP Non-CHP,1122,2.3,2.3,2.3,Solar Photovoltaic,(OP) Operating,35.593903,-119.4072
+22061,62856,"Forefront Power, LLC",63419,DGS Central California Womens Facility,CA,Madera,CISO,IPP Non-CHP,1122,2,2,2,Solar Photovoltaic,(OP) Operating,37.089701,-120.15
+22062,62856,"Forefront Power, LLC",63420,Fresno Bullard High School Hybrid,CA,Fresno,CISO,IPP Non-CHP,903,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,36.818646,-119.8104
+22064,62856,"Forefront Power, LLC",63421,Fresno Hoover High School Hybrid,CA,Fresno,CISO,IPP Non-CHP,291,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,36.817816,-119.7707
+22066,62856,"Forefront Power, LLC",63422,Fresno Sunnyside High School Hybrid,CA,Fresno,CISO,IPP Non-CHP,1122,1.6,1.6,1.6,Solar Photovoltaic,(OP) Operating,36.734014,-119.7178
+22098,63198,RE-VFO LLC,63455,RE-VFO LLC,CA,Tulare,CISO,IPP Non-CHP,INV1,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.353675,-119.4008
+22099,63198,RE-VFO LLC,63455,RE-VFO LLC,CA,Tulare,CISO,IPP Non-CHP,INV2,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,36.353675,-119.4008
+22138,63226,CalCom Energy,63486,D'Arrigo Brothers - Phase 4,CA,Monterey,CISO,IPP Non-CHP,DA04,1.7,1.7,1.2,Solar Photovoltaic,(OP) Operating,36.616,-121.636
+22140,63225,Wister Solar,63487,Wister Solar,CA,Imperial,IID,IPP Non-CHP,WSOL,20,20,20,Solar Photovoltaic,(OP) Operating,33.269426,-115.503
+22146,57353,Plumas Sierra Rural Electric Coop,63493,PSREC/SIAD Solar,CA,Lassen,CISO,Electric Utility,SIAD,2.5,2.4,1.6,Solar Photovoltaic,(OP) Operating,40.15006,-120.1234
+22163,57313,Tesla Inc.,63510,Walnut Unified School District Walnut HS,CA,Los Angeles,CISO,IPP Non-CHP,PV1,1.8,1.8,1.8,Solar Photovoltaic,(OP) Operating,34.02188,-117.8505
+22167,63226,CalCom Energy,63514,Moonlight Packing - Phase 2,CA,Fresno,CISO,IPP Non-CHP,MLO2,1.4,1.4,1,Solar Photovoltaic,(OP) Operating,36.585794,-119.47
+22168,61944,MN8 Energy LLC,63516,California City,CA,Kern,CISO,IPP Non-CHP,CACTY,1.9,1.9,1.9,Solar Photovoltaic,(OP) Operating,35.157,-117.981
+22180,61944,MN8 Energy LLC,63527,Lafayette 2 - Internal Services Dept,CA,Los Angeles,CISO,IPP Non-CHP,GEN1,1.9,1.9,1.9,Solar Photovoltaic,(OP) Operating,34.05,-118.18
+22206,61944,MN8 Energy LLC,63545,Chevron - Lost Hills Hybrid,CA,Kern,CISO,IPP Non-CHP,GEN1,30,30,30,Solar Photovoltaic,(OP) Operating,35.62,-119.69
+22298,61944,MN8 Energy LLC,63623,Lafayette 2 - MLK Jr. Hospital (MLK),CA,Los Angeles,CISO,IPP Non-CHP,GEN1,1.7,1.7,1.7,Solar Photovoltaic,(OP) Operating,33.92,-118.24
+22345,63344,"SunE P11L Holdings, LLC",63651,North Kern State Prison Phase II,CA,Kern,CISO,IPP Non-CHP,5812,4,4,4,Solar Photovoltaic,(OP) Operating,35.780407,-119.3088
+22373,63393,VS Dedeaux LLC,63674,Dedeaux,CA,Los Angeles,LDWP,IPP Non-CHP,DEDEA,0.9,0.9,0.9,Solar Photovoltaic,(OP) Operating,34.013113,-118.2419
+22443,61944,MN8 Energy LLC,63727,Slate Hybrid,CA,Kings,CISO,IPP Non-CHP,SL3EC,67.5,67.5,67.5,Solar Photovoltaic,(OP) Operating,36.226955,-119.8948
+22444,61944,MN8 Energy LLC,63727,Slate Hybrid,CA,Kings,CISO,IPP Non-CHP,SLATE,50.5,50.5,50.5,Solar Photovoltaic,(OP) Operating,36.226955,-119.8948
+22449,61944,MN8 Energy LLC,63727,Slate Hybrid,CA,Kings,CISO,IPP Non-CHP,SLPWR,26,26,26,Solar Photovoltaic,(OP) Operating,36.226955,-119.8948
+22450,61944,MN8 Energy LLC,63727,Slate Hybrid,CA,Kings,CISO,IPP Non-CHP,SLSTN,63,63,63,Solar Photovoltaic,(OP) Operating,36.226955,-119.8948
+22451,61944,MN8 Energy LLC,63727,Slate Hybrid,CA,Kings,CISO,IPP Non-CHP,SLSVC,93,93,93,Solar Photovoltaic,(OP) Operating,36.226955,-119.8948
+22464,63432,SkyHigh 2 Solar,63740,Amazon - Moreno Valley,CA,Riverside,CISO,IPP Non-CHP,ONT6,2.2,2.2,2.2,Solar Photovoltaic,(OP) Operating,33.872226,-117.2381
+22484,63452,Ralph's Grocery Company,63758,Kroger La Habra,CA,Orange,CISO,Industrial Non-CHP,KROLH,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,33.922141,-117.9391
+22487,63675,Soscol Ferry Solar,63761,Soscol Ferry Solar,CA,Napa,CISO,IPP Non-CHP,SSCLC,1,1,1,Solar Photovoltaic,(OP) Operating,38.237422,-122.2752
+22488,63675,Soscol Ferry Solar,63761,Soscol Ferry Solar,CA,Napa,CISO,IPP Non-CHP,SSCLD,1,1,1,Solar Photovoltaic,(OP) Operating,38.237422,-122.2752
+22489,63676,Silveira Ranch Road Solar,63762,Silveira Ranch Road Solar,CA,Marin,CISO,IPP Non-CHP,SILVA,1,1,1,Solar Photovoltaic,(OP) Operating,38.153474,-122.5657
+22490,63676,Silveira Ranch Road Solar,63762,Silveira Ranch Road Solar,CA,Marin,CISO,IPP Non-CHP,SILVB,1,1,1,Solar Photovoltaic,(OP) Operating,38.153474,-122.5657
+22491,63676,Silveira Ranch Road Solar,63762,Silveira Ranch Road Solar,CA,Marin,CISO,IPP Non-CHP,SILVC,1,1,1,Solar Photovoltaic,(OP) Operating,38.153474,-122.5657
+22570,63525,"Westlands Solar Blue (OZ) Owner, LLC",63848,Solar Blue,CA,Kings,CISO,IPP Non-CHP,SBLUE,250,250,250,Solar Photovoltaic,(OP) Operating,36.173967,-119.9043
+22572,63526,"Chestnut Westside, LLC",63849,Chestnut,CA,Kings,CISO,IPP Non-CHP,CHNUT,150.6,150.6,150.6,Solar Photovoltaic,(OP) Operating,36.160164,-119.9049
+22581,63545,"Golden Fields Solar III, LLC",63859,"Golden Field Solar III, LLC",CA,Kern,CISO,IPP Non-CHP,RCTR,192,192,192,Solar Photovoltaic,(OP) Operating,34.847,-118.395
+22585,58970,"Ecoplexus, Inc",63870,Camp San Luis Obispo,CA,San Luis Obispo,CISO,IPP Non-CHP,CPSLO,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,35.322043,-120.7323
+22586,58970,"Ecoplexus, Inc",63875,Kern Valley SP,CA,Kern,CISO,IPP Non-CHP,KRNVL,3,3,3,Solar Photovoltaic,(OP) Operating,35.764049,-119.3138
+22629,64745,"KP Vacaville Solar, LLC",63928,Vacaville Hospital,CA,Solano,CISO,Commercial Non-CHP,6701,1.5,1.4,0.7,Solar Photovoltaic,(OP) Operating,38.38867,-121.9386
+22634,63602,"Titan Solar 1, LLC",63932,Titan Solar 1 (CA),CA,Imperial,CISO,IPP Non-CHP,TITN1,70,70,70,Solar Photovoltaic,(OP) Operating,33.125786,-115.9111
+22643,63606,"Central 40, LLC",63940,Central 40,CA,Stanislaus,CISO,IPP Non-CHP,CEN40,40,40,40,Solar Photovoltaic,(OP) Operating,37.246,-121.104
+22650,62856,"Forefront Power, LLC",63947,DGS Valley State Prison,CA,Madera,CISO,IPP Non-CHP,579,2.3,2.3,2.3,Solar Photovoltaic,(OP) Operating,37.10117,-120.1531
+22689,60584,Onyx Asset Services Group,63986,Rialto - High School,CA,San Bernardino,CISO,IPP Non-CHP,10136,0.9,0.9,0.9,Solar Photovoltaic,(OP) Operating,34.090318,-117.3556
+22696,63648,Family Tree Farms,63993,FTF-PackingShed,CA,Tulare,CISO,Industrial Non-CHP,FTF02,1,1,0.7,Solar Photovoltaic,(OP) Operating,36.546901,-119.4302
+22697,63649,Mike Woolf Farming,63994,Firebaugh-CCS-PV-1,CA,Fresno,CISO,Industrial Non-CHP,MWF01,1,1,0.6,Solar Photovoltaic,(OP) Operating,36.734667,-120.6128
+22735,63667,"California PV Energy 3, LLC",64028,San Diego - EMDF at San Diego,CA,San Diego,CISO,IPP Non-CHP,EMDF,2.9,2.9,2.9,Solar Photovoltaic,(OP) Operating,32.590258,-116.9195
+22752,63667,"California PV Energy 3, LLC",64049,San Diego - NCRC at Vista,CA,San Diego,CISO,IPP Non-CHP,NCRC,1.8,1.8,1.8,Solar Photovoltaic,(OP) Operating,33.190283,-117.2556
+22759,63689,"Wonderful Renewable Energy, LLC.",64055,Wonderful Orchards - New Columbia,CA,Madera,CISO,Industrial Non-CHP,WOC,5,5,4.2,Solar Photovoltaic,(OP) Operating,36.8249,-120.3179
+22806,63731,Desert Harvest II LLC,64103,Desert Harvest II LLC,CA,Riverside,CISO,IPP Non-CHP,DH002,70,70,70,Solar Photovoltaic,(OP) Operating,33.8,-115.38
+22808,63732,"Maverick Solar 4, LLC",64104,"Maverick Solar 4, LLC",CA,Riverside,CISO,IPP Non-CHP,MAV02,100,100,100,Solar Photovoltaic,(OP) Operating,33.7,-115.38
+22809,63733,"Maverick Solar 6, LLC",64105,"Maverick Solar 6, LLC",CA,Riverside,CISO,IPP Non-CHP,MAV03,100,100,100,Solar Photovoltaic,(OP) Operating,33.7,-115.38
+22811,63734,"Maverick Solar 7, LLC",64106,"Maverick Solar 7, LLC",CA,Riverside,CISO,IPP Non-CHP,MAV05,132,132,132,Solar Photovoltaic,(OP) Operating,33.7,-115.38
+22903,56215,"RWE Renewables Americas, LLC",64197,"Fifth Standard Solar PV, LLC (Hybrid)",CA,Fresno,CISO,IPP Non-CHP,FTHSS,150,150,150,Solar Photovoltaic,(OP) Operating,36.153193,-120.1045
+22918,63689,"Wonderful Renewable Energy, LLC.",64220,Wonderful Orchards - Westside,CA,Kern,CISO,Industrial Non-CHP,WOC,5,5,4.2,Solar Photovoltaic,(OP) Operating,35.73277,-119.7452
+22919,63689,"Wonderful Renewable Energy, LLC.",64221,Wonderful Orchards - Belridge,CA,Kern,CISO,Industrial Non-CHP,WOC,5,5,4.2,Solar Photovoltaic,(OP) Operating,35.50012,-119.7494
+22961,60025,Greenbacker Renewable Energy Corporation,64264,Las Virgenes,CA,Los Angeles,LDWP,IPP Non-CHP,298,3,3,3,Solar Photovoltaic,(OP) Operating,34.1265,-118.704
+22964,60025,Greenbacker Renewable Energy Corporation,64267,Valencia 2,CA,Imperial,IID,IPP Non-CHP,265,3,3,3,Solar Photovoltaic,(OP) Operating,33.0218,-115.5264
+22967,62915,Madison Energy Holdings LLC,64270,"ESCA-LL-COLTON, LLC",CA,San Bernardino,CISO,IPP Non-CHP,COLT1,2.6,2.6,2.6,Solar Photovoltaic,(OP) Operating,34.03925,-117.3606
+22983,63869,"SE Athos II, LLC",64290,"SE Athos II, LLC",CA,Riverside,CISO,IPP Non-CHP,IPAT2,200,200,200,Solar Photovoltaic,(OP) Operating,33.751283,-115.355
+23005,63248,Palmetto Power Management LLC,64308,"Dissigno Healdsburg FPV, LLC",CA,Sonoma,CISO,IPP Non-CHP,HLDBG,3,3,3,Solar Photovoltaic,(OP) Operating,38.584405,-122.8662
+23063,63992,"Tranquillity Solar 1, LLC",64376,Tranquillity ID,CA,Fresno,CISO,IPP Non-CHP,TRANQ,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,36.648026,-120.2459
+23089,63432,SkyHigh 2 Solar,64391,Firestone Walker Brewery - Phase 1,CA,San Luis Obispo,CISO,IPP Non-CHP,FWBP1,1.6,1.6,1.6,Solar Photovoltaic,(OP) Operating,35.595877,-120.6943
+23094,63432,SkyHigh 2 Solar,64396,EMWD - Perris Valley RWRF,CA,Riverside,CISO,IPP Non-CHP,EMSJN,3.4,3.4,3.4,Solar Photovoltaic,(OP) Operating,33.75998,-117.1877
+23095,63432,SkyHigh 2 Solar,64397,EMWD - San Jacinto RWRF NEM,CA,Riverside,CISO,IPP Non-CHP,EMSJN,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,33.798547,-117.0166
+23096,63432,SkyHigh 2 Solar,64398,EMWD - Sun City RWRF,CA,Riverside,CISO,IPP Non-CHP,EMSUN,1.6,1.5,1.5,Solar Photovoltaic,(OP) Operating,33.696146,-117.2186
+23097,63432,SkyHigh 2 Solar,64399,EMWD - San Jacinto RES BCT,CA,Riverside,CISO,IPP Non-CHP,EMRES,4.2,4.2,4.2,Solar Photovoltaic,(OP) Operating,33.802869,-117.0236
+23100,63432,SkyHigh 2 Solar,64401,CSU San Jose State University,CA,Santa Clara,CISO,IPP Non-CHP,CSUSJ,1.7,1.7,1.7,Solar Photovoltaic,(OP) Operating,37.334,-121.884
+23101,63432,SkyHigh 2 Solar,64402,El Dorado County,CA,El Dorado,CISO,IPP Non-CHP,ELDCO,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,38.698145,-120.8283
+23102,63432,SkyHigh 2 Solar,64403,California State Univ at Channel Islands,CA,Ventura,CISO,IPP Non-CHP,CSUCI,3.7,3.7,3.7,Solar Photovoltaic,(OP) Operating,34.162058,-119.0434
+23105,63432,SkyHigh 2 Solar,64406,EMWD - Moreno Valley RWRF,CA,Riverside,CISO,IPP Non-CHP,EMMOR,2.4,2.4,2.4,Solar Photovoltaic,(OP) Operating,33.868252,-117.2141
+23117,60281,"Altus Power America Management, LLC",64418,Big Bear,CA,Los Angeles,LDWP,IPP Non-CHP,BB000,5.5,5.5,5.5,Solar Photovoltaic,(OP) Operating,34.015287,-118.1929
+23132,62856,"Forefront Power, LLC",64429,Amazon - Stockton - Roof (SCK1) - (CA),CA,San Joaquin,CISO,IPP Non-CHP,19001,2.6,2.6,2.6,Solar Photovoltaic,(OP) Operating,37.911715,-121.1987
+23142,64088,"SSA Solar of CA 5, LLC",64438,Vallecitos Water District,CA,San Diego,CISO,IPP Non-CHP,VALLE,1.4,1.4,1.4,Solar Photovoltaic,(OP) Operating,33.212535,-117.177
+23150,60025,Greenbacker Renewable Energy Corporation,64441,Valencia 3,CA,Imperial,IID,IPP Non-CHP,266,3,3,3,Solar Photovoltaic,(OP) Operating,32.88567,-115.5377
+23180,64095,"RPCA Solar 3, LLC",64471,Byron Highway Solar,CA,Contra Costa,CISO,IPP Non-CHP,BYHWY,5,5,5,Solar Photovoltaic,(OP) Operating,37.847114,-121.6173
+23188,64144,Arlington Energy Center II,64481,Arlington Energy Center II,CA,Riverside,CISO,IPP Non-CHP,AEC1,100,100,100,Solar Photovoltaic,(OP) Operating,33.69088,-114.7749
+23189,64144,Arlington Energy Center II,64481,Arlington Energy Center II,CA,Riverside,CISO,IPP Non-CHP,AEC2,133,133,133,Solar Photovoltaic,(OP) Operating,33.69088,-114.7749
+23198,64135,Resurgence Solar,64489,Resurgence Solar,CA,San Bernardino,CISO,IPP Non-CHP,GEN1,90,90,90,Solar Photovoltaic,(OP) Operating,35.00656,-117.5448
+23237,58970,"Ecoplexus, Inc",64517,Department of Justice,CA,Sacramento,BANC,IPP Non-CHP,DOJ,2.4,2.4,2.4,Solar Photovoltaic,(OP) Operating,38.548056,-121.4486
+23238,58970,"Ecoplexus, Inc",64518,CA Institute for Women,CA,San Bernardino,CISO,IPP Non-CHP,CIW,1,1,1,Solar Photovoltaic,(OP) Operating,33.949722,-117.6364
+23239,58970,"Ecoplexus, Inc",64519,Centinela State Prison,CA,Imperial,IID,IPP Non-CHP,CENSP,6,6,6,Solar Photovoltaic,(OP) Operating,32.825833,-115.7829
+23242,58970,"Ecoplexus, Inc",64521,Calipatria State Prison,CA,Imperial,IID,IPP Non-CHP,CALSP,6,6,6,Solar Photovoltaic,(OP) Operating,33.163055,-115.4848
+23245,58970,"Ecoplexus, Inc",64523,Atascadero State Hospital,CA,San Luis Obispo,CISO,IPP Non-CHP,ATASC,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,35.463333,-120.634
+23275,64199,Arlington Energy Center III,64564,Arlington Energy Center III,CA,Riverside,CISO,IPP Non-CHP,AEC3,131,131,131,Solar Photovoltaic,(OP) Operating,33.69088,-114.7749
+23290,61944,MN8 Energy LLC,64579,Broadway 2 - UC Riverside,CA,Riverside,CISO,IPP Non-CHP,GEN1,3,3,3,Solar Photovoltaic,(OP) Operating,33.97034,-117.331
+23311,62067,EnterSolar,64600,Prologis L.P,CA,San Joaquin,CISO,IPP Non-CHP,PLDPL,3,3,3,Solar Photovoltaic,(OP) Operating,37.725044,-121.5298
+23313,62854,"Solar Star California LXXVIII, LLC",64601,County of San Diego COC Hybrid,CA,San Diego,CISO,IPP Non-CHP,PV,1.7,1.7,1.1,Solar Photovoltaic,(OP) Operating,32.833645,-117.1311
+23322,64229,"SEPV Sierra, LLC",64611,SEPV Sierra,CA,Los Angeles,CISO,IPP Non-CHP,2,3,3,3,Solar Photovoltaic,(OP) Operating,34.733011,-118.1385
+23337,61944,MN8 Energy LLC,64624,Hudson - High Desert Hybrid,CA,San Bernardino,CISO,IPP Non-CHP,GEN1,100,100,100,Solar Photovoltaic,(OP) Operating,34.6365,-117.3724
+23342,50123,"Leeward Asset Management, LLC",64630,"Rabbitbrush Solar, LLC",CA,Kern,CISO,IPP Non-CHP,GEN01,100,100,100,Solar Photovoltaic,(OP) Operating,34.83,-118.32
+23380,60025,Greenbacker Renewable Energy Corporation,64676,Lake Herman,CA,Solano,CISO,IPP Non-CHP,359,5,5,5,Solar Photovoltaic,(OP) Operating,38.0971,-122.1417
+23389,59213,Maas Energy Works,64687,Van der Hoek Solar Array/ Dairy,CA,Fresno,CISO,Industrial Non-CHP,VDH,2.4,3,3,Solar Photovoltaic,(OP) Operating,36.504015,-120.0981
+23394,60025,Greenbacker Renewable Energy Corporation,64693,Dos Palos,CA,Merced,CISO,IPP Non-CHP,299,1,1,1,Solar Photovoltaic,(OP) Operating,36.981755,-120.6254
+23401,60025,Greenbacker Renewable Energy Corporation,64700,"El Dorado Solar, LLC",CA,El Dorado,CISO,IPP Non-CHP,390,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,38.637,-121.059
+23452,60025,Greenbacker Renewable Energy Corporation,64751,Amazon PSP1,CA,Riverside,CISO,IPP Non-CHP,267,3.8,3.8,3.8,Solar Photovoltaic,(OP) Operating,33.92624,-116.9944
+23464,60868,Redwood Coast Energy Authority,64766,Redwood Coast Airport Microgrid,CA,Humboldt,CISO,Electric Utility,RCAM1,2.2,1.8,1.8,Solar Photovoltaic,(OP) Operating,40.967222,-124.1044
+23593,60281,"Altus Power America Management, LLC",64836,Catalina Express,CA,Los Angeles,CISO,IPP Non-CHP,CATAL,1,1,1,Solar Photovoltaic,(OP) Operating,33.749947,-118.2785
+23594,60281,"Altus Power America Management, LLC",64837,Marina South,CA,Los Angeles,CISO,IPP Non-CHP,MARIN,1,1,1,Solar Photovoltaic,(OP) Operating,33.717993,-118.2756
+23602,60281,"Altus Power America Management, LLC",64846,Prairie,CA,Los Angeles,LDWP,IPP Non-CHP,PR000,1.8,1.8,1.8,Solar Photovoltaic,(OP) Operating,34.239244,-118.5836
+23604,64364,Daggett Solar Power 2 LLC,64851,Daggett 2,CA,San Bernardino,CISO,IPP Non-CHP,DAGGP,182,182,182,Solar Photovoltaic,(OP) Operating,34.860918,-116.8553
+23606,64365,Daggett Solar Power 3 LLC,64852,Daggett 3,CA,San Bernardino,CISO,IPP Non-CHP,DAGGP,300,300,300,Solar Photovoltaic,(OP) Operating,34.860918,-116.8553
+23614,60025,Greenbacker Renewable Energy Corporation,64861,Deer Creek 2,CA,El Dorado,CISO,IPP Non-CHP,392,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,38.628,-120.984
+23636,64366,Terra-Gen Operating Co-Hybrid,64877,Edwards Sanborn E3,CA,Kern,CISO,IPP Non-CHP,PV,27.1,27.1,27.1,Solar Photovoltaic,(OP) Operating,34.946324,-118.1265
+23638,64366,Terra-Gen Operating Co-Hybrid,64878,Edwards Sanborn E1A,CA,Kern,CISO,IPP Non-CHP,PV,149.3,149.3,149.3,Solar Photovoltaic,(OP) Operating,34.961922,-118.1242
+23640,64366,Terra-Gen Operating Co-Hybrid,64879,Edwards Sanborn E2,CA,Kern,CISO,IPP Non-CHP,PV,137.8,137.8,137.8,Solar Photovoltaic,(OP) Operating,34.941507,-118.129
+23704,61785,EDP Renewables North America LLC,64908,Scarlet Solar (CA),CA,Fresno,CISO,IPP Non-CHP,GEN01,200,200,200,Solar Photovoltaic,(OP) Operating,36.597542,-120.3623
+23706,64393,"Tulare Solar Center, LLC",64909,Luciana,CA,Tulare,CISO,IPP Non-CHP,TSC,55.8,55.8,55.8,Solar Photovoltaic,(OP) Operating,35.823716,-119.0623
+23708,64399,Trona Solar III LLC,64914,Trona Solar III,CA,Inyo,CISO,IPP Non-CHP,71466,2,2,2,Solar Photovoltaic,(OP) Operating,35.804953,-117.3506
+23731,64366,Terra-Gen Operating Co-Hybrid,64928,Edwards Sanborn S3,CA,Kern,CISO,IPP Non-CHP,PV,37.7,37.7,37.7,Solar Photovoltaic,(OP) Operating,35.01644,-118.1225
+23733,64366,Terra-Gen Operating Co-Hybrid,64929,Edwards Sanborn S1,CA,Kern,CISO,IPP Non-CHP,PV,44.6,44.6,44.6,Solar Photovoltaic,(OP) Operating,35.02769,-118.1328
+23865,64424,"Big Beau Solar, LLC  ",64993,"BigBeau Solar, LLC",CA,Kern,CISO,IPP Non-CHP,BB1PV,70,70,70,Solar Photovoltaic,(OP) Operating,34.907041,-118.3441
+23867,64424,"Big Beau Solar, LLC  ",64993,"BigBeau Solar, LLC",CA,Kern,CISO,IPP Non-CHP,BB2PV,58,58,58,Solar Photovoltaic,(OP) Operating,34.907041,-118.3441
+23868,64746,"KP Sacramento Point West Medical Offices Solar, LLC",64994,Sacramento Point West Medical Offices,CA,Sacramento,BANC,Commercial Non-CHP,6115,1.3,1.2,0.8,Solar Photovoltaic,(OP) Operating,38.596314,-121.428
+23875,60531,Standard Solar,65002,SSI West Riverside Landfill LLC,CA,Riverside,LDWP,IPP Non-CHP,WERL,2.5,2.5,2.5,Solar Photovoltaic,(OP) Operating,33.980601,-117.3755
+23917,64459,"Blythe Mesa Solar II, LLC",65053,Blythe Mesa Solar II,CA,Riverside,CISO,IPP Non-CHP,IPBMS,223.6,223.6,223.6,Solar Photovoltaic,(OP) Operating,33.640813,-114.6803
+23935,57313,Tesla Inc.,65072,Fremont CA AutoFactory,CA,Alameda,CISO,Industrial Non-CHP,RF67,0.3,0.3,0.3,Solar Photovoltaic,(OP) Operating,37.49254,-121.9446
+23936,57313,Tesla Inc.,65073,Berrenda Mesa Water District,CA,Kern,CISO,IPP Non-CHP,PV1,6.4,6.4,6.4,Solar Photovoltaic,(OP) Operating,35.613342,-119.8668
+23950,64485,Ameresco San Joaquin Solar LLC,65089,Foothill Sanitary Landfill - Solar Array,CA,San Joaquin,PACW,IPP Non-CHP,05452,3.6,3.5,2.4,Solar Photovoltaic,(OP) Operating,38.042352,-120.9338
+23952,60025,Greenbacker Renewable Energy Corporation,65091,IGS KSBD,CA,San Bernardino,CISO,IPP Non-CHP,293,4.3,4.3,4.3,Solar Photovoltaic,(OP) Operating,34.10535,-117.2348
+23959,62856,"Forefront Power, LLC",65104,CA - DGS RFP - RJ Donovan State Prison,CA,San Bernardino,CISO,IPP Non-CHP,15111,2,2,2,Solar Photovoltaic,(OP) Operating,35.582,-116.924
+23960,62856,"Forefront Power, LLC",65105,CA-DGS-California Correctional Inst,CA,Kern,CISO,IPP Non-CHP,15111,4,4,4,Solar Photovoltaic,(OP) Operating,35.1135,-118.569
+23978,57313,Tesla Inc.,65131,Fremont - Kato Rd,CA,Alameda,CISO,IPP Non-CHP,PV1,0.5,0.5,0.5,Solar Photovoltaic,(OP) Operating,37.479188,-121.9323
+23979,57313,Tesla Inc.,65131,Fremont - Kato Rd,CA,Alameda,CISO,IPP Non-CHP,PV2,0.9,0.9,0.9,Solar Photovoltaic,(OP) Operating,37.479188,-121.9323
+23981,65155,The Greater Light USA LLC,65132,University of the Pacific,CA,San Joaquin,CISO,IPP Non-CHP,PV1,4.5,4.5,4.5,Solar Photovoltaic,(OP) Operating,37.980054,-121.3124
+24006,59213,Maas Energy Works,65168,Five H Farms Solar Array,CA,Merced,CISO,IPP Non-CHP,FHF,1,1.1,1.1,Solar Photovoltaic,(OP) Operating,37.120446,-120.2928
+24007,59213,Maas Energy Works,65169,Van der Kooi Dairy Solar Array,CA,Fresno,CISO,Industrial Non-CHP,VDK,1,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.29169,-120.0224
+24016,64538,Donaghy Sales Inc.,65177,Donaghy-Stockton,CA,San Joaquin,CISO,Commercial Non-CHP,DSPV1,1.1,1.1,0.7,Solar Photovoltaic,(OP) Operating,37.909523,-121.1949
+24018,58970,"Ecoplexus, Inc",65182,CSP Los Angeles,CA,Los Angeles,CISO,IPP Non-CHP,CSLPA,2.3,2.3,2.3,Solar Photovoltaic,(OP) Operating,34.694314,-118.2278
+24022,61944,MN8 Energy LLC,65186,Broadway 3 - UC Merced 1,CA,Merced,CISO,IPP Non-CHP,GEN1,1,1,1,Solar Photovoltaic,(OP) Operating,37.36448,-120.4311
+24023,61944,MN8 Energy LLC,65187,Broadway 3 - UCSB Lot 38,CA,Santa Barbara,CISO,IPP Non-CHP,GEN1,1.8,1,1,Solar Photovoltaic,(OP) Operating,34.41974,-119.8564
+24024,61944,MN8 Energy LLC,65188,Broadway 4 - Target Shafter,CA,Kern,CISO,IPP Non-CHP,GEN1,1.6,1.6,1.6,Solar Photovoltaic,(OP) Operating,35.46331,-119.1891
+24025,64539,"CHF-Davis I, LLC",65189,West Village Solar - Array 1Community So,CA,Yolo,CISO,IPP Non-CHP,WVSA1,1.2,1,0.7,Solar Photovoltaic,(OP) Operating,38.542791,-121.7775
+24026,64539,"CHF-Davis I, LLC",65190,West Village Solar - Array 2 Community S,CA,Yolo,CISO,IPP Non-CHP,WVSA2,1.3,1,0.9,Solar Photovoltaic,(OP) Operating,38.542747,-121.7766
+24065,64558,OK Produce,65229,OK Produce Fresno Carport,CA,Fresno,CISO,Commercial Non-CHP,OKPVC,2,2,1.3,Solar Photovoltaic,(OP) Operating,36.723488,-119.7744
+24073,61944,MN8 Energy LLC,65238,Chambers 4 - Eastvale LGB3,CA,Riverside,CISO,IPP Non-CHP,GEN1,2.4,2.4,2.4,Solar Photovoltaic,(OP) Operating,33.99848,-117.5529
+24086,61944,MN8 Energy LLC,65251,Chambers 4 - Redland LGB4,CA,San Bernardino,CISO,IPP Non-CHP,GEN1,1.9,1.9,1.9,Solar Photovoltaic,(OP) Operating,34.08041,-117.2014
+24087,61944,MN8 Energy LLC,65252,Chambers 4 - Riverside LGB6 ,CA,Riverside,CISO,IPP Non-CHP,GEN1,2.4,2.4,2.4,Solar Photovoltaic,(OP) Operating,33.88102,-117.3004
+24088,61944,MN8 Energy LLC,65253,Chambers 4 - Rialto LGB8,CA,San Bernardino,CISO,IPP Non-CHP,GEN1,2.2,2.2,2.2,Solar Photovoltaic,(OP) Operating,34.12937,-117.4055
+24089,61944,MN8 Energy LLC,65254,Chambers 4 - Sacramento SMF1,CA,Sacramento,BANC,IPP Non-CHP,GEN1,2.7,2.7,2.7,Solar Photovoltaic,(OP) Operating,38.68251,-121.5743
+24090,61944,MN8 Energy LLC,65255,Chambers 4 - Eastvale DCA2,CA,Riverside,CISO,IPP Non-CHP,GEN1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,33.99347,-117.5539
+24091,61944,MN8 Energy LLC,65256,Chambers 4 - San Bernardino SNA7,CA,San Bernardino,CISO,IPP Non-CHP,GEN1,2,2,2,Solar Photovoltaic,(OP) Operating,34.07752,-117.2726
+24128,63689,"Wonderful Renewable Energy, LLC.",65277,Wonderful Huller & Shellling,CA,Kern,CISO,Industrial Non-CHP,WHS01,1.5,1.5,0.7,Solar Photovoltaic,(OP) Operating,35.57609,-119.7889
+24129,63689,"Wonderful Renewable Energy, LLC.",65278,Wonderful Lost Hills,CA,Kern,CISO,Industrial Non-CHP,WLH01,17.1,16.7,13,Solar Photovoltaic,(OP) Operating,35.66934,-119.8766
+24173,64640,"8500 Balboa PV, LLC",65330,"8500 Balboa PV, LLC",CA,Los Angeles,LDWP,IPP Non-CHP,BALB1,2.4,2.4,2.4,Solar Photovoltaic,(OP) Operating,34.22379,-118.4997
+24174,64640,"8500 Balboa PV, LLC",65330,"8500 Balboa PV, LLC",CA,Los Angeles,LDWP,IPP Non-CHP,VSPRC,0.8,0.8,0.8,Solar Photovoltaic,(OP) Operating,34.22379,-118.4997
+24175,66225,TRITEC Americas,65331,"20333 Normandie PV, LLC",CA,Los Angeles,LDWP,IPP Non-CHP,NORMA,2.6,2.6,2.4,Solar Photovoltaic,(OP) Operating,33.84614,-118.3002
+24199,64698,"Renewable Solar, Inc",65364,Danell Bros Inc,CA,Kings,CISO,Industrial Non-CHP,12585,2.6,2.6,2.6,Solar Photovoltaic,(OP) Operating,36.267574,-119.6316
+24200,62856,"Forefront Power, LLC",65365,CA - Ventura Co CCD - Moorpark College,CA,Ventura,CISO,IPP Non-CHP,17024,2.6,2.6,2.6,Solar Photovoltaic,(OP) Operating,34.299721,-118.8335
+24226,64724,"Lincoln Solar Star, LLC",65382,Lincoln WWTF Hybrid,CA,Placer,CISO,IPP Non-CHP,PV,3,2.8,2.3,Solar Photovoltaic,(OP) Operating,38.859,-121.346
+24227,64725,Bodega Avenue Solar LLC,65383,Bodega Avenue Solar LLC,CA,Sonoma,CISO,IPP Non-CHP,003-A,1,1,1,Solar Photovoltaic,(OP) Operating,38.26147,-122.7373
+24228,64725,Bodega Avenue Solar LLC,65383,Bodega Avenue Solar LLC,CA,Sonoma,CISO,IPP Non-CHP,003-B,1,1,1,Solar Photovoltaic,(OP) Operating,38.26147,-122.7373
+24229,64747,"KP Rancho Cordova Medical Offices Solar, LLC",65384,Rancho Cordova Medical Offices,CA,Sacramento,BANC,Commercial Non-CHP,7101,1.1,1,0.8,Solar Photovoltaic,(OP) Operating,38.576571,-121.291
+24248,64754,Gilead Sciences Inc.,65408,Gilead Oceanside Solar Project,CA,San Diego,CISO,IPP Non-CHP,GOSSP,1.5,1.4,0.9,Solar Photovoltaic,(OP) Operating,33.213138,-117.3042
+24249,64755,Gilead Sciences Inc. Foster City,65409,Gilead Foster City Solar Project,CA,San Mateo,CISO,IPP Non-CHP,GFCS1,0.9,0.9,0.1,Solar Photovoltaic,(OP) Operating,37.568597,-122.278
+24250,64755,Gilead Sciences Inc. Foster City,65409,Gilead Foster City Solar Project,CA,San Mateo,CISO,IPP Non-CHP,GFCS2,0.2,0.1,0.1,Solar Photovoltaic,(OP) Operating,37.568597,-122.278
+24285,62856,"Forefront Power, LLC",65447,CA-Ventura Co CCD-Oxnard College Canopy,CA,Ventura,CISO,IPP Non-CHP,19032,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.165905,-119.1568
+24299,64731,County of Kern,65464,"Laredo Detention Facility - Solar 2, 3",CA,Kern,CISO,Electric Utility,LDF2,3.1,3,2.3,Solar Photovoltaic,(OP) Operating,35.510942,-119.1099
+24300,64731,County of Kern,65464,"Laredo Detention Facility - Solar 2, 3",CA,Kern,CISO,Electric Utility,LDF3,2.1,2.1,1.7,Solar Photovoltaic,(OP) Operating,35.510942,-119.1099
+24307,64785,Sealed Air Corporation,65469,Sealed Air Madera Solar Project,CA,Madera,CISO,Industrial Non-CHP,SAMSP,3,3,2.3,Solar Photovoltaic,(OP) Operating,36.945582,-120.056
+24321,63226,CalCom Energy,65485,Graniterock Quarry,CA,San Benito,CISO,IPP Non-CHP,GRWQ,4.4,4.4,4.1,Solar Photovoltaic,(OP) Operating,36.878164,-121.6028
+24341,17164,Sierra Pacific Industries,65510,Sierra Pacific Chinese Camp,CA,Tuolumne,CISO,Industrial Non-CHP,GEN 1,3.6,3.6,3.6,Solar Photovoltaic,(OP) Operating,37.883393,-120.4544
+24352,62856,"Forefront Power, LLC",65523,CA-DGS-California Men's Colony,CA,San Luis Obispo,CISO,IPP Non-CHP,14057,2.2,2.2,2.2,Solar Photovoltaic,(OP) Operating,35.32554,-120.6935
+24353,62856,"Forefront Power, LLC",65524,CA-DGS- RFP-Correctional Training Fac,CA,Monterey,CISO,IPP Non-CHP,14069,1.6,1.6,1.6,Solar Photovoltaic,(OP) Operating,36.46767,-121.3846
+24354,62856,"Forefront Power, LLC",65525,CA-DGS RFP-Salinas Valley State Prison,CA,Monterey,CISO,IPP Non-CHP,14068,3.3,3.3,3.3,Solar Photovoltaic,(OP) Operating,36.467471,-121.3845
+24355,62856,"Forefront Power, LLC",65526,CA-DGS RFP-Pleasant Valley State Prison,CA,Fresno,CISO,IPP Non-CHP,15112,2,2,2,Solar Photovoltaic,(OP) Operating,36.130814,-120.2529
+24356,62856,"Forefront Power, LLC",65528,CA - Fresno County - Juvenile Hall,CA,Fresno,CISO,IPP Non-CHP,17031,2.8,2.8,2.8,Solar Photovoltaic,(OP) Operating,36.661113,-119.726
+24523,59573,"Solar Star Prime 3, LLC",65562,Amazon Bakersfield 1 Solar Project,CA,Kern,CISO,IPP Non-CHP,ABFSP,4.3,4.2,1.6,Solar Photovoltaic,(OP) Operating,35.446616,-119.0509
+24526,64395,"Bay4 Energy Services, LLC",65564,Calibrant Bakersfield LLC,CA,Kern,CISO,IPP Non-CHP,BAKER,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,35.442085,-119.0932
+24529,64846,"Google, Inc.",65568,Google Moffett Park Solar Project,CA,Santa Clara,CISO,IPP Non-CHP,GMSP1,0.9,1,1,Solar Photovoltaic,(OP) Operating,37.405313,-122.0175
+24530,64846,"Google, Inc.",65568,Google Moffett Park Solar Project,CA,Santa Clara,CISO,IPP Non-CHP,GMSP2,0.7,0.7,0.5,Solar Photovoltaic,(OP) Operating,37.405313,-122.0175
+24533,64845,"Gilead Sciences, Inc. - La Verne",65569,Gilead Sciences La Verne Rooftop Solar,CA,Los Angeles,CISO,IPP Non-CHP,GSRSP,1.7,1.6,1.4,Solar Photovoltaic,(OP) Operating,34.09623,-117.7819
+24535,64878,West Valley-Mission Community College District,65570,West Valley Mission CCD Solar Project,CA,Santa Clara,CISO,IPP Non-CHP,WVMSP,2.7,2.5,0.9,Solar Photovoltaic,(OP) Operating,37.264377,-122.006
+24676,64905,"Solar Star Coastal Pirate, LLC",65614,Orange Coast College PH2 Solar Project,CA,Orange,CISO,IPP Non-CHP,OCCSP,3.1,3,2.7,Solar Photovoltaic,(OP) Operating,33.672565,-117.9125
+24677,62856,"Forefront Power, LLC",65615,CA - Madera USD - Madera South HS,CA,Madera,CISO,IPP Non-CHP,19009,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,36.95,-120.05
+24678,64872,"Distributed Solar Development, LLC",65617,BBARWA,CA,San Bernardino,CISO,IPP Non-CHP,3998G,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,34.267795,-116.8154
+24679,64872,"Distributed Solar Development, LLC",65617,BBARWA,CA,San Bernardino,CISO,IPP Non-CHP,P3998,0.7,0.7,0.7,Solar Photovoltaic,(OP) Operating,34.267795,-116.8154
+24711,63432,SkyHigh 2 Solar,65652,Niagara Bottling - Rialto,CA,San Bernardino,CISO,IPP Non-CHP,NBRIA,4.2,4.2,4.2,Solar Photovoltaic,(OP) Operating,34.126094,-117.4185
+24719,64946,EDPR CA Solar Park LLC,65663,Sandrini Solar 200,CA,Kern,CISO,IPP Non-CHP,GEN01,100,100,100,Solar Photovoltaic,(OP) Operating,35.1026,-119.0541
+24720,64947,EDPR CA Solar Park II LLC,65664,Sandrini Solar 100,CA,Kern,CISO,IPP Non-CHP,GEN02,200,200,200,Solar Photovoltaic,(OP) Operating,35.113189,-119.1105
+24731,64366,Terra-Gen Operating Co-Hybrid,65674,Edwards Sanborn E1B,CA,Kern,CISO,IPP Non-CHP,PV,154.4,154.4,154.4,Solar Photovoltaic,(OP) Operating,34.964033,-118.0941
+24733,64366,Terra-Gen Operating Co-Hybrid,65675,Edwards Sanborn E4,CA,Kern,CISO,IPP Non-CHP,PV,148.9,148.9,148.9,Solar Photovoltaic,(OP) Operating,34.943575,-118.088
+24735,64366,Terra-Gen Operating Co-Hybrid,65676,Edwards Sanborn E5,CA,Kern,CISO,IPP Non-CHP,PV,68,68,68,Solar Photovoltaic,(OP) Operating,34.965275,-118.0773
+24737,64366,Terra-Gen Operating Co-Hybrid,65677,Edwards Sanborn S4,CA,Kern,CISO,IPP Non-CHP,PV,41.2,41.2,41.2,Solar Photovoltaic,(OP) Operating,35.012467,-118.1193
+24762,63689,"Wonderful Renewable Energy, LLC.",65706,POM Juice Solar,CA,Fresno,CISO,IPP Non-CHP,PJS,1.5,1.5,1.3,Solar Photovoltaic,(OP) Operating,36.392479,-119.3511
+24763,63689,"Wonderful Renewable Energy, LLC.",65707,POM Beverage Solar,CA,Fresno,CISO,Industrial Non-CHP,PBS,1.8,1.7,1.6,Solar Photovoltaic,(OP) Operating,36.39026,-119.3579
+24764,64966,"Vikings Energy Farm, LLC",65711,Vikings Energy Farm,CA,Imperial,IID,IPP Non-CHP,GEN1,136.8,136.8,136.8,Solar Photovoltaic,(OP) Operating,32.803363,-115.2717
+24786,64971,IP Oberon LLC,65734,Oberon Solar Project,CA,Riverside,CISO,IPP Non-CHP,OBIPV,250,250,250,Solar Photovoltaic,(OP) Operating,33.72899,-115.3824
+24788,64972,"IP Oberon II, LLC",65735,Oberon II Solar Project,CA,Riverside,CISO,IPP Non-CHP,OBIIP,250,250,250,Solar Photovoltaic,(OP) Operating,33.72899,-115.3824
+24792,64948,"Canal Energy S23, LLC",65740,"Canal Energy S23, LLC",CA,Kings,CISO,IPP Non-CHP,21536,4.1,4.1,4.1,Solar Photovoltaic,(OP) Operating,36.1761,-119.5604
+24796,64995,"Victory Pass I, LLC",65743,Victory Pass,CA,Riverside,CISO,IPP Non-CHP,VCTPV,200,200,200,Solar Photovoltaic,(OP) Operating,33.701001,-115.3163
+24798,64996,"Arica Solar, LLC",65744,Arica Solar,CA,Riverside,CISO,IPP Non-CHP,ARCPV,263,263,263,Solar Photovoltaic,(OP) Operating,33.701001,-115.3163
+24820,64698,"Renewable Solar, Inc",65766,Dover Dairy,CA,Kings,CISO,Industrial Non-CHP,13856,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,36.415526,-119.5537
+24826,65023,Ventura Solar LLC,65770,Ventura Solar,CA,Ventura,CISO,IPP Non-CHP,SOLAR,2.9,2.9,2.9,Solar Photovoltaic,(OP) Operating,34.399199,-118.902
+24843,63689,"Wonderful Renewable Energy, LLC.",65783,Wonderful Nursery,CA,Kern,CISO,Industrial Non-CHP,WN01,2.3,2.3,2.3,Solar Photovoltaic,(OP) Operating,35.617738,-119.3924
+24850,61980,Valta Energy,65794,"20701 Plummer PV, LLC",CA,Los Angeles,LDWP,IPP Non-CHP,VSPRC,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,34.243444,-118.5852
+24873,63466,Conductive Power,65820,Ocotillo Wells,CA,San Diego,CISO,IPP Non-CHP,OWS,50,50,50,Solar Photovoltaic,(OP) Operating,33.074673,-116.0912
+24967,65147,"Java Solar, LLC",65965,"Java Solar, LLC",CA,Kings,CISO,IPP Non-CHP,JAVA,13.5,13.5,13.5,Solar Photovoltaic,(OP) Operating,36.233522,-119.8163
+24971,65154,Phelan Solar LLC,65970,Sheep Creek Community Solar Farm,CA,San Bernardino,CISO,IPP Non-CHP,1,3,3,3,Solar Photovoltaic,(OP) Operating,34.571845,-117.5762
+25018,62856,"Forefront Power, LLC",66023,Grossmont-Cuyamaca-Cuyamaca Col. Solar &,CA,San Diego,CISO,IPP Non-CHP,18009,1.4,1.4,1.4,Solar Photovoltaic,(OP) Operating,32.7466,-116.9389
+25031,60025,Greenbacker Renewable Energy Corporation,66035,IGS SBD1,CA,San Bernardino,LDWP,IPP Non-CHP,457,2.6,2.6,2.6,Solar Photovoltaic,(OP) Operating,34.038735,-117.3849
+25034,60025,Greenbacker Renewable Energy Corporation,66039,IGS SBD2,CA,San Bernardino,LDWP,IPP Non-CHP,457,2.5,2.5,2.5,Solar Photovoltaic,(OP) Operating,34.073555,-117.2814
+25081,65266,Putah Creek Solar Farms LLC,66088,Putah Creek Solar Farm North,CA,Yolo,CISO,IPP Non-CHP,PCEF,3,2.9,2.9,Solar Photovoltaic,(OP) Operating,38.524531,-121.9953
+25158,63689,"Wonderful Renewable Energy, LLC.",66188,POM Plant 1,CA,Fresno,CISO,Industrial Non-CHP,POMP1,2.4,2.2,1.3,Solar Photovoltaic,(OP) Operating,36.657094,-119.5857
+25159,63689,"Wonderful Renewable Energy, LLC.",66189,POM Plant 2,CA,Fresno,CISO,Industrial Non-CHP,POMP2,1.6,1.3,1.1,Solar Photovoltaic,(OP) Operating,36.656664,-119.5922
+25210,60531,Standard Solar,66242,Lake Elsinore Canopies - Lakeside HS,CA,Riverside,CISO,IPP Non-CHP,LSHS,1,1,1,Solar Photovoltaic,(OP) Operating,33.668,-117.383
+25233,65394,"Proxima Solar, LLC",66270,Proxima,CA,Stanislaus,CISO,IPP Non-CHP,PRXMA,190,190,190,Solar Photovoltaic,(OP) Operating,37.40035,-121.1628
+25264,63689,"Wonderful Renewable Energy, LLC.",66331,Wonderful Firebaugh,CA,Madera,CISO,Industrial Non-CHP,WFB01,5.4,5.4,5.4,Solar Photovoltaic,(OP) Operating,36.835981,-120.3205
+25265,63689,"Wonderful Renewable Energy, LLC.",66332,Wonderful Kings,CA,Kern,CISO,Industrial Non-CHP,WFK01,3.5,3.2,1.6,Solar Photovoltaic,(OP) Operating,35.769028,-119.8685
+25312,65474,"Signal Street Operating, LLC",66395,Alta Sea,CA,Los Angeles,LDWP,IPP Non-CHP,PV1,1.8,1.8,1.8,Solar Photovoltaic,(OP) Operating,33.719111,-118.2726
+25388,65522,"Blue Skies Solar, LLC",66466,"Blue Skies Solar, LLC",CA,Kern,PACW,IPP Non-CHP,43580,1,1,1,Solar Photovoltaic,(OP) Operating,34.98809,-118.9088
+25389,57313,Tesla Inc.,66468,Clovis High School,CA,Fresno,CISO,IPP Non-CHP,PV1,1,1,1,Solar Photovoltaic,(OP) Operating,36.817101,-119.6819
+25390,57313,Tesla Inc.,66469,Clovis East High School,CA,Fresno,CISO,IPP Non-CHP,PV1,1,1,1,Solar Photovoltaic,(OP) Operating,36.799669,-119.6406
+25391,57313,Tesla Inc.,66470,Clovis North High School,CA,Fresno,CISO,IPP Non-CHP,PV1,1,1,1,Solar Photovoltaic,(OP) Operating,36.890115,-119.7367
+25398,65513,Catalyze Mira Loma 3251 De Forest Circle Microgrid LLC,66476,CA Jurupa Valley 3251 De Forest Circle,CA,Riverside,CISO,IPP Non-CHP,18268,4.5,4.5,4.5,Solar Photovoltaic,(OP) Operating,34.026711,-117.5211
+25412,65537,Henry Miller Reclamation District,66492,Henry Miller RD,CA,Merced,CISO,Commercial Non-CHP,HMRD1,1.5,1.5,1,Solar Photovoltaic,(OP) Operating,37.0543,-120.6352
+25429,65555,West Tambo Clean Power II,66506,West Tambo Clean Power II,CA,Merced,CISO,IPP Non-CHP,WEST2,2,2,2,Solar Photovoltaic,(OP) Operating,37.360955,-120.7194
+25432,65514,Catalyze Manteca 730 Spreckels Avenue Microgrid LLC,66509,CA Manteca 730 Spreckels Ave,CA,San Joaquin,CISO,IPP Non-CHP,18259,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,37.788679,-121.1945
+25443,65534,Bright Canyon Energy,66532,BCE Los Alamitos 2,CA,Orange,CISO,IPP Non-CHP,BCE21,10,10,10,Solar Photovoltaic,(OP) Operating,33.7841,-118.0509
+25445,65534,Bright Canyon Energy,66533,BCE Los Alamitos 1,CA,Orange,CISO,IPP Non-CHP,BCE11,10,10,10,Solar Photovoltaic,(OP) Operating,33.7899,-118.0639
+25604,64904,AES Clean Energy,66598,Baldy Mesa Solar & Storage,CA,San Bernardino,CISO,IPP Non-CHP,BLDMS,150,150,150,Solar Photovoltaic,(OP) Operating,34.609183,-117.4543
+25607,60025,Greenbacker Renewable Energy Corporation,66603,IGS OXR1,CA,Ventura,CISO,IPP Non-CHP,454,4.8,4.8,4.8,Solar Photovoltaic,(OP) Operating,34.212521,-119.1297
+25652,65647,Resurgence Solar II,66620,Resurgence Solar II,CA,San Bernardino,CISO,IPP Non-CHP,GEN1,48,48,48,Solar Photovoltaic,(OP) Operating,35.00656,-117.5448
+25654,61980,Valta Energy,66622,9150 Hermosa Solar GM,CA,San Bernardino,CISO,IPP Non-CHP,VSPRC,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,34.0878,-117.5872
+25685,60531,Standard Solar,66667,City of Rosamond (CA),CA,Kern,CISO,IPP Non-CHP,ROSA,1,1,1,Solar Photovoltaic,(OP) Operating,34.835677,-118.1468
+25688,65677,Dimension Energy LLC,66676,Kings CSG 3 LLC Community Solar,CA,Kings,CISO,IPP Non-CHP,KING3,3,3,3,Solar Photovoltaic,(OP) Operating,36.24918,-119.8852
+25689,65677,Dimension Energy LLC,66677,Visalia CSG LLC,CA,Tulare,CISO,IPP Non-CHP,VISAL,3,3,3,Solar Photovoltaic,(OP) Operating,36.30677,-119.24
+25690,65677,Dimension Energy LLC,66679,Tulare CSG LLC,CA,Tulare,CISO,IPP Non-CHP,TULAR,3,3,3,Solar Photovoltaic,(OP) Operating,35.98738,-119.4804
+25699,61950,Terra-Gen Operating Co-Solar,66699,Lockhart Solar PV II,CA,San Bernardino,CISO,IPP Non-CHP,LOC2,84.4,75,75,Solar Photovoltaic,(OP) Operating,35.04351,-117.3489
+25705,65718,"AFTW Holdings, LLC",66713,Wheeler Ridge,CA,Kern,CISO,IPP Non-CHP,WHRPV,4.5,4.5,4.5,Solar Photovoltaic,(OP) Operating,35.082,-119.316
+25706,65719,"Crystal Farms Local Solar, LLC",66714,Crystal Farms Local Solar,CA,Fresno,CISO,IPP Non-CHP,CRYPV,3.5,3.5,3.5,Solar Photovoltaic,(OP) Operating,36.633807,-120.1771
+25707,65720,"Fresno Community Solar Developers, LLC",66715,Fresno Community Solar,CA,Fresno,CISO,IPP Non-CHP,FREPV,10,10,10,Solar Photovoltaic,(OP) Operating,36.696,-119.885
+25726,64872,"Distributed Solar Development, LLC",66733,Lost Hills Oilfield,CA,Kern,CISO,IPP Non-CHP,P4721,1.9,1.9,1.9,Solar Photovoltaic,(OP) Operating,35.65,-119.85
+25758,64904,AES Clean Energy,66772,Estrella Solar & Storage,CA,Los Angeles,CISO,IPP Non-CHP,ESPV,56,56,56,Solar Photovoltaic,(OP) Operating,34.807789,-118.3165
+25761,64904,AES Clean Energy,66773,Raceway Solar & Storage,CA,Los Angeles,CISO,IPP Non-CHP,RCWYS,125,125,125,Solar Photovoltaic,(OP) Operating,34.842388,-118.2862
+25775,64872,"Distributed Solar Development, LLC",66797,Agriculture Capital - Legacy Packing,CA,Tulare,CISO,IPP Non-CHP,P4376,1.6,1.6,1.6,Solar Photovoltaic,(OP) Operating,36.49466,-119.467
+25777,64872,"Distributed Solar Development, LLC",66799,Bishop Ranch - BR 1-Y,CA,Contra Costa,CISO,IPP Non-CHP,4087,0.7,0.7,0.7,Solar Photovoltaic,(OP) Operating,37.76217,-121.9579
+25779,64872,"Distributed Solar Development, LLC",66799,Bishop Ranch - BR 1-Y,CA,Contra Costa,CISO,IPP Non-CHP,4087G,0.2,0.2,0.2,Solar Photovoltaic,(OP) Operating,37.76217,-121.9579
+25780,64872,"Distributed Solar Development, LLC",66799,Bishop Ranch - BR 1-Y,CA,Contra Costa,CISO,IPP Non-CHP,4087R,0.2,0.2,0.2,Solar Photovoltaic,(OP) Operating,37.76217,-121.9579
+25781,64872,"Distributed Solar Development, LLC",66800,Bishop Ranch - BR 8-P,CA,Contra Costa,CISO,IPP Non-CHP,4976,1,1,1,Solar Photovoltaic,(OP) Operating,37.76819,-121.9666
+25788,65773,Renew Solar VMC LLC,66806,Vulcan San Emidio Solar,CA,Kern,CISO,IPP Non-CHP,15612,1.4,1.4,1.4,Solar Photovoltaic,(OP) Operating,35.049,-119.1812
+25790,65779,"SEPV Cuyama, LLC",66807,SEPV Cuyama Hybrid,CA,Santa Barbara,CISO,IPP Non-CHP,CUYA2,1.6,1.6,1.6,Solar Photovoltaic,(OP) Operating,34.904711,-119.585
+25791,65775,"RPCA Solar 1, LLC",66809,Avenue 26 Solar,CA,Madera,CISO,IPP Non-CHP,A26P1,2.6,2.6,2.6,Solar Photovoltaic,(OP) Operating,37.125754,-120.1788
+25792,65775,"RPCA Solar 1, LLC",66809,Avenue 26 Solar,CA,Madera,CISO,IPP Non-CHP,A26P2,5,5,5,Solar Photovoltaic,(OP) Operating,37.125754,-120.1788
+25825,65795,South County Packing,66863,Blackjack Solar,CA,Monterey,CISO,Industrial Non-CHP,BJK01,4,3.9,3.1,Solar Photovoltaic,(OP) Operating,36.181538,-121.0267
+25840,64904,AES Clean Energy,66885,Baldy Mesa 2_Silver Peak Hybrid,CA,San Bernardino,CISO,IPP Non-CHP,SPKPV,50,50,50,Solar Photovoltaic,(OP) Operating,34.609137,-117.4537
+25874,65859,EDPR Scarlet II LLC,66951,Scarlet II Hybrid,CA,Fresno,CISO,IPP Non-CHP,GEN03,200,200,200,Solar Photovoltaic,(OP) Operating,36.60369,-120.3757
+25910,65913,"Scooby Solar, LLC",67000,Cawelo Water District Solar,CA,Kern,CISO,Commercial Non-CHP,15612,2.5,2.5,1.8,Solar Photovoltaic,(OP) Operating,35.049,-119.1812
+25911,65912,"Sunny Cow Solar, LLC",67001,"Sunny Cow Solar, LLC",CA,Kern,CISO,IPP Non-CHP,93311,2,2,2,Solar Photovoltaic,(OP) Operating,35.2581,-119.1492
+25938,65949,Bravo REC Management LLC,67030,Elkhorn Dairy,CA,Tulare,CISO,Industrial Non-CHP,ELKHO,1,0.9,0.4,Solar Photovoltaic,(OP) Operating,36.47229,-119.3467
+25970,65869,Prologis Logistics Services Incorporated,67069,IPC 25 Solar,CA,San Joaquin,CISO,IPP Non-CHP,CV525,2.4,2.4,2.4,Solar Photovoltaic,(OP) Operating,37.739193,-121.5369
+25974,65949,Bravo REC Management LLC,67073,"Case Vander Eyk, Jr Dairy Solar",CA,Tulare,CISO,Industrial Non-CHP,CEYK,1.2,1.1,0.7,Solar Photovoltaic,(OP) Operating,35.972788,-119.3943
+25991,65965,"Crow Creek Solar, LLC",67092,Paulsell,CA,Stanislaus,CISO,IPP Non-CHP,PSLPV,20,20,20,Solar Photovoltaic,(OP) Operating,37.374065,-121.1352
+26047,66050,Solar Star Prime 4 LLC,67170,Amazon SAN3 Solar Project,CA,San Diego,CISO,IPP Non-CHP,ASSP,4.6,4.6,3.9,Solar Photovoltaic,(OP) Operating,32.566208,-116.9335
+26054,62856,"Forefront Power, LLC",67179,Cabrillo College,CA,Santa Cruz,CISO,IPP Non-CHP,19038,2.4,2.4,2.4,Solar Photovoltaic,(OP) Operating,36.987452,-121.9224
+26247,66065,"CTMW Solar, LLC",67365,Tejon Castac Water District Solar,CA,Kern,CISO,Commercial Non-CHP,17180,1.3,1.3,0.9,Solar Photovoltaic,(OP) Operating,35.0009,-118.8983
+26306,65949,Bravo REC Management LLC,67432,Double J Dairy Array,CA,Tulare,CISO,Industrial Non-CHP,DBL-J,4,4,4,Solar Photovoltaic,(OP) Operating,36.362673,-119.426
+26378,62856,"Forefront Power, LLC",67509,Grossmont College,CA,San Diego,CISO,IPP Non-CHP,19064,2.6,2.6,2.6,Solar Photovoltaic,(OP) Operating,32.816578,-117.0063
+26379,65949,Bravo REC Management LLC,67512,Lone Oak,CA,Kings,CISO,Industrial Non-CHP,LNOAK,2.9,2.9,2.9,Solar Photovoltaic,(OP) Operating,36.270566,-119.5182
+26383,66238,BluePath Solar Sacramento I LLC,67516,CSU Sacramento I,CA,Sacramento,BANC,IPP Non-CHP,59211,1.3,1.3,1.2,Solar Photovoltaic,(OP) Operating,38.553,-121.422
+26398,65677,Dimension Energy LLC,67533,RB Inyokern Solar WDAT 1203 (CSG),CA,Kern,CISO,IPP Non-CHP,INYO1,19.9,19.9,19.9,Solar Photovoltaic,(OP) Operating,35.655806,-117.8103
+26399,65677,Dimension Energy LLC,67534,RB Inyokern Solar WDAT 1281 (CSG),CA,Kern,CISO,IPP Non-CHP,INYO2,11.9,11.9,11.9,Solar Photovoltaic,(OP) Operating,35.659913,-117.8103
+26435,64698,"Renewable Solar, Inc",67602,Zonneveld Oak Grove,CA,Fresno,CISO,Industrial Non-CHP,17444,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.457362,-119.7636
+26436,64698,"Renewable Solar, Inc",67603,River Ranch Dairy,CA,Kings,CISO,Industrial Non-CHP,18821,4,4,4,Solar Photovoltaic,(OP) Operating,36.249006,-119.5829
+26502,66355,Bollinger Canyon Road BR 1-X Solar Project 2020,67743,Bishop Ranch BR 1-X,CA,Contra Costa,CISO,IPP Non-CHP,4057C,0.6,0.6,0.6,Solar Photovoltaic,(OP) Operating,37.759761,-121.956
+26503,66355,Bollinger Canyon Road BR 1-X Solar Project 2020,67743,Bishop Ranch BR 1-X,CA,Contra Costa,CISO,IPP Non-CHP,4057R,0.3,0.3,0.3,Solar Photovoltaic,(OP) Operating,37.759761,-121.956
+26507,60531,Standard Solar,67746,Highway 43 1887-WD,CA,Kern,CISO,IPP Non-CHP,HWY43,2.3,2.3,2.3,Solar Photovoltaic,(OP) Operating,35.528089,-119.311
+26508,60531,Standard Solar,67747,Nachtigall 1836-WD,CA,Kern,CISO,IPP Non-CHP,NACHT,4.6,4.6,4.6,Solar Photovoltaic,(OP) Operating,35.608721,-119.3258
+26509,60531,Standard Solar,67748,Terry 1818-WD,CA,Kern,CISO,IPP Non-CHP,TERRY,4.6,4.6,4.6,Solar Photovoltaic,(OP) Operating,35.607804,-119.3288
+26510,60531,Standard Solar,67750,Kern Sunset 1886-WD,CA,Kern,CISO,IPP Non-CHP,WEEDP,2.4,2.4,2.4,Solar Photovoltaic,(OP) Operating,35.220668,-118.9089
+26538,65949,Bravo REC Management LLC,67793,Open Sky Ranch Inc,CA,Fresno,CISO,Industrial Non-CHP,OPSKY,1.7,1.7,1.7,Solar Photovoltaic,(OP) Operating,36.46052,-120.0305
+26539,60520,SoCore Energy LLC,67794,City of Atwater NEM,CA,Merced,CISO,IPP Non-CHP,PV1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,37.274,-120.629
+26559,65949,Bravo REC Management LLC,67820,Dixie Creek Dairy Solar,CA,Kings,CISO,Industrial Non-CHP,DXCRK,2.9,2.9,2.1,Solar Photovoltaic,(OP) Operating,36.29907,-119.5002
+26570,66410,"127 CVF, LLC",67835,Costa View Farms,CA,Madera,CISO,IPP Non-CHP,64544,10,10,10,Solar Photovoltaic,(OP) Operating,36.99,-120.308
+26576,66425,Delta Electronics (Americas) Ltd,67853,Delta Electronics Fremont,CA,Alameda,CISO,Industrial Non-CHP,PV1,0.6,0.6,0.6,Solar Photovoltaic,(OP) Operating,37.48963,-121.949
+26577,66425,Delta Electronics (Americas) Ltd,67853,Delta Electronics Fremont,CA,Alameda,CISO,Industrial Non-CHP,PV4,0.4,0.4,0.4,Solar Photovoltaic,(OP) Operating,37.48963,-121.949
+26585,65949,Bravo REC Management LLC,67863,TWC,CA,Tulare,CISO,Industrial Non-CHP,TWC,1.2,1.2,1,Solar Photovoltaic,(OP) Operating,36.122809,-119.4477
+26588,60584,Onyx Asset Services Group,67866,Paso Robles - Municipal Airport,CA,San Luis Obispo,CISO,IPP Non-CHP,10221,3,3,3,Solar Photovoltaic,(OP) Operating,35.679378,-120.6359
+26589,66438,Harris Farms Inc,67868,Harris Farms Solar Facility,CA,Fresno,CISO,Industrial Non-CHP,HF1,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,36.253184,-120.2293
+26606,63689,"Wonderful Renewable Energy, LLC.",67913,Wonderful Orchards - West Valley,CA,Kern,CISO,Industrial Non-CHP,WOWV,3,3,3,Solar Photovoltaic,(OP) Operating,35.658203,-119.973
+26635,66541,"Solar DG CA Long Beach, LLC",67994,City of Long Beach Airport Lot A & B,CA,Los Angeles,LDWP,IPP Non-CHP,COLBA,1.8,1.2,0.9,Solar Photovoltaic,(OP) Operating,33.81516,-118.1412
+26637,58759,Perpetual Energy Systems,68016,Hollister Wastewater Facility,CA,San Benito,CISO,IPP Non-CHP,HOLWF,1,1,1,Solar Photovoltaic,(OP) Operating,36.857193,-121.4459
+26639,66559,Leprino Foods,68027,Lemoore West,CA,Kings,CISO,Industrial Non-CHP,LEW1,7.9,7.9,7.9,Solar Photovoltaic,(OP) Operating,36.30018,-119.8214
+26640,61980,Valta Energy,68038,KDC Solar Madera LLC,CA,Madera,BANC,IPP Non-CHP,VSPRC,10,10,10,Solar Photovoltaic,(OP) Operating,36.926,-120.104
+26653,66574,EDPRNA DG CA Livermore LLC,68064,CA- US Foods- Livermore,CA,Alameda,CISO,IPP Non-CHP,USFL,1.2,1.2,1.2,Solar Photovoltaic,(OP) Operating,37.711625,-121.7085
+26666,65869,Prologis Logistics Services Incorporated,68151,Mountain View Ind Park 1-sline001,CA,San Bernardino,CISO,IPP Non-CHP,IE001,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,34.050209,-117.4604
+26681,65043,Madison Energy Investments LLC,68220,North Kern 2,CA,Kern,CISO,IPP Non-CHP,NK2PV,2.5,2.5,2.5,Solar Photovoltaic,(OP) Operating,35.4678,-119.1536
+26682,65043,Madison Energy Investments LLC,68221,North Kern 1,CA,Kern,CISO,IPP Non-CHP,NK1PV,2.5,2.5,2.5,Solar Photovoltaic,(OP) Operating,35.4691,-119.169
+26688,60520,SoCore Energy LLC,68265,South County Detention Center Solar,CA,Tulare,CISO,IPP Non-CHP,PV1,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,36.039,-119.061
+26690,60520,SoCore Energy LLC,68266,North Juvenile Detention Center Solar,CA,Tulare,CISO,IPP Non-CHP,PV1,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,36.461,-119.32
+26691,60520,SoCore Energy LLC,68267,Government Plaza Solar,CA,Tulare,CISO,IPP Non-CHP,PV1,1.1,1.1,1.1,Solar Photovoltaic,(OP) Operating,36.278,-119.317
+26692,60520,SoCore Energy LLC,68268,Tulare Akers Professional Center,CA,Tulare,CISO,IPP Non-CHP,PV1,1,1,1,Solar Photovoltaic,(OP) Operating,36.322,-119.351
+26693,60520,SoCore Energy LLC,68269,Bob Wiley Detention Center,CA,Tulare,CISO,IPP Non-CHP,PV1,1.8,1.8,1.8,Solar Photovoltaic,(OP) Operating,36.454,-119.312
+26694,60520,SoCore Energy LLC,68270,Civic Center East,CA,Tulare,CISO,IPP Non-CHP,PV1,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.33,-119.317
+26741,65043,Madison Energy Investments LLC,68395,Wheeler Ridge 2,CA,Kern,CISO,IPP Non-CHP,WR2PV,5,5,5,Solar Photovoltaic,(OP) Operating,34.9846,-118.9085
+26753,61980,Valta Energy,68409,"VS RXI Mason-Chatsworth, LLC",CA,Los Angeles,LDWP,IPP Non-CHP,VSPRC,1.8,1.8,1.8,Solar Photovoltaic,(OP) Operating,34.235,-118.579
+26765,66794,Sutter Santa Rosa Solar LLC,68440,Sutter Santa Rosa Solar,CA,Sonoma,CISO,IPP Non-CHP,693,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,38.494525,-122.752
+26781,64698,"Renewable Solar, Inc",68471,Open Sky Dairy,CA,Fresno,CISO,Industrial Non-CHP,18880,1.7,1.7,1.7,Solar Photovoltaic,(OP) Operating,36.459935,-120.0298
+26790,66897,Barrier Solar Inc,68521,JD Foods - JD Foods,CA,Fresno,CISO,Commercial Non-CHP,JDF,1.5,1.5,1.5,Solar Photovoltaic,(OP) Operating,36.70185,-119.7459
+26791,65539,Pivot Energy,68532,Pivot Energy PPA 22,CA,Tulare,CISO,IPP Non-CHP,PPA22,1.3,1.3,1.3,Solar Photovoltaic,(OP) Operating,36.347335,-119.3957
+26792,65949,Bravo REC Management LLC,68533,Blue Moon Farms,CA,Tulare,CISO,Industrial Non-CHP,BMOON,1,0.9,0.7,Solar Photovoltaic,(OP) Operating,36.028854,-119.4015
+26794,66922,Pacifico Power,68547,Tipton 1 - (CA),CA,Tulare,CISO,IPP Non-CHP,TIP1S,4.2,4.2,4.2,Solar Photovoltaic,(OP) Operating,36.050157,-119.3147
+26796,66922,Pacifico Power,68548,Tipton 2 - (CA),CA,Tulare,CISO,IPP Non-CHP,TIP2S,2.1,2.1,2.1,Solar Photovoltaic,(OP) Operating,36.050157,-119.3147
+26798,66953,United Parcel Service,68575,Visalia Solar,CA,Tulare,CISO,Commercial Non-CHP,UPSV1,2.5,2.5,2.5,Solar Photovoltaic,(OP) Operating,36.36139,-119.3926
